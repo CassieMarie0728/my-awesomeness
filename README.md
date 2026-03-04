@@ -198,6 +198,7 @@ A collection of awesome things.
 - [google/note-maps](https://github.com/google/note-maps) - A personal knowledge base, an experimental project under development.
 - [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
+- [igor-kupczynski/notion-exporter](https://github.com/igor-kupczynski/notion-exporter) - An experiment to export my notion workspace into a set of markdown files
 - [modood/hdkeygen](https://github.com/modood/hdkeygen) - This is a very simple and easy-to-use key/wallet generator for Bitcoin (BTC) and Ethereum (ETH). It's implemented in Golang and incorporates the BIP32, BIP39, BIP43, BIP44, BIP49, BIP84, BIP86, BIP173, SLIP44, and EIP55 protocols. This allows for the creation of keys, mnemonic seeds, and Hierarchical Deterministic (HD) addresses.
 - [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
@@ -208,6 +209,7 @@ A collection of awesome things.
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [schmenn/sherlock](https://github.com/schmenn/sherlock) - searches social media sites for usernames
 - [txthinking/socks5](https://github.com/txthinking/socks5) - SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
+- [xzebra/notion-blog](https://github.com/xzebra/notion-blog) - 
 
 ## Go Template
 
@@ -633,6 +635,7 @@ A collection of awesome things.
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
 - [cassiobotaro/certificates](https://github.com/cassiobotaro/certificates) - :mortar_board: Generate event certificates easily
 - [chr-peters/SwagbucksBot](https://github.com/chr-peters/SwagbucksBot) - 
+- [cicirello/generate-sitemap](https://github.com/cicirello/generate-sitemap) - Generate an XML sitemap for a GitHub Pages site using GitHub Actions
 - [daluna-hub/username_search](https://github.com/daluna-hub/username_search) - Find any online profiles on an username.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
@@ -774,6 +777,7 @@ A collection of awesome things.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [SirManishKumar/MNSAllTools](https://github.com/SirManishKumar/MNSAllTools) - A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under.
+- [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
 - [TermuxHackz/anonphisher](https://github.com/TermuxHackz/anonphisher) - Automated phishing tool made by AnonyminHack5 to phish various sites with 30+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim.  Anonphisher tool is made with pure bash script and needs required packages for it to work. 
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
@@ -801,6 +805,7 @@ A collection of awesome things.
 - [mukeshkumarcharak/termux-snippets](https://github.com/mukeshkumarcharak/termux-snippets) - An integrated tool and a collection of snippets which helps in the various aspects of the terminal.
 - [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling
 - [noob-hackers/mrphish](https://github.com/noob-hackers/mrphish) - All In One Social Accounts Phishing With Otp Bypass In Termux.
+- [onejar99/gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [siyuan-note/template-sample](https://github.com/siyuan-note/template-sample) - SiYuan template sample
@@ -875,12 +880,14 @@ A collection of awesome things.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
+- [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [nexterias/actions-vercel](https://github.com/nexterias/actions-vercel) - Deploy to Vercel with GitHub Actions
 - [nextjs/deploy-github-pages](https://github.com/nextjs/deploy-github-pages) - Next.js template to deploy to GitHub Pages as a static site.
 - [nfroidure/gulp-svg2ttf](https://github.com/nfroidure/gulp-svg2ttf) - Create a TTF font from an SVG font
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and output an SVG font
