@@ -105,6 +105,7 @@ A collection of awesome things.
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [ptedeschi/NFT.net](https://github.com/ptedeschi/NFT.net) - An engine developed with .NET Core to generate NFT's through a graphical interface. Simple as that, in the best Grab & Go style.
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [webmaster442/BookGen](https://github.com/webmaster442/BookGen) - A C# book generator, similar to GitBook, but better
 - [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Remember to Star us! Download from certifytheweb.com
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
 - [zacbre/Socks5](https://github.com/zacbre/Socks5) - A full-fledged high-performance socks5 proxy server written in C#. Plugin support included.
@@ -405,7 +406,6 @@ A collection of awesome things.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
 - [tomchen/font-template](https://github.com/tomchen/font-template) - Simplest way to create your own font with Adobe Illustrator and FontForge 🔤
 - [untitleduico/icons](https://github.com/untitleduico/icons) - Untitled UI Icons are a clean, consistent, and neutral icon library crafted for modern UI design.
-- [webmaster442/BookGen](https://github.com/webmaster442/BookGen) - A C# book generator, similar to GitBook, but better
 - [xda/XDA-Labs-Store-UI](https://github.com/xda/XDA-Labs-Store-UI) - XDA Labs Store interface
 
 ## Jupyter Notebook
