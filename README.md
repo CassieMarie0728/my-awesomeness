@@ -541,7 +541,7 @@ A collection of awesome things.
 
 ## PowerShell
 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [Sterh20/note-taking-templates](https://github.com/Sterh20/note-taking-templates) - A repo for original note-taking templates, notebook covers for E-Ink readers, and a grid generator made in Figma
 - [esoltys/Repo-Documenter](https://github.com/esoltys/Repo-Documenter) - Repo-Documenter is a PowerShell script that generates comprehensive documentation for a repository, including a tree view of the repository structure and the contents of specified files. The aggregated file is useful for code review, documentation, or use by an AI assistant.
 
