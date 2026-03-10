@@ -313,6 +313,7 @@ A collection of awesome things.
 - [k3b/APhotoManager](https://github.com/k3b/APhotoManager) - Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .
 - [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
 - [leclem/androidappfromwebsite](https://github.com/leclem/androidappfromwebsite) - Android app displaying a website, supporting Facebook connect and displaying a loading bar when the user is loading a page
+- [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [nextcloud/notes-android](https://github.com/nextcloud/notes-android) - ✎ Android client for Nextcloud Notes app.
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
