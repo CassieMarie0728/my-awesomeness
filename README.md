@@ -31,6 +31,7 @@ A collection of awesome things.
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [Nim](#nim)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -43,6 +44,7 @@ A collection of awesome things.
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Smali](#smali)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -192,6 +194,7 @@ A collection of awesome things.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+- [alfonsusenrico/documentation-generator](https://github.com/alfonsusenrico/documentation-generator) - AI‑assisted proposal and project scaffold generator that turns raw plans into polished docs and initializes repos with templates and CI/CD.
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [coyove/goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
@@ -226,7 +229,7 @@ A collection of awesome things.
 - [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish) - Modded version of shellphish. Mod Features are Colourized Text, Animations, In built setup for Termux, Extra features, More improvements, Bugs cleared, Fixed URL not showing.
 - [AuraFriday/mcp-link](https://github.com/AuraFriday/mcp-link) - Let AI agents like ChatGPT & Claude use real-world local/remote tools you approve via browser extension + optional MCP server
 - [Borg-Creative-Studios/bcs-author-web](https://github.com/Borg-Creative-Studios/bcs-author-web) - BCS Author web is a new, browser based writing app that is free for anyone!
-- [CassieMarie0728/cassie-marie](https://github.com/CassieMarie0728/cassie-marie) - 
+- [CassieMarie0728/cassie-marie](https://github.com/CassieMarie0728/cassie-marie) - Home of THE AFTERMATH DIARIES
 - [Cyber-Anonymous/Dark-Phish](https://github.com/Cyber-Anonymous/Dark-Phish) - A Powerful Phishing Tool with 50+ phishing templates. For more about Dark-Phish tool please visit the website.
 - [Devil-Tigers/CamHack](https://github.com/Devil-Tigers/CamHack) - Best Front Camera Hacking Tool very Fast and easy hack Front Camera by sending a LINK 
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
@@ -237,6 +240,7 @@ A collection of awesome things.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
+- [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
 - [bengabay11/phisher-god](https://github.com/bengabay11/phisher-god) - a tool for phishing social media accounts
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -272,6 +276,7 @@ A collection of awesome things.
 - [thehackingsage/fluxion](https://github.com/thehackingsage/fluxion) - WiFi Cracking Tool (Using Evil Twin Attack) With Some Modification. (Only For Legal Purposes)
 - [wavegu/MailSearcher](https://github.com/wavegu/MailSearcher) - given person's name, search for his possible emails
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
+- [williyam-m/repo2doc](https://github.com/williyam-m/repo2doc) - AI-powered repository-to-documentation generator with quick code insights
 
 ## Haskell
 
@@ -340,6 +345,7 @@ A collection of awesome things.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [AppFlowy-IO/AppFlowy-Website](https://github.com/AppFlowy-IO/AppFlowy-Website) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
+- [BenDol/GithubWikiTemplate](https://github.com/BenDol/GithubWikiTemplate) - 
 - [Capgemini/template-github-copilot](https://github.com/Capgemini/template-github-copilot) - A template repository with GitHub Copilot default configurations
 - [CassieMarie0728/c728-author](https://github.com/CassieMarie0728/c728-author) - Free subdomains for personal sites, open-source projects, and more.
 - [CassieMarie0728/the-fork](https://github.com/CassieMarie0728/the-fork) - Speak to the you who lived the life you didn’t choose. One session. No history. No comfort.
@@ -356,6 +362,8 @@ A collection of awesome things.
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [Michal2SAB/Bitcoin-Stealer](https://github.com/Michal2SAB/Bitcoin-Stealer) - Generate random bitcoin wallets, private keys (seeds) and then check if they match a wallet that contains some kind of balance, and then take it. Node.js
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
+- [Prajwalkadam29/repo-documentation-generator](https://github.com/Prajwalkadam29/repo-documentation-generator) - Transform your codebase into production-grade documentation in seconds.
+- [SSAgov/repo-documentation-generator](https://github.com/SSAgov/repo-documentation-generator) - A single page application for generating a codeMetadata.json, README.md, GETTING-STARTED.md, CONTRIBUTING.md, BACKLOG.md and CHANGELOG.md. The codeMetadata.json file contains basic data about a code asset such as it's name, office, hosted instances, and the like.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Stardown-app/Stardown](https://github.com/Stardown-app/Stardown) - Copy the web as markdown
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -369,6 +377,7 @@ A collection of awesome things.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Proof of concept. Code snippets manager for developers. PWA. 
+- [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [electricbookworks/epub-to-app](https://github.com/electricbookworks/epub-to-app) - Turn an epub into a very rudimentary Android app
 - [evil-icons/evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
@@ -385,10 +394,12 @@ A collection of awesome things.
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [isDipesh/EmailSpy](https://github.com/isDipesh/EmailSpy) - Searches profiles on social networks and sites by the e-mail address found on web pages
+- [its-rahul-r15/repo-docgen](https://github.com/its-rahul-r15/repo-docgen) - Automatic documentation generator that analyzes your repository and produces structured README files.
 - [jasongrimes/jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook) - GitHub Pages-compatible Jekyll theme for a book with chapters and parts in a style reminiscent of GitBook.
 - [johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write and format your next book directly from Obsidian
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
+- [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
@@ -431,7 +442,7 @@ A collection of awesome things.
 - [pavelkomarov/exportify](https://github.com/pavelkomarov/exportify) - Export Spotify playlists using the Web API. Analyze them in the Jupyter notebook.
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [tyc0on/GPT-SoVITS-colab](https://github.com/tyc0on/GPT-SoVITS-colab) - Colab for GPT-SoVITS
-- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning Tutorial Notebooks on Google Colab, Kaggle and more.
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks on Google Colab and Kaggle.
 
 ## Kotlin
 
@@ -480,6 +491,8 @@ A collection of awesome things.
 
 ## Markdown
 
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [scottgriv/PRG-Personal-Repository-Guidelines](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) - 🧑‍💻 📃 Revolutionize your GitHub Portfolio with the PRG framework. Utilizing GitHub Actions, it auto-generates a categorized display for organized, impactful repository presentation. Includes essential guidelines and templates for READMEs and repository structure.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -490,6 +503,10 @@ A collection of awesome things.
 ## Nim
 
 - [openpeeps/booyaka](https://github.com/openpeeps/booyaka) - [WIP] Booyaka 👻 A fast documentation generator for cool kids!
+
+## Nunjucks
+
+- [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator.
 
 ## OCaml
 
@@ -575,6 +592,7 @@ A collection of awesome things.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+- [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
 - [Gauff/EpubToAudioBookConverter](https://github.com/Gauff/EpubToAudioBookConverter) - Convert EPUB files to MP3 audio books with ease using this intuitive and user-friendly converter that allows you to select voices and playback settings with just a few clicks.
 - [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
@@ -599,6 +617,7 @@ A collection of awesome things.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
+- [SKGEzhil/ai-docs-generator](https://github.com/SKGEzhil/ai-docs-generator) - API Documentation and Readme generator using Langchain and RAG. Analyses the github repo and generates documentation automatically
 - [SayanoAI/RVC-Studio](https://github.com/SayanoAI/RVC-Studio) - The best looking and most functional webui for RVC related tasks. See website for UI demo:
 - [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
@@ -758,6 +777,7 @@ A collection of awesome things.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## SCSS
@@ -824,6 +844,10 @@ A collection of awesome things.
 - [AhMyth/AhMyth-Android-RAT](https://github.com/AhMyth/AhMyth-Android-RAT) - Android Remote Administration Tool
 - [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY) - XploitSPY is an Android Monitoring Tool 
 
+## Svelte
+
+- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
+
 ## TeX
 
 - [jfogarty/latex-nonfiction-ebook-template](https://github.com/jfogarty/latex-nonfiction-ebook-template) - A LaTeX template for typesetting a professional print-on-demand nonfiction technical book, eBook (.epub, .mobi), and website
@@ -863,6 +887,7 @@ A collection of awesome things.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
+- [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [fayyozbobokulov/fakeReceiptMaker](https://github.com/fayyozbobokulov/fakeReceiptMaker) - 
@@ -915,6 +940,7 @@ A collection of awesome things.
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
 - [solrachix/icons-manager](https://github.com/solrachix/icons-manager) - A desktop icon manager application
 - [sreyas-cheviri/consciousapp](https://github.com/sreyas-cheviri/consciousapp) - Consciousapp: A second brain web app to save and search links, notes, & other media from various sources effortlessly.
+- [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supermemoryai/install-mcp](https://github.com/supermemoryai/install-mcp) - A simple CLI to install MCP servers into any client - auth included!
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
@@ -999,6 +1025,7 @@ A collection of awesome things.
 - [derberg/awesome-docs-with-static-site-generators](https://github.com/derberg/awesome-docs-with-static-site-generators) - Pointers to all templates and implementations based on static site generators
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
+- [dominiksalvet/template](https://github.com/dominiksalvet/template) - Template for repositories with GitHub features
 - [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
@@ -1021,6 +1048,7 @@ A collection of awesome things.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of open-source, free as in freedom software.
+- [jonhadfield/awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes) - A curated list of tools and information relating to Standard Notes.
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 Yet another collection of wordlists
@@ -1031,9 +1059,11 @@ A collection of awesome things.
 - [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations) - Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community.
 - [luciddreamer111/common-passwords](https://github.com/luciddreamer111/common-passwords) - This Git repository contains a .txt file with a collection of 40,000 words. Can be used for data analysis, registration blocks on websites, and more.
 - [lukecav/awesome-woocommerce](https://github.com/lukecav/awesome-woocommerce) - Plugins and code snippets to improve your WooCommerce store.
+- [manuscripts/book-starter](https://github.com/manuscripts/book-starter) - Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) - Mirror of https://i.mjh.nz + issues / feature requests
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
+- [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
 - [nblavoie/wyzecam-desktop](https://github.com/nblavoie/wyzecam-desktop) - Wyzecam desktop is a desktop client that lets you visualize your Wyzecams live feed on your Mac, PC or Linux.
