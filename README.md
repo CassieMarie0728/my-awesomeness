@@ -212,6 +212,7 @@ A collection of awesome things.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [schmenn/sherlock](https://github.com/schmenn/sherlock) - searches social media sites for usernames
+- [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [txthinking/socks5](https://github.com/txthinking/socks5) - SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 - [xzebra/notion-blog](https://github.com/xzebra/notion-blog) - 
 
@@ -442,7 +443,7 @@ A collection of awesome things.
 - [pavelkomarov/exportify](https://github.com/pavelkomarov/exportify) - Export Spotify playlists using the Web API. Analyze them in the Jupyter notebook.
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [tyc0on/GPT-SoVITS-colab](https://github.com/tyc0on/GPT-SoVITS-colab) - Colab for GPT-SoVITS
-- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks on Google Colab and Kaggle.
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
 
 ## Kotlin
 
@@ -638,6 +639,7 @@ A collection of awesome things.
 - [Zard2007/Gmail-Hack](https://github.com/Zard2007/Gmail-Hack) - Easy gmail hacking in python
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [abbasbeydoun/Python-PDF417-Driver-s-License-decoder](https://github.com/abbasbeydoun/Python-PDF417-Driver-s-License-decoder) - This is a quick script to decode PDF417 driver's license data (The type of barcode used on most US and Canada Driver's licenses). Instruction on how to use are in readme
+- [abirxdhack/WebsiteSourceDl](https://github.com/abirxdhack/WebsiteSourceDl) - Welcome to the Web Source Downloader Bot This bot allows you to download the source code of any webpage effortlessly.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [adobe-type-tools/opentype-svg](https://github.com/adobe-type-tools/opentype-svg) - Tools and sample files for making OpenType-SVG fonts
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
@@ -828,7 +830,6 @@ A collection of awesome things.
 - [noob-hackers/mrphish](https://github.com/noob-hackers/mrphish) - All In One Social Accounts Phishing With Otp Bypass In Termux.
 - [onejar99/gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
-- [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [siyuan-note/template-sample](https://github.com/siyuan-note/template-sample) - SiYuan template sample
 - [tdharris/openssl-toolkit](https://github.com/tdharris/openssl-toolkit) - This is an OpenSSL certificate toolkit, a simple cli utility leveraging OpenSSL's CLI for Linux.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
@@ -1030,7 +1031,7 @@ A collection of awesome things.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [gitpress-io/boilerplate](https://github.com/gitpress-io/boilerplate) - GitPress repo boilerplate
@@ -1112,6 +1113,6 @@ A collection of awesome things.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-- [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 8209+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
+- [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 8615+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
