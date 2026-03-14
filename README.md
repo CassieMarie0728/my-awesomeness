@@ -665,7 +665,6 @@ A collection of awesome things.
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [duplaja/epub-to-audiobook-hf](https://github.com/duplaja/epub-to-audiobook-hf) - Epub to MB4 Audiobook, with StyleTTS2 via HuggingFace Spaces API
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [esfelurm/android-ransomware](https://github.com/esfelurm/android-ransomware) - A ransomware for Android!  
