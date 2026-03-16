@@ -498,7 +498,7 @@ A collection of awesome things.
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [scottgriv/PRG-Personal-Repository-Guidelines](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) - 🧑‍💻 📃 Revolutionize your GitHub Portfolio with the PRG framework. Utilizing GitHub Actions, it auto-generates a categorized display for organized, impactful repository presentation. Includes essential guidelines and templates for READMEs and repository structure.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Meson
 
