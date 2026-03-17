@@ -705,6 +705,7 @@ A collection of awesome things.
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 - [mateogon/pdf-narrator](https://github.com/mateogon/pdf-narrator) - Convert your PDFs and EPUBs into audiobooks effortlessly. Features intelligent text extraction, customizable text-to-speech settings, and efficient processing for low-resource systems.
 - [mazen160/shennina](https://github.com/mazen160/shennina) - Automating Host Exploitation with AI
+- [meetpandya27/plaidify](https://github.com/meetpandya27/plaidify) - Open-source API for authenticated web data extraction. Like Plaid, but for any website. Browser automation + JSON blueprints + MFA support. Try the GreenGrid Energy demo!
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/holehe-maltego](https://github.com/megadose/holehe-maltego) - Holehe transform for maltego
 - [mfr-fr/sms-sender](https://github.com/mfr-fr/sms-sender) - This script in python allows to send messages anonymously
