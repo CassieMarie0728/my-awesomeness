@@ -35,6 +35,7 @@ A collection of awesome things.
 - [OCaml](#ocaml)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Python](#python)
@@ -77,7 +78,6 @@ A collection of awesome things.
 - [Frago9876543210/web-cam-bruteforcer](https://github.com/Frago9876543210/web-cam-bruteforcer) - 
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [SMH17/bitcoin-hacking-tools](https://github.com/SMH17/bitcoin-hacking-tools) - The source code of main tools used in Bitcoin "non-malware-based" attacks.
-- [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket
 - [hashcat/kwprocessor](https://github.com/hashcat/kwprocessor) - Advanced keyboard-walk generator with configureable basechars, keymap and routes
 - [hashcat/maskprocessor](https://github.com/hashcat/maskprocessor) - High-Performance word generator with a per-position configureable charset
@@ -372,6 +372,7 @@ A collection of awesome things.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [aceh0und/swagbot](https://github.com/aceh0und/swagbot) - Automated bot that gets you SB on Swagbucks Effortlessly! ;)
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
+- [anfernee-create/notion-ai-resources](https://github.com/anfernee-create/notion-ai-resources) - A comprehensive collection of Notion resources, templates, AI integrations, and guides for solopreneurs and productivity enthusiasts
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [bhulston/bookmark_plugin](https://github.com/bhulston/bookmark_plugin) - A better alternative to Chrome Bookmarks for Obsidian users. Customize templates on the fly and either append to existing notes, create new notes, or do both!
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
@@ -418,7 +419,7 @@ A collection of awesome things.
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
 - [siyuan-note/theme-sample](https://github.com/siyuan-note/theme-sample) - SiYuan theme sample
 - [squireChuck/us-states-ref-client](https://github.com/squireChuck/us-states-ref-client) - Cheatsheet of info related to U.S. states, e.g. sample addresses, driver's license formats, etc.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
 - [tomchen/font-template](https://github.com/tomchen/font-template) - Simplest way to create your own font with Adobe Illustrator and FontForge 🔤
 - [untitleduico/icons](https://github.com/untitleduico/icons) - Untitled UI Icons are a clean, consistent, and neutral icon library crafted for modern UI design.
@@ -444,6 +445,7 @@ A collection of awesome things.
 - [mrm8488/shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks) - A Repo to store the Google Colaboratory Notebooks that I have created and shared
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [pavelkomarov/exportify](https://github.com/pavelkomarov/exportify) - Export Spotify playlists using the Web API. Analyze them in the Jupyter notebook.
+- [philffm/chatgpt-sync-analyze-notion](https://github.com/philffm/chatgpt-sync-analyze-notion) - Analyse your ChatGPT conversations locally and sync them to Notion
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [tyc0on/GPT-SoVITS-colab](https://github.com/tyc0on/GPT-SoVITS-colab) - Colab for GPT-SoVITS
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
@@ -563,6 +565,10 @@ A collection of awesome things.
 - [EtheaDev/IconFontsImageList](https://github.com/EtheaDev/IconFontsImageList) - Four advanced components to simplify use of Icon Fonts as images and ImageList: TIconFontImage, TIconFontsImageCollection, TIconFontsVirtualImageList, TIconFontsImageList (for VCL and FMX). Full support for High-DPI apps. Rendering optimized with GDI+
 - [delphidabbler/codesnip](https://github.com/delphidabbler/codesnip) - A code bank designed with Pascal in mind
 
+## PostScript
+
+- [adobe-type-tools/afdko](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType
+
 ## PowerShell
 
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
@@ -620,6 +626,7 @@ A collection of awesome things.
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) - Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
 - [OpenBookPublishers/epublius](https://github.com/OpenBookPublishers/epublius) - Generates a stylised HTML site from an ePub book
+- [Pls-1q43/ChatGPT-Chat-History-To-Notion](https://github.com/Pls-1q43/ChatGPT-Chat-History-To-Notion) - A simple script to import all your chats in ChatGPT into Notion.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
