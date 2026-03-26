@@ -405,6 +405,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
@@ -494,6 +495,7 @@ A collection of awesome things.
 ## Makefile
 
 - [MichaelCurrin/dev-cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets) - A collection of code snippets and CLI guides for quick and easy reference while coding
+- [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 
@@ -711,7 +713,6 @@ A collection of awesome things.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [krishpranav/AndroidRansome](https://github.com/krishpranav/AndroidRansome) - A simple android ransomeware tool built in python
 - [lloydamiller/socialfinder](https://github.com/lloydamiller/socialfinder) - Find social media accounts with email and/or usernames
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [lpenz/atdtool](https://github.com/lpenz/atdtool) - Command-line interface for After the Deadline language checker
 - [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner) - Will Search Various Platforms to Confirm An Email Exists.
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
@@ -824,7 +825,6 @@ A collection of awesome things.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
 - [TermuxHackz/anonphisher](https://github.com/TermuxHackz/anonphisher) - Automated phishing tool made by AnonyminHack5 to phish various sites with 30+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim.  Anonphisher tool is made with pure bash script and needs required packages for it to work. 
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [bacongobbler/azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - Uploads assets to Azure Blob Storage
