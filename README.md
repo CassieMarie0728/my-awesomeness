@@ -464,7 +464,7 @@ A collection of awesome things.
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [ONLYOFFICE/documents-app-android](https://github.com/ONLYOFFICE/documents-app-android) - 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
