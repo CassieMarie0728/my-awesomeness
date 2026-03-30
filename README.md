@@ -31,6 +31,7 @@ A collection of awesome things.
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [PHP](#php)
@@ -290,6 +291,7 @@ A collection of awesome things.
 
 ## Java
 
+- [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 - [AvinashSKaranth/epublibDroid](https://github.com/AvinashSKaranth/epublibDroid) - Android sdk for reading Epub using epublib (http://siegmann.nl/epublib)
 - [Azure/azure-storage-android](https://github.com/Azure/azure-storage-android) - Microsoft Azure Storage Library for Android
 - [DASAR-zz/epublib-android](https://github.com/DASAR-zz/epublib-android) - epublib port for Android
@@ -482,6 +484,7 @@ A collection of awesome things.
 - [kibotu/Android-PGP](https://github.com/kibotu/Android-PGP) - Simple PGP encryption/decryption on android.
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Encrypted Gallery App for Android
+- [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Android app that indexes Termux tools from metadata.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
@@ -513,6 +516,10 @@ A collection of awesome things.
 ## Nim
 
 - [openpeeps/booyaka](https://github.com/openpeeps/booyaka) - [WIP] Booyaka 👻 A fast documentation generator for cool kids!
+
+## Nix
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Nunjucks
 
@@ -740,6 +747,7 @@ A collection of awesome things.
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [pengqun/awesome-documentation](https://github.com/pengqun/awesome-documentation) - 📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.
+- [pigeek/androidtvmcp](https://github.com/pigeek/androidtvmcp) - A Model Context Protocol (MCP) server that provides Android TV remote control functionality to AI assistants and other MCP clients.
 - [pilgun/acvtool](https://github.com/pilgun/acvtool) - ACVTool (Android Code Coverage Tool) is a tool to measure fine-grained code coverage of 3rd-party Android apps.
 - [plusuncold/autiobooks](https://github.com/plusuncold/autiobooks) - Automatically convert epubs to audiobooks
 - [prakharjain-Ae0/read-epub-from-azure-tts](https://github.com/prakharjain-Ae0/read-epub-from-azure-tts) - Use Azure TTS to read epub files
@@ -811,9 +819,11 @@ A collection of awesome things.
 
 ## Shell
 
+- [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) - The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [DevCoreXOfficial/termux-n8n](https://github.com/DevCoreXOfficial/termux-n8n) - 
 - [EXALAB/Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [Err0r-ICA/Ransomware](https://github.com/Err0r-ICA/Ransomware) - Ransomwares Collection. Don't Run Them on Your Device. 
@@ -850,6 +860,8 @@ A collection of awesome things.
 - [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling
 - [noob-hackers/mrphish](https://github.com/noob-hackers/mrphish) - All In One Social Accounts Phishing With Otp Bypass In Termux.
 - [onejar99/gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
+- [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
+- [r00t-3xp10it/FakeImageExploiter](https://github.com/r00t-3xp10it/FakeImageExploiter) - Use a Fake image.jpg to exploit targets (hide known file extensions)
 - [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
 - [siyuan-note/template-sample](https://github.com/siyuan-note/template-sample) - SiYuan template sample
 - [tdharris/openssl-toolkit](https://github.com/tdharris/openssl-toolkit) - This is an OpenSSL certificate toolkit, a simple cli utility leveraging OpenSSL's CLI for Linux.
@@ -913,7 +925,6 @@ A collection of awesome things.
 - [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [fayyozbobokulov/fakeReceiptMaker](https://github.com/fayyozbobokulov/fakeReceiptMaker) - 
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
@@ -1089,10 +1100,12 @@ A collection of awesome things.
 - [manuscripts/book-starter](https://github.com/manuscripts/book-starter) - Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) - Mirror of https://i.mjh.nz + issues / feature requests
+- [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools 
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [nblavoie/wyzecam-desktop](https://github.com/nblavoie/wyzecam-desktop) - Wyzecam desktop is a desktop client that lets you visualize your Wyzecams live feed on your Mac, PC or Linux.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
