@@ -500,6 +500,7 @@ A collection of awesome things.
 - [MichaelCurrin/dev-cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets) - A collection of code snippets and CLI guides for quick and easy reference while coding
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
+- [jaroslaw-janikowski/AndroTermux](https://github.com/jaroslaw-janikowski/AndroTermux) - Simple way to build Android apps in Termux.
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 
 ## Markdown
@@ -605,9 +606,6 @@ A collection of awesome things.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
 - [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
-- [Cyber-Dioxide/CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) - A heavily armed customizable phishing tool for educational purpose only
-- [Cyber-Dioxide/Phone_Reader](https://github.com/Cyber-Dioxide/Phone_Reader) - Get information of any phone number. A simple color full tool in python3 for extracting information.
-- [Cyber-Dioxide/Wifi-Brute](https://github.com/Cyber-Dioxide/Wifi-Brute) - A tool to crack a wifi password with a help of wordlist. This may take long to crack a wifi depending upon number of passwords your wordlist contains. Also it is slower as compared to social media accounts cracking. I've made enough efforts to make it as fast as possible
 - [Danitilahun/n8n-workflow-templates](https://github.com/Danitilahun/n8n-workflow-templates) - A professionally organized collection of 2,053 n8n workflows with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
 - [DavidMGilbert/btc-hack](https://github.com/DavidMGilbert/btc-hack) - An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API .
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
@@ -828,12 +826,14 @@ A collection of awesome things.
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [Err0r-ICA/Ransomware](https://github.com/Err0r-ICA/Ransomware) - Ransomwares Collection. Don't Run Them on Your Device. 
 - [Genplat/awesome-termux](https://github.com/Genplat/awesome-termux) - Customize termux like never before, add thousands of features and get the most out of your mobile phone.
+- [Hax4us/apktool](https://github.com/Hax4us/apktool) - This apktool is specially compiled for termux..
 - [ImKKingshuk/pkgDroid](https://github.com/ImKKingshuk/pkgDroid) - pkgDroid is a versatile and lightweight command-line tool crafted for comprehensive Android APK manipulation. Packed with advanced functionalities, pkgDroid goes beyond the basics to offer a robust toolkit for APK modding, cracking, extreme modification, and reverse engineering. Dive into the depths of Android app internals with pkgDroid.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [SirManishKumar/MNSAllTools](https://github.com/SirManishKumar/MNSAllTools) - A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
 - [TermuxHackz/anonphisher](https://github.com/TermuxHackz/anonphisher) - Automated phishing tool made by AnonyminHack5 to phish various sites with 30+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim.  Anonphisher tool is made with pure bash script and needs required packages for it to work. 
+- [TheDiamondYT1/termux-buildapk](https://github.com/TheDiamondYT1/termux-buildapk) - A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -926,6 +926,7 @@ A collection of awesome things.
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+- [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
 - [iamsahebgiri/betabuzz](https://github.com/iamsahebgiri/betabuzz) - 🔥🔥🔥 Open Source alternative to Product Hunt
@@ -944,7 +945,7 @@ A collection of awesome things.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
@@ -987,6 +988,7 @@ A collection of awesome things.
 - [twbs/fantasticon](https://github.com/twbs/fantasticon) - Icon font generation tool
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [unwarkz/n8n-mobile](https://github.com/unwarkz/n8n-mobile) - Mobile webapp for n8n flows
 - [write34-com/write34](https://github.com/write34-com/write34) - Share and explore NovelAI prompts 
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [zshaian/snipshelf](https://github.com/zshaian/snipshelf) - create, save, and share code snippets.
@@ -1037,6 +1039,7 @@ A collection of awesome things.
 - [Podcastindex-org/art-graphics-logos](https://github.com/Podcastindex-org/art-graphics-logos) - Art, icons, graphics, logos, etc.
 - [Podcastindex-org/podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace) - A wholistic rss namespace for podcasting
 - [SomeCodingCoolGuy/WannaCry](https://github.com/SomeCodingCoolGuy/WannaCry) - This repository contains an variant of WannaCry Ransomware, an exploit developed by the NSA. Use this for testing purposes only, as I am not liable or responsible for damage to your computer.
+- [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) - Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [TechyShreyansh/Android-Modding](https://github.com/TechyShreyansh/Android-Modding) - A large collection of github repositories related to android modding.
 - [Thewisem/foss-android-apps](https://github.com/Thewisem/foss-android-apps) - This repository is for people on android who wants to try Free and Open source apps. I have given my personal pick of apps available. Share this knowledge with everybody
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
@@ -1045,6 +1048,7 @@ A collection of awesome things.
 - [Witteborn/GitHubBoilerplate](https://github.com/Witteborn/GitHubBoilerplate) - Comprehensive project template for open-source projects with CI/CD, licenses, and best practices.
 - [Xooppp/SoulTaker-Multitool](https://github.com/Xooppp/SoulTaker-Multitool) - SoulTaker is a Open-Source MultiTool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc. 
 - [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) - A curated list of Model Context Protocol (MCP) servers 
+- [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
