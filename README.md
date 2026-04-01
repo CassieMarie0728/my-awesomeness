@@ -771,7 +771,7 @@ A collection of awesome things.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [twhlynch/APK-Modding-Guide](https://github.com/twhlynch/APK-Modding-Guide) - A guide to decompile, modify, and recompile android packages.
 - [twhlynch/AutoModder](https://github.com/twhlynch/AutoModder) - A simple keyword based unity modding util
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [x11-repo/hack-tools-en](https://github.com/x11-repo/hack-tools-en) - "Kali replacer." It has a large number of hacking tools.
 - [xob0t/google_photos_mobile_client](https://github.com/xob0t/google_photos_mobile_client) - Google Photos client based on reverse engineered mobile API.
