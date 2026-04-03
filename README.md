@@ -382,6 +382,7 @@ A collection of awesome things.
 - [btk/opendesign](https://github.com/btk/opendesign) - Website for Open license that allows you to get, use, change, and share design.
 - [commonality/generator-community](https://github.com/commonality/generator-community) - ䷤ Generate README, CODE_OF_CONDUCT, CONTRIBUTING, LICENSE, ISSUE_TEMPLATE, and PULL_REQUEST_TEMPLATE repository docs to encourage consumption and invite contributions.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
+- [craihub/clawgpt-app](https://github.com/craihub/clawgpt-app) - ClawGPT Android app - Mobile companion for OpenClaw
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Proof of concept. Code snippets manager for developers. PWA. 
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
@@ -612,7 +613,7 @@ A collection of awesome things.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
-- [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - Open-source framework for holistic, structured repository-level documentation across multilingual codebases
+- [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
 - [Gauff/EpubToAudioBookConverter](https://github.com/Gauff/EpubToAudioBookConverter) - Convert EPUB files to MP3 audio books with ease using this intuitive and user-friendly converter that allows you to select voices and playback settings with just a few clicks.
 - [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
@@ -830,6 +831,7 @@ A collection of awesome things.
 - [Hax4us/apktool](https://github.com/Hax4us/apktool) - This apktool is specially compiled for termux..
 - [ImKKingshuk/pkgDroid](https://github.com/ImKKingshuk/pkgDroid) - pkgDroid is a versatile and lightweight command-line tool crafted for comprehensive Android APK manipulation. Packed with advanced functionalities, pkgDroid goes beyond the basics to offer a robust toolkit for APK modding, cracking, extreme modification, and reverse engineering. Dive into the depths of Android app internals with pkgDroid.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
+- [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) - 🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [SirManishKumar/MNSAllTools](https://github.com/SirManishKumar/MNSAllTools) - A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
@@ -848,6 +850,7 @@ A collection of awesome things.
 - [hackerxphantom/HXP-Ducky](https://github.com/hackerxphantom/HXP-Ducky) - Most Powerfull 😈Crash any android device with virus from any link using termux or kali linux
 - [hackingmastert56/Venom-Tools-Installer](https://github.com/hackingmastert56/Venom-Tools-Installer) - Venom-Tool-Installer is a Kali Linux hacking tools installer for Termux and linux system. Venom-Tool-Installer was developed for Termux and linux based systems. Using Venom-Tool-Installer, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Venom-Tool-Installer is available for Ubuntu, Debian etc.
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
+- [irtiq7/OpenClaw-Android](https://github.com/irtiq7/OpenClaw-Android) - This repo allows users to download their OpenClaw into their Android devices.
 - [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you. https://github.com/jackind424/onex
 - [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [kodika/MutataApp](https://github.com/kodika/MutataApp) - 
