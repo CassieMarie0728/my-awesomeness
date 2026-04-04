@@ -555,7 +555,6 @@ A collection of awesome things.
 - [kd2org/karadav](https://github.com/kd2org/karadav) - Lightweight NextCloud compatible WebDAV server
 - [kd2org/picodav](https://github.com/kd2org/picodav) - Single-file WebDAV server, just drop it in a directory!
 - [louiswalch/Wordpress-Theme-Framework](https://github.com/louiswalch/Wordpress-Theme-Framework) - Collection of resources to aid in theme authoring, clean up the default Frontend output and streamline the Dashboard. 
-- [magento/ece-tools](https://github.com/magento/ece-tools) - All Submissions you make to Magento Inc. (“Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html
 - [magento/magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
 - [mentionbb/mentionbb](https://github.com/mentionbb/mentionbb) - A classic forum system with next-gen.
 - [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda
@@ -666,6 +665,7 @@ A collection of awesome things.
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -790,7 +790,6 @@ A collection of awesome things.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [magento/devdocs](https://github.com/magento/devdocs) - [Deprecated] Magento Developer Documentation
 - [mrbrutti/esearchy](https://github.com/mrbrutti/esearchy) - Email search app that searchs many places for email accounts. 
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
@@ -1076,6 +1075,7 @@ A collection of awesome things.
 - [derberg/awesome-docs-with-static-site-generators](https://github.com/derberg/awesome-docs-with-static-site-generators) - Pointers to all templates and implementations based on static site generators
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
+- [dmthomson/6000n8nworkflows](https://github.com/dmthomson/6000n8nworkflows) - N8N Workflows Catalog
 - [dominiksalvet/template](https://github.com/dominiksalvet/template) - Template for repositories with GitHub features
 - [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
