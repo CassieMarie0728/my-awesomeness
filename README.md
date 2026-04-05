@@ -166,6 +166,7 @@ A collection of awesome things.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+- [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [gojitsucom/drivers_license_parser](https://github.com/gojitsucom/drivers_license_parser) - Easily parse the information within PDF-417 barcodes found on the back of US and Canadian driver's licenses adhering to the AAMVA Version 8
@@ -604,6 +605,7 @@ A collection of awesome things.
 - [BotolMehedi/BMAIL](https://github.com/BotolMehedi/BMAIL) - ©ALL IN ONE EMAIL BOMBER. NO SPAM MAIL, DIRECT INBOX ✌
 - [Brian-Lam/EPUB-to-MP3](https://github.com/Brian-Lam/EPUB-to-MP3) - A script to convert an eBook (.epub) to an audiobook (.mp3) using Google Cloud Platform's Text-to-Speech service
 - [CYB3R-G0D/SPY](https://github.com/CYB3R-G0D/SPY) - 🕵️‍♂️ An OSINT python tool to scan social media accounts by username across social networks
+- [CassieMarie0728/Sploit](https://github.com/CassieMarie0728/Sploit) - SploitFrameWork *BETA*
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
 - [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
@@ -822,6 +824,7 @@ A collection of awesome things.
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) - The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [CassieMarie0728/Xiaomi-Dafang-Hacks](https://github.com/CassieMarie0728/Xiaomi-Dafang-Hacks) - 
 - [DevCoreXOfficial/termux-n8n](https://github.com/DevCoreXOfficial/termux-n8n) - 
 - [EXALAB/Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
@@ -929,6 +932,7 @@ A collection of awesome things.
 - [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1069,6 +1073,7 @@ A collection of awesome things.
 - [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [corsa-center/oss-documents](https://github.com/corsa-center/oss-documents) - Collecting guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, licenses, codes of conduct, etc.
+- [cyberkernelofficial/docker-in-termux](https://github.com/cyberkernelofficial/docker-in-termux) - This repository contains instructions on how to install Docker in Termux, without root.
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️ 
 - [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
