@@ -245,6 +245,7 @@ A collection of awesome things.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
+- [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC) - ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes.
 - [bengabay11/phisher-god](https://github.com/bengabay11/phisher-god) - a tool for phishing social media accounts
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
@@ -277,6 +278,7 @@ A collection of awesome things.
 - [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks
 - [tanaikech/Google-Apps-Script-Library-Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) - This is for the Google Apps Script Library Database and a web application for searching the libraries..
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
+- [thegooddocsproject/templates](https://github.com/thegooddocsproject/templates) - Templates created by The Good Docs Project - for all your tech writing needs.
 - [thehackingsage/fluxion](https://github.com/thehackingsage/fluxion) - WiFi Cracking Tool (Using Evil Twin Attack) With Some Modification. (Only For Legal Purposes)
 - [wavegu/MailSearcher](https://github.com/wavegu/MailSearcher) - given person's name, search for his possible emails
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
@@ -410,6 +412,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
+- [lobehub/lobe-editor](https://github.com/lobehub/lobe-editor) - ✒️ Lobe Editor - a modern, extensible rich text editor built on Meta's Lexical framework with dual-architecture design, featuring both a powerful kernel and React integration. Optimized for AI applications and chat interfaces.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
@@ -510,6 +513,7 @@ A collection of awesome things.
 
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [scottgriv/PRG-Personal-Repository-Guidelines](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) - 🧑‍💻 📃 Revolutionize your GitHub Portfolio with the PRG framework. Utilizing GitHub Actions, it auto-generates a categorized display for organized, impactful repository presentation. Includes essential guidelines and templates for READMEs and repository structure.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
@@ -695,6 +699,7 @@ A collection of awesome things.
 - [f-droid/fdroidserver](https://github.com/f-droid/fdroidserver) - F-Droid server and build tools.
 - [fO-000/bluing](https://github.com/fO-000/bluing) - An intelligence gathering tool for hacking Bluetooth
 - [fairy-root/epub-to-audiobook](https://github.com/fairy-root/epub-to-audiobook) - This python script uses OpenAI API Text To Speech TTS Voice to convert Epub books to Audiobooks with ability to save progress and resume it.
+- [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [fr13nds-group/PayPal-Hacker](https://github.com/fr13nds-group/PayPal-Hacker) - A paypal balance adder for PayPal use
@@ -812,6 +817,7 @@ A collection of awesome things.
 
 ## SCSS
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [alertbox/bookworm](https://github.com/alertbox/bookworm) - A delightfully lightweight, mobile-first, and fluidly responsive Jekyll theme for books and creative writing that emphasizes content rather than aesthetic fluff.
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 
@@ -857,6 +863,7 @@ A collection of awesome things.
 - [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you. https://github.com/jackind424/onex
 - [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [kodika/MutataApp](https://github.com/kodika/MutataApp) - 
+- [littlebearapps/pitchdocs](https://github.com/littlebearapps/pitchdocs) - Turn any codebase into professional, marketing-ready GitHub documentation — powered by AI coding assistants
 - [lomorage/lomo-importer-release](https://github.com/lomorage/lomo-importer-release) - Batch import tool like: import Google Photos to Lomorage
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [minterm/rtsp-cloud-cam](https://github.com/minterm/rtsp-cloud-cam) - Save an RTSP stream from a cheap IP camera to the cloud through Dropbox.
@@ -953,6 +960,9 @@ A collection of awesome things.
 - [lantos1618/github.gg](https://github.com/lantos1618/github.gg) - The missing intelligence layer for GitHub.  Analyze, visualize, and understand your repositories like never before.
 - [lfinmauritius/n8n-nodes-ionos](https://github.com/lfinmauritius/n8n-nodes-ionos) - N8n IONOS Nodes
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
+- [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
+- [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
@@ -1057,6 +1067,7 @@ A collection of awesome things.
 - [Thewisem/foss-android-apps](https://github.com/Thewisem/foss-android-apps) - This repository is for people on android who wants to try Free and Open source apps. I have given my personal pick of apps available. Share this knowledge with everybody
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [VarshaWanjari0/Auto-Android-App-Modding-Tool](https://github.com/VarshaWanjari0/Auto-Android-App-Modding-Tool) - UAMT – Ultimate Android App Modding Toolkit  UAMT is an non root all-in-one Android APK modding toolkit for Termux. It simplifies Frida Gadget injection, native .so injection, APK patching, rebuilding, aligning, and signing directly on Android. It includes a fast full-screen TUI, smart auto-detection, and auto dependency setup reliable modding.
+- [VishwaGauravIn/pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges) - 💫Pretty Badges for your GitHub Profiles 
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did there?) between how you record your data during an investigation and some of what the tool can offer FOR FREE!
 - [Witteborn/GitHubBoilerplate](https://github.com/Witteborn/GitHubBoilerplate) - Comprehensive project template for open-source projects with CI/CD, licenses, and best practices.
@@ -1089,6 +1100,7 @@ A collection of awesome things.
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
+- [envoy1084/awesome-badges](https://github.com/envoy1084/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [gitpress-io/boilerplate](https://github.com/gitpress-io/boilerplate) - GitPress repo boilerplate
@@ -1105,6 +1117,7 @@ A collection of awesome things.
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of open-source, free as in freedom software.
 - [jonhadfield/awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes) - A curated list of tools and information relating to Standard Notes.
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
