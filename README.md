@@ -110,7 +110,7 @@ A collection of awesome things.
 - [ptedeschi/NFT.net](https://github.com/ptedeschi/NFT.net) - An engine developed with .NET Core to generate NFT's through a graphical interface. Simple as that, in the best Grab & Go style.
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [webmaster442/BookGen](https://github.com/webmaster442/BookGen) - A C# book generator, similar to GitBook, but better
-- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Remember to Star us! Download from certifytheweb.com
+- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
 - [zacbre/Socks5](https://github.com/zacbre/Socks5) - A full-fledged high-performance socks5 proxy server written in C#. Plugin support included.
 
@@ -741,7 +741,6 @@ A collection of awesome things.
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [modded-android/development](https://github.com/modded-android/development) - The Development Repo for Modded Android
 - [msampathkumar/FakeReceiptImageGenerator](https://github.com/msampathkumar/FakeReceiptImageGenerator) - Receipt Generator using PIL, Python
-- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run web app and Chrome extension to remove duplicates from Google Photos
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [n0nexist/ApkTear](https://github.com/n0nexist/ApkTear) - Universal apk modding tool; decompile, recompile, sign & more!
@@ -972,6 +971,7 @@ A collection of awesome things.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run web app and Chrome extension to remove duplicates from Google Photos
 - [mwood23/wave-snippets](https://github.com/mwood23/wave-snippets) - 🌊 Create gorgeous animated snippets to share with the world.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nexterias/actions-vercel](https://github.com/nexterias/actions-vercel) - Deploy to Vercel with GitHub Actions
@@ -1170,6 +1170,7 @@ A collection of awesome things.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [template-repository/template-repository](https://github.com/template-repository/template-repository) - General template repository for any languages, that creates for fast running development process with configuration, which are the same from project to project.
+- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [thau0x01/frida-patches](https://github.com/thau0x01/frida-patches) - strong-frida patches
 - [thehackingsage/hackdroid](https://github.com/thehackingsage/hackdroid) - Security Apps for Android
 - [thehackingsage/pwnphone](https://github.com/thehackingsage/pwnphone) - DREAM DEVICE FOR HACKERS
