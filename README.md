@@ -65,7 +65,6 @@ A collection of awesome things.
 ## Astro
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
 
 ## Batchfile
 
@@ -262,6 +261,7 @@ A collection of awesome things.
 - [javierarce/epub-boilerplate](https://github.com/javierarce/epub-boilerplate) - A simple template to help you create ePub-formatted books.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [junguler/m3u-audiobooks](https://github.com/junguler/m3u-audiobooks) - collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
+- [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
@@ -977,6 +977,7 @@ A collection of awesome things.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mwood23/wave-snippets](https://github.com/mwood23/wave-snippets) - 🌊 Create gorgeous animated snippets to share with the world.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [neverinfamous/R2-Manager-Worker](https://github.com/neverinfamous/R2-Manager-Worker) - Self-hosted web app for Cloudflare R2 buckets. Supports drag-and-drop uploads, batch copy/move/delete, multi-file ZIP downloads, signed share links, folder hierarchies, advanced cross-bucket search + filters (extension, size, date), S3 imports, lifecycle management, local uploads, custom tags & GitHub SSO via Cloudflare Zero Trust.
 - [nexterias/actions-vercel](https://github.com/nexterias/actions-vercel) - Deploy to Vercel with GitHub Actions
 - [nextjs/deploy-github-pages](https://github.com/nextjs/deploy-github-pages) - Next.js template to deploy to GitHub Pages as a static site.
 - [nfroidure/gulp-svg2ttf](https://github.com/nfroidure/gulp-svg2ttf) - Create a TTF font from an SVG font
