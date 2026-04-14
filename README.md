@@ -418,7 +418,6 @@ A collection of awesome things.
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
-- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - A Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [open-keychain/openkeychain.org](https://github.com/open-keychain/openkeychain.org) - OpenKeychain website
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -800,6 +799,7 @@ A collection of awesome things.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [mrbrutti/esearchy](https://github.com/mrbrutti/esearchy) - Email search app that searchs many places for email accounts. 
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+- [okleinschmidt/wdmc](https://github.com/okleinschmidt/wdmc) - The missing CLI Client for Western Digital MyCloud NAS Systems.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 
 ## Rust
@@ -975,6 +975,7 @@ A collection of awesome things.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - A Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [mwood23/wave-snippets](https://github.com/mwood23/wave-snippets) - 🌊 Create gorgeous animated snippets to share with the world.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neverinfamous/R2-Manager-Worker](https://github.com/neverinfamous/R2-Manager-Worker) - Self-hosted web app for Cloudflare R2 buckets. Supports drag-and-drop uploads, batch copy/move/delete, multi-file ZIP downloads, signed share links, folder hierarchies, advanced cross-bucket search + filters (extension, size, date), S3 imports, lifecycle management, local uploads, custom tags & GitHub SSO via Cloudflare Zero Trust.
@@ -1061,6 +1062,7 @@ A collection of awesome things.
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [Lukejb14/Wyze-RTSP](https://github.com/Lukejb14/Wyze-RTSP) - WYZE RTSP Downloads
 - [Menace13/RoA-Workshop-Templates](https://github.com/Menace13/RoA-Workshop-Templates) - A repository for .GML code templates as examples for people to use for their own creations
+- [Niclas1337/WD-MyCloud-Firmwares](https://github.com/Niclas1337/WD-MyCloud-Firmwares) - Every WD MyCloud Firmware compiled and ready to download
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [Podcastindex-org/art-graphics-logos](https://github.com/Podcastindex-org/art-graphics-logos) - Art, icons, graphics, logos, etc.
