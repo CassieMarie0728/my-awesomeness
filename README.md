@@ -162,7 +162,7 @@ A collection of awesome things.
 
 - [AmanNegi/Copyable](https://github.com/AmanNegi/Copyable) - A Flutter Application that helps you save and copy text in a click. The app is available on Android & Web, so save at one platform and access everywhere.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
@@ -490,7 +490,7 @@ A collection of awesome things.
 - [jff99/KeyCip](https://github.com/jff99/KeyCip) - Repository for the Android application  KeyCip. Making possible the statement "Our information belongs to us"
 - [kibotu/Android-PGP](https://github.com/kibotu/Android-PGP) - Simple PGP encryption/decryption on android.
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
-- [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Encrypted Gallery App for Android
+- [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Android app that indexes Termux tools from metadata.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -714,6 +714,7 @@ A collection of awesome things.
 - [hackerxphantom/Facebook_hack](https://github.com/hackerxphantom/Facebook_hack) - Most Powerful Facebook Bruteforce Tool Facebook Account Hack
 - [hasanfirnas/symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Conversion of PDF documents to structured Markdown, optimized for Retrieval Augmented Generation (RAG) and other NLP tasks. Extract text, tables, and images with preserved formatting for enhanced information retrieval and processing.
 - [initstring/lyricpass](https://github.com/initstring/lyricpass) - Password wordlist generator using song lyrics for targeted bruteforce audits / attacks. Useful for penetration testing or security research.
 - [internetarchive/epub](https://github.com/internetarchive/epub) - For code related to making ePub files
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
@@ -804,6 +805,7 @@ A collection of awesome things.
 
 ## Rust
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
@@ -910,6 +912,7 @@ A collection of awesome things.
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+- [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl) - High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
 - [CassieMarie0728/snippet-bubble-manager](https://github.com/CassieMarie0728/snippet-bubble-manager) - Snippet Bubble Manager is a floating, always-on-top snippet tool that lives in your workflow like a silent little assassin. It doesn’t ask permission. It doesn’t get in your way. It just sits there—ready to drop code into your clipboard faster than your brain can say “where the hell did I put that?”
 - [CassieMarie0728/snippet-bubble-manager-v2](https://github.com/CassieMarie0728/snippet-bubble-manager-v2) - A mobile code snippet manager with a floating overlay bubble for instant access to code snippets from any app. Features include local search, copy to clipboard, favorites, pinning, and offline storage. · Built with Manus
@@ -943,7 +946,7 @@ A collection of awesome things.
 - [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
