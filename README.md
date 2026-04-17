@@ -242,6 +242,7 @@ A collection of awesome things.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
+- [OtsoBear/docs-exporter](https://github.com/OtsoBear/docs-exporter) - Export multiple mintlify docs pages into a single piece of text to feed to LLMs
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
 - [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC) - ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes.
@@ -612,6 +613,7 @@ A collection of awesome things.
 - [CYB3R-G0D/SPY](https://github.com/CYB3R-G0D/SPY) - 🕵️‍♂️ An OSINT python tool to scan social media accounts by username across social networks
 - [CassieMarie0728/Sploit](https://github.com/CassieMarie0728/Sploit) - SploitFrameWork *BETA*
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
+- [CodeWiki-AI/CodeWiki](https://github.com/CodeWiki-AI/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [Danitilahun/n8n-workflow-templates](https://github.com/Danitilahun/n8n-workflow-templates) - A professionally organized collection of 2,053 n8n workflows with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
@@ -619,7 +621,6 @@ A collection of awesome things.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
-- [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
 - [Gauff/EpubToAudioBookConverter](https://github.com/Gauff/EpubToAudioBookConverter) - Convert EPUB files to MP3 audio books with ease using this intuitive and user-friendly converter that allows you to select voices and playback settings with just a few clicks.
 - [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
@@ -978,7 +979,7 @@ A collection of awesome things.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - A Chrome extension that finds and removes duplicate photos from your Google Photos library
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [mwood23/wave-snippets](https://github.com/mwood23/wave-snippets) - 🌊 Create gorgeous animated snippets to share with the world.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [neverinfamous/R2-Manager-Worker](https://github.com/neverinfamous/R2-Manager-Worker) - Self-hosted web app for Cloudflare R2 buckets. Supports drag-and-drop uploads, batch copy/move/delete, multi-file ZIP downloads, signed share links, folder hierarchies, advanced cross-bucket search + filters (extension, size, date), S3 imports, lifecycle management, local uploads, custom tags & GitHub SSO via Cloudflare Zero Trust.
@@ -1020,6 +1021,7 @@ A collection of awesome things.
 - [twbs/fantasticon](https://github.com/twbs/fantasticon) - Icon font generation tool
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [unwarkz/n8n-mobile](https://github.com/unwarkz/n8n-mobile) - Mobile webapp for n8n flows
 - [write34-com/write34](https://github.com/write34-com/write34) - Share and explore NovelAI prompts 
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [zshaian/snipshelf](https://github.com/zshaian/snipshelf) - create, save, and share code snippets.
