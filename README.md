@@ -613,7 +613,6 @@ A collection of awesome things.
 - [CYB3R-G0D/SPY](https://github.com/CYB3R-G0D/SPY) - 🕵️‍♂️ An OSINT python tool to scan social media accounts by username across social networks
 - [CassieMarie0728/Sploit](https://github.com/CassieMarie0728/Sploit) - SploitFrameWork *BETA*
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
-- [CodeWiki-AI/CodeWiki](https://github.com/CodeWiki-AI/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [Danitilahun/n8n-workflow-templates](https://github.com/Danitilahun/n8n-workflow-templates) - A professionally organized collection of 2,053 n8n workflows with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
@@ -621,6 +620,7 @@ A collection of awesome things.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+- [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
 - [Gauff/EpubToAudioBookConverter](https://github.com/Gauff/EpubToAudioBookConverter) - Convert EPUB files to MP3 audio books with ease using this intuitive and user-friendly converter that allows you to select voices and playback settings with just a few clicks.
 - [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
@@ -1162,6 +1162,7 @@ A collection of awesome things.
 - [pjobson/Microsoft-365-Fonts](https://github.com/pjobson/Microsoft-365-Fonts) - all cloud fonts from office 365
 - [pkgforge-security/Wordlists](https://github.com/pkgforge-security/Wordlists) - [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
