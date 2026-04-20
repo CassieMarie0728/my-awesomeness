@@ -773,6 +773,7 @@ A collection of awesome things.
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
 - [tahoe-lafs/tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS decentralized secure filesystem.
 - [tarcisio-marinho/GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) - A Linux Ransomware
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [torrinworx/Blend_My_NFTs](https://github.com/torrinworx/Blend_My_NFTs) - Easily generate thousands of 3D models, images, and animation automatically in Blender for free with Blend_My_NFTs.
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
@@ -1185,7 +1186,6 @@ A collection of awesome things.
 - [thehackingsage/pwnphone](https://github.com/thehackingsage/pwnphone) - DREAM DEVICE FOR HACKERS
 - [thymeflow/thymeflow](https://github.com/thymeflow/thymeflow) - Installer for Thymeflow, a personal knowledge management system.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [topaidirectories/awesome-ai-directories](https://github.com/topaidirectories/awesome-ai-directories) - A comprehensive list of AI directories
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
