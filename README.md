@@ -1065,6 +1065,7 @@ A collection of awesome things.
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [4GeeksAcademy/Templates-Boilerplates](https://github.com/4GeeksAcademy/Templates-Boilerplates) - 📙 Configuration is one of the biggest deterrents for learning coding skills, use one of these well-maintained boilerplates and focused on what really matters: Polishing your coding skills 🔥💻.
 - [Achno/debloat-samsung-ADB-shizuku](https://github.com/Achno/debloat-samsung-ADB-shizuku) -   A list of bloatware packages that samsung phones have with instructions to remove them
+- [CassieMarie0728/mcp-hub-api-key](https://github.com/CassieMarie0728/mcp-hub-api-key) - 
 - [Correia-jpv/fucking-beautiful-docs](https://github.com/Correia-jpv/fucking-beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-design-resources-for-developers](https://github.com/Correia-jpv/fucking-design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more. With repository stars⭐ and forks🍴
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
