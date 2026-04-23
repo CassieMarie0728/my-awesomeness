@@ -611,7 +611,7 @@ A collection of awesome things.
 - [Brian-Lam/EPUB-to-MP3](https://github.com/Brian-Lam/EPUB-to-MP3) - A script to convert an eBook (.epub) to an audiobook (.mp3) using Google Cloud Platform's Text-to-Speech service
 - [CYB3R-G0D/SPY](https://github.com/CYB3R-G0D/SPY) - 🕵️‍♂️ An OSINT python tool to scan social media accounts by username across social networks
 - [CassieMarie0728/Sploit](https://github.com/CassieMarie0728/Sploit) - SploitFrameWork *BETA*
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [Danitilahun/n8n-workflow-templates](https://github.com/Danitilahun/n8n-workflow-templates) - A professionally organized collection of 2,053 n8n workflows with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
