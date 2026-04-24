@@ -636,7 +636,7 @@ A collection of awesome things.
 - [KoeAI/LLVC](https://github.com/KoeAI/LLVC) - 
 - [Leseratte10/acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - Calibre plugin for ACSM-&gt;EPUB and ACSM-&gt;PDF conversion.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
@@ -1053,6 +1053,7 @@ A collection of awesome things.
 
 ## Vue
 
+- [Acreom/app](https://github.com/Acreom/app) - 2nd brain for software engineers. A local-first knowledge base for your daily context and projects.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons) - Fluenticons is an icon viewer for Microsofts fluent icons, with over 4000 pixel perfect icons in outlined and solid styles. Download the icons as SVG, PNG, WEBP, Vue component, React Component and HTML Image.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
