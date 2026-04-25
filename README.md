@@ -147,7 +147,7 @@ A collection of awesome things.
 
 ## Clojure
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## CoffeeScript
 
@@ -378,6 +378,7 @@ A collection of awesome things.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
+- [abecms/abecms](https://github.com/abecms/abecms) - The lightning fast CMS
 - [aceh0und/swagbot](https://github.com/aceh0und/swagbot) - Automated bot that gets you SB on Swagbucks Effortlessly! ;)
 - [adobe/skills](https://github.com/adobe/skills) - Adobe Skills for Agents
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
@@ -441,7 +442,7 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 - [ShiromiyaG/RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker) - Performs the entire AI cover generation process
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -469,6 +470,7 @@ A collection of awesome things.
 - [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
 - [AdamMc331/AndroidAppTemplate](https://github.com/AdamMc331/AndroidAppTemplate) - This is a template repository with developer tooling already included so you can get up and running with confidence.
 - [B1ays/BHub](https://github.com/B1ays/BHub) - Download, Install and Share mods easily
+- [BURG3R5/FileFlow](https://github.com/BURG3R5/FileFlow) - Organize files automatically
 - [BinTianqi/OwnDroid](https://github.com/BinTianqi/OwnDroid) - 使用安卓Device owner特权管理你的设备。Use Android Device owner privilege to manage your device.
 - [CypherpunkArmory/GIMP](https://github.com/CypherpunkArmory/GIMP) - Source for the UserLAnd GIMP Application
 - [EasySpotApp/EasySpot](https://github.com/EasySpotApp/EasySpot) - An Android app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone!
@@ -491,6 +493,8 @@ A collection of awesome things.
 - [google/horologist](https://github.com/google/horologist) - Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.
 - [iYung/nfc-for-atms](https://github.com/iYung/nfc-for-atms) - Hack for RUHacks
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
+- [io7m-com/exfilac](https://github.com/io7m-com/exfilac) - Simple, reliable, automated S3 uploads for Android
+- [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [jff99/KeyCip](https://github.com/jff99/KeyCip) - Repository for the Android application  KeyCip. Making possible the statement "Our information belongs to us"
 - [kibotu/Android-PGP](https://github.com/kibotu/Android-PGP) - Simple PGP encryption/decryption on android.
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
@@ -505,6 +509,7 @@ A collection of awesome things.
 - [yash-garg/KeyManager](https://github.com/yash-garg/KeyManager) - Android application to manage SSH and GPG keys on GitHub, written in Jetpack Compose.
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
+- [zimly/zimly-backup](https://github.com/zimly/zimly-backup) - Zimly is an eye-catching, open-source app designed for synchronizing your local media and documents with any S3-compatible storage solution — whether self-hosted using platforms like Minio or cloud-based like AWS S3.
 
 ## Makefile
 
@@ -806,6 +811,7 @@ A collection of awesome things.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [mrbrutti/esearchy](https://github.com/mrbrutti/esearchy) - Email search app that searchs many places for email accounts. 
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [okleinschmidt/wdmc](https://github.com/okleinschmidt/wdmc) - The missing CLI Client for Western Digital MyCloud NAS Systems.
@@ -1101,6 +1107,7 @@ A collection of awesome things.
 - [Witteborn/GitHubBoilerplate](https://github.com/Witteborn/GitHubBoilerplate) - Comprehensive project template for open-source projects with CI/CD, licenses, and best practices.
 - [Xooppp/SoulTaker-Multitool](https://github.com/Xooppp/SoulTaker-Multitool) - SoulTaker is a Open-Source MultiTool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc. 
 - [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) - A curated list of Model Context Protocol (MCP) servers 
+- [actionsflow/awesome-actionsflow](https://github.com/actionsflow/awesome-actionsflow) - This is a list of awesome workflow use cases for Actionsflow
 - [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
@@ -1165,6 +1172,7 @@ A collection of awesome things.
 - [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) - Mirror of https://i.mjh.nz + issues / feature requests
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools 
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
+- [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
