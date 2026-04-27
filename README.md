@@ -115,6 +115,7 @@ A collection of awesome things.
 ## C++
 
 - [BTCGPU/BTCGPU](https://github.com/BTCGPU/BTCGPU) - Current work on BTCGPU
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
@@ -882,7 +883,8 @@ A collection of awesome things.
 - [kodika/MutataApp](https://github.com/kodika/MutataApp) - 
 - [littlebearapps/pitchdocs](https://github.com/littlebearapps/pitchdocs) - Turn any codebase into professional, marketing-ready GitHub documentation — powered by AI coding assistants
 - [lomorage/lomo-importer-release](https://github.com/lomorage/lomo-importer-release) - Batch import tool like: import Google Photos to Lomorage
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+- [mahendraplus/github-repo-image-generator](https://github.com/mahendraplus/github-repo-image-generator) - A powerful tool for efficiently downloading beautiful social media images from your GitHub repositories in bulk. Simplify the process of creating engaging visuals for your projects with just a few commands!
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [minterm/rtsp-cloud-cam](https://github.com/minterm/rtsp-cloud-cam) - Save an RTSP stream from a cheap IP camera to the cloud through Dropbox.
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) -  All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
