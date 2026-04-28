@@ -547,7 +547,7 @@ A collection of awesome things.
 ## PHP
 
 - [10up/windows-azure-storage](https://github.com/10up/windows-azure-storage) - Use the Microsoft Azure Storage service to host your website's media files.
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [Cesar-Hack-Gray/SocialSploit](https://github.com/Cesar-Hack-Gray/SocialSploit) - 
 - [DigitalPublishingToolkit/epubster](https://github.com/DigitalPublishingToolkit/epubster) - A web application to create and edit EPUBs, written in CakePHP.
 - [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
@@ -884,7 +884,7 @@ A collection of awesome things.
 - [littlebearapps/pitchdocs](https://github.com/littlebearapps/pitchdocs) - Turn any codebase into professional, marketing-ready GitHub documentation — powered by AI coding assistants
 - [lomorage/lomo-importer-release](https://github.com/lomorage/lomo-importer-release) - Batch import tool like: import Google Photos to Lomorage
 - [mahendraplus/github-repo-image-generator](https://github.com/mahendraplus/github-repo-image-generator) - A powerful tool for efficiently downloading beautiful social media images from your GitHub repositories in bulk. Simplify the process of creating engaging visuals for your projects with just a few commands!
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [minterm/rtsp-cloud-cam](https://github.com/minterm/rtsp-cloud-cam) - Save an RTSP stream from a cheap IP camera to the cloud through Dropbox.
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) -  All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
