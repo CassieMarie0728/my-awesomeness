@@ -92,7 +92,7 @@ A collection of awesome things.
 
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
-- [POPWorldMedia/POPForums](https://github.com/POPWorldMedia/POPForums) - A forum application running on ASP.NET Core, available in six languages.
+- [POPWorldMedia/POPForums](https://github.com/POPWorldMedia/POPForums) - A forum application running on ASP.NET Core, available in seven languages.
 - [PhilipMur/Auto-Webpage-Login-Password-by-force](https://github.com/PhilipMur/Auto-Webpage-Login-Password-by-force) - A simple C# GUI interface that will allow Automatic login to a web page and can brute force the passwords on most web pages.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [REVENGE977/Revenge-Ransomeware](https://github.com/REVENGE977/Revenge-Ransomeware) - a vigenere algorithm encrypt ransomeware created by me :p, for education purpose.
@@ -142,6 +142,7 @@ A collection of awesome things.
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [siyuan-note/theme-sample](https://github.com/siyuan-note/theme-sample) - SiYuan theme sample
 - [spajak/epub3-boilerplate](https://github.com/spajak/epub3-boilerplate) - EPUB version 3.2 full e-book template
 - [tmcw/docbox](https://github.com/tmcw/docbox) - REST API documentation generator
 - [vi3k6i5/SocialSearch](https://github.com/vi3k6i5/SocialSearch) - Search across social media and DuckDuckGo
@@ -439,7 +440,6 @@ A collection of awesome things.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
-- [siyuan-note/theme-sample](https://github.com/siyuan-note/theme-sample) - SiYuan theme sample
 - [squireChuck/us-states-ref-client](https://github.com/squireChuck/us-states-ref-client) - Cheatsheet of info related to U.S. states, e.g. sample addresses, driver's license formats, etc.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
@@ -956,6 +956,7 @@ A collection of awesome things.
 - [MicrosoftDocs/mslearn-staticwebapp](https://github.com/MicrosoftDocs/mslearn-staticwebapp) - Static Web App template repository
 - [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator) - 📜 A readme template generator for your repositories
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
+- [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
