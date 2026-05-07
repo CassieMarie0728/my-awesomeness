@@ -400,6 +400,7 @@ A collection of awesome things.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Proof of concept. Code snippets manager for developers. PWA. 
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
+- [eduardoboucas/static-api-generator](https://github.com/eduardoboucas/static-api-generator) - 🔧 Generate a static JSON API from a tree of directories and files
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [electricbookworks/epub-to-app](https://github.com/electricbookworks/epub-to-app) - Turn an epub into a very rudimentary Android app
 - [evil-icons/evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
@@ -695,7 +696,7 @@ A collection of awesome things.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [aprikyan/google-books-downloader](https://github.com/aprikyan/google-books-downloader) - An open-source utility to scrape Google Books
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [ay-bros-inc/btc-hack](https://github.com/ay-bros-inc/btc-hack) - An automated bitcoin wallet generator that generates random wallet addresses with associated private key and checks their balance in real-time.
 - [aydinnyunus/Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
 - [badadaf/apkpatcher](https://github.com/badadaf/apkpatcher) - This script automates the task of patching an apk with frida-gadget
@@ -957,6 +958,7 @@ A collection of awesome things.
 - [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator) - 📜 A readme template generator for your repositories
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
+- [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
