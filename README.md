@@ -285,6 +285,7 @@ A collection of awesome things.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [thegooddocsproject/templates](https://github.com/thegooddocsproject/templates) - Templates created by The Good Docs Project - for all your tech writing needs.
 - [thehackingsage/fluxion](https://github.com/thehackingsage/fluxion) - WiFi Cracking Tool (Using Evil Twin Attack) With Some Modification. (Only For Legal Purposes)
+- [vrypan/jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - A simple HTML+JS page that allows you to post new articles to your GitHub-hosted Jekyll blog, via web.
 - [wavegu/MailSearcher](https://github.com/wavegu/MailSearcher) - given person's name, search for his possible emails
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [williyam-m/repo2doc](https://github.com/williyam-m/repo2doc) - AI-powered repository-to-documentation generator with quick code insights
@@ -714,7 +715,7 @@ A collection of awesome things.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [duplaja/epub-to-audiobook-hf](https://github.com/duplaja/epub-to-audiobook-hf) - Epub to MB4 Audiobook, with StyleTTS2 via HuggingFace Spaces API
-- [elevenlabs/skills](https://github.com/elevenlabs/skills) - Collections of Skills to assist building with ElevenLabs
+- [elevenlabs/skills](https://github.com/elevenlabs/skills) - Collections of skills for building with ElevenLabs
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [esfelurm/android-ransomware](https://github.com/esfelurm/android-ransomware) - A ransomware for Android!  
 - [f-droid/fdroidserver](https://github.com/f-droid/fdroidserver) - F-Droid server and build tools.
@@ -1095,6 +1096,7 @@ A collection of awesome things.
 - [Correia-jpv/fucking-design-resources-for-developers](https://github.com/Correia-jpv/fucking-design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more. With repository stars⭐ and forks🍴
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [Duduxs/Awesome-README-Templates](https://github.com/Duduxs/Awesome-README-Templates) - 🤙 Some great readmes 4 u
+- [Easy-Hugo/release](https://github.com/Easy-Hugo/release) - Write Hugo Blogs on Android
 - [GitbookIO/gitbook-templates](https://github.com/GitbookIO/gitbook-templates) - A collection of templates available in GitBook.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - Free Security and Hacking eBooks
@@ -1140,6 +1142,7 @@ A collection of awesome things.
 - [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
+- [codebydant/ubuntuExternalHDD](https://github.com/codebydant/ubuntuExternalHDD) - This is a tutorial to install ubuntu 20.4 in an external HDD without removing the internal HDD in windows.
 - [corsa-center/oss-documents](https://github.com/corsa-center/oss-documents) - Collecting guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, licenses, codes of conduct, etc.
 - [cyberkernelofficial/docker-in-termux](https://github.com/cyberkernelofficial/docker-in-termux) - This repository contains instructions on how to install Docker in Termux, without root.
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
