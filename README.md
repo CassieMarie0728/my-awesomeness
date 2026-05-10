@@ -498,6 +498,7 @@ A collection of awesome things.
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - 👓 A curated list of awesome android kotlin apps by open-source contributors.
+- [cibbia/openclaw-apk](https://github.com/cibbia/openclaw-apk) - OpenClaw Android APK - Mobile launcher for OpenClaw AI Assistant
 - [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
 - [google/horologist](https://github.com/google/horologist) - Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.
 - [iYung/nfc-for-atms](https://github.com/iYung/nfc-for-atms) - Hack for RUHacks
@@ -516,6 +517,7 @@ A collection of awesome things.
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
 - [yash-garg/KeyManager](https://github.com/yash-garg/KeyManager) - Android application to manage SSH and GPG keys on GitHub, written in Jetpack Compose.
+- [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) - OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [zimly/zimly-backup](https://github.com/zimly/zimly-backup) - Zimly is an eye-catching, open-source app designed for synchronizing your local media and documents with any S3-compatible storage solution — whether self-hosted using platforms like Minio or cloud-based like AWS S3.
@@ -1062,6 +1064,7 @@ A collection of awesome things.
 - [unwarkz/n8n-mobile](https://github.com/unwarkz/n8n-mobile) - Mobile webapp for n8n flows
 - [write34-com/write34](https://github.com/write34-com/write34) - Share and explore NovelAI prompts 
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
+- [zhangzheyuanviolin-ship-it/pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - 口袋大龙虾 Pocket Lobster for Android: Codex + OpenClaw, dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
 - [zshaian/snipshelf](https://github.com/zshaian/snipshelf) - create, save, and share code snippets.
 
 ## Typst
