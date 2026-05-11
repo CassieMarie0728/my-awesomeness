@@ -53,6 +53,7 @@ A collection of awesome things.
 - [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vue](#vue)
+- [Zig](#zig)
 - [Misc](#misc)
 
 ---
@@ -201,6 +202,7 @@ A collection of awesome things.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [alfonsusenrico/documentation-generator](https://github.com/alfonsusenrico/documentation-generator) - AI‑assisted proposal and project scaffold generator that turns raw plans into polished docs and initializes repos with templates and CI/CD.
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
+- [chand1012/git2gpt](https://github.com/chand1012/git2gpt) - Convert a Git repo into a ChatGPT prompt!
 - [coyove/goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -216,6 +218,7 @@ A collection of awesome things.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
+- [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [txthinking/socks5](https://github.com/txthinking/socks5) - SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 - [xzebra/notion-blog](https://github.com/xzebra/notion-blog) - 
@@ -680,6 +683,7 @@ A collection of awesome things.
 - [TheSpeedX/TBomb](https://github.com/TheSpeedX/TBomb) - This is a SMS And Call Bomber For Linux And Termux
 - [TheWNetwork/twn-api-upload](https://github.com/TheWNetwork/twn-api-upload) - Telebox / Linkbox & TeraBox massive upload. Only for local
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
+- [TrueBurn/ai-codebase-scribe](https://github.com/TrueBurn/ai-codebase-scribe) - AI-powered documentation generator that analyzes codebases to create comprehensive project documentation. Supports multiple LLM providers (Ollama, AWS Bedrock), produces README, architecture docs, API docs, and developer guides.
 - [W1LDN16H7/StegoCracker](https://github.com/W1LDN16H7/StegoCracker) - Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
 - [Xer0bit/BookWriter-Lamma3.1-OPENAI](https://github.com/Xer0bit/BookWriter-Lamma3.1-OPENAI) - A revolutionary tool that leverages GPT API or LLaMA 3.1 model to write complete books locally, empowering authors to automate their writing process and boost creativity.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -750,6 +754,7 @@ A collection of awesome things.
 - [jfraj/socialSearch](https://github.com/jfraj/socialSearch) - python script to seach social media
 - [kactlabs/fake-email-identifier](https://github.com/kactlabs/fake-email-identifier) - We find Fake Emails
 - [kaifcodec/apk-patchx](https://github.com/kaifcodec/apk-patchx) - apk-patchx a command-line tool that makes APK manipulation & frida-gadget injection fast, automated, modular, and developer-friendly.
+- [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [krishpranav/AndroidRansome](https://github.com/krishpranav/AndroidRansome) - A simple android ransomeware tool built in python
@@ -767,6 +772,7 @@ A collection of awesome things.
 - [milo2012/osintstalker](https://github.com/milo2012/osintstalker) - osintstalker
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [modded-android/development](https://github.com/modded-android/development) - The Development Repo for Modded Android
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [msampathkumar/FakeReceiptImageGenerator](https://github.com/msampathkumar/FakeReceiptImageGenerator) - Receipt Generator using PIL, Python
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
@@ -789,9 +795,11 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [roosmsg/acsm-convert](https://github.com/roosmsg/acsm-convert) - ACSM download and remove DRM, for Docker.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
+- [sat28/githubcommit](https://github.com/sat28/githubcommit) - A jupyter notebook extension enabling users push ipython notebooks to a git repo
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [shivamksharma/DevBrute](https://github.com/shivamksharma/DevBrute) - DevBrute is a versatile password brute forcing tool designed to tackle a wide range of Social Media accounts and Web Applications. With its robust capabilities, it's adept at breaking through various security barriers.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -847,10 +855,11 @@ A collection of awesome things.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tyrchen/codebank](https://github.com/tyrchen/codebank) - A powerful code documentation generator that creates structured markdown documentation from your codebase. Supports multiple languages including Rust, Python, TypeScript, and C with intelligent parsing and formatting. Features test code filtering, summary generation, and customizable documentation strategies.
 
 ## SCSS
 
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [alertbox/bookworm](https://github.com/alertbox/bookworm) - A delightfully lightweight, mobile-first, and fluidly responsive Jekyll theme for books and creative writing that emphasizes content rather than aesthetic fluff.
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 
@@ -917,6 +926,7 @@ A collection of awesome things.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [thehackingsage/hackpi](https://github.com/thehackingsage/hackpi) - Portable Hacking Machine with Raspberry Pi
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
 - [wishihab/userrecon](https://github.com/wishihab/userrecon) - Find usernames across over 75 social networks
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
@@ -982,6 +992,7 @@ A collection of awesome things.
 - [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
@@ -1087,6 +1098,10 @@ A collection of awesome things.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 - [imrofayel/Gitfyel](https://github.com/imrofayel/Gitfyel) - A GitHub Profile Readme Generator
 - [nwtgck/ssh-keygen-web](https://github.com/nwtgck/ssh-keygen-web) - Generate a key-pair of ssh-keygen on Web browser
+
+## Zig
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 ## Misc
 
