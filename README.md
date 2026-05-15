@@ -440,7 +440,6 @@ A collection of awesome things.
 - [openpeeps/booyaka](https://github.com/openpeeps/booyaka) - [WIP] Booyaka 👻 A fast documentation generator for cool kids!
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [phcode-dev/phoenix-desktop](https://github.com/phcode-dev/phoenix-desktop) - Windows, Mac and Linux Desktop builds of Phoenix  Code Editor
-- [polarityio/social-media-searcher](https://github.com/polarityio/social-media-searcher) - The Polarity Social Media Searcher uses the google search API to pass through programmatically search if there are any known social media accounts on different social media websites.
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [pushkarydv/markdownbadges](https://github.com/pushkarydv/markdownbadges) - Generate amazing svg markdown badges within few clicks 
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
