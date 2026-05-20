@@ -249,6 +249,7 @@ A collection of awesome things.
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
 - [OtsoBear/docs-exporter](https://github.com/OtsoBear/docs-exporter) - Export multiple mintlify docs pages into a single piece of text to feed to LLMs
+- [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
 - [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC) - ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes.
@@ -359,6 +360,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [AppFlowy-IO/AppFlowy-Website](https://github.com/AppFlowy-IO/AppFlowy-Website) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [BenDol/GithubWikiTemplate](https://github.com/BenDol/GithubWikiTemplate) - 
@@ -484,25 +486,27 @@ A collection of awesome things.
 - [B1ays/BHub](https://github.com/B1ays/BHub) - Download, Install and Share mods easily
 - [BURG3R5/FileFlow](https://github.com/BURG3R5/FileFlow) - Organize files automatically
 - [BinTianqi/OwnDroid](https://github.com/BinTianqi/OwnDroid) - 使用安卓Device owner特权管理你的设备。Use Android Device owner privilege to manage your device.
+- [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) - A Fork of Rikkahub with an overhauled UI and feature additions
 - [CypherpunkArmory/GIMP](https://github.com/CypherpunkArmory/GIMP) - Source for the UserLAnd GIMP Application
 - [EasySpotApp/EasySpot](https://github.com/EasySpotApp/EasySpot) - An Android app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone!
 - [FaceOnLive/ID-Card-Passport-Recognition-SDK-Android](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android) - On-Device ID Card & Passport & Driver License Recognition SDK for Android
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-- [ONLYOFFICE/documents-app-android](https://github.com/ONLYOFFICE/documents-app-android) - 
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
+- [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - 👓 A curated list of awesome android kotlin apps by open-source contributors.
 - [cibbia/openclaw-apk](https://github.com/cibbia/openclaw-apk) - OpenClaw Android APK - Mobile launcher for OpenClaw AI Assistant
 - [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
+- [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [google/horologist](https://github.com/google/horologist) - Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.
 - [iYung/nfc-for-atms](https://github.com/iYung/nfc-for-atms) - Hack for RUHacks
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
@@ -698,7 +702,7 @@ A collection of awesome things.
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research and your daily productivity skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -795,7 +799,7 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
-- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI-assisted engineering teams: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [roosmsg/acsm-convert](https://github.com/roosmsg/acsm-convert) - ACSM download and remove DRM, for Docker.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
@@ -884,6 +888,7 @@ A collection of awesome things.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) - 🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
+- [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [SirManishKumar/MNSAllTools](https://github.com/SirManishKumar/MNSAllTools) - A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
 - [TermuxHackz/anonphisher](https://github.com/TermuxHackz/anonphisher) - Automated phishing tool made by AnonyminHack5 to phish various sites with 30+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim.  Anonphisher tool is made with pure bash script and needs required packages for it to work. 
