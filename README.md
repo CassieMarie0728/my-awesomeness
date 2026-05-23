@@ -100,6 +100,7 @@ A collection of awesome things.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [ashvin-bhuttoo/PersistentHotspot](https://github.com/ashvin-bhuttoo/PersistentHotspot) - PersistentHotspot is a simple application to help keep your wifi hotpot always ON in windows 10 that will autostart after a windows boot.
+- [deemoun/PulseAPK-Core](https://github.com/deemoun/PulseAPK-Core) - PulseAPK Core: Cross-Platform tool for working with APK files: Decompilation, Analysis, Building
 - [googlevr/tilt-brush](https://github.com/googlevr/tilt-brush) - 
 - [googlevr/tilt-brush-toolkit](https://github.com/googlevr/tilt-brush-toolkit) - Scripts and assets that help you use Tilt Brush data in your creative projects.
 - [kokonguyen191/Il2cppPatcher](https://github.com/kokonguyen191/Il2cppPatcher) - Update your Android app mod with just one command
@@ -130,6 +131,7 @@ A collection of awesome things.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smali code files.
 
 ## CSS
 
@@ -248,6 +250,7 @@ A collection of awesome things.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
+- [OshekharO/Reverse-Engineering](https://github.com/OshekharO/Reverse-Engineering) - List of awesome reverse engineering resources
 - [OtsoBear/docs-exporter](https://github.com/OtsoBear/docs-exporter) - Export multiple mintlify docs pages into a single piece of text to feed to LLMs
 - [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
@@ -304,6 +307,7 @@ A collection of awesome things.
 
 ## Java
 
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 - [AvinashSKaranth/epublibDroid](https://github.com/AvinashSKaranth/epublibDroid) - Android sdk for reading Epub using epublib (http://siegmann.nl/epublib)
 - [Azure/azure-storage-android](https://github.com/Azure/azure-storage-android) - Microsoft Azure Storage Library for Android
@@ -323,6 +327,7 @@ A collection of awesome things.
 - [amirzaidi/Shade](https://github.com/amirzaidi/Shade) - Make your phone feel like home. Free, open source, no ads.
 - [android-password-store/open-keychain](https://github.com/android-password-store/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [aws-amplify/amplify-android](https://github.com/aws-amplify/amplify-android) - The fastest and easiest way to use AWS from your Android app.
+- [csanuragjain/APKRepatcher](https://github.com/csanuragjain/APKRepatcher) - APKRepatcher - Modify your apk code with easy GUI
 - [dominiquedave/fakeID](https://github.com/dominiquedave/fakeID) - Java Program that takes in standard drivers license info and generates a new identity, much like a fake ID. (Just for fun)
 - [ejoftheweb/Keylocks](https://github.com/ejoftheweb/Keylocks) - Yet another Android PGP key management tool. Using the Minigma(nd) library
 - [faizann24/wifi-bruteforcer-fsecurify](https://github.com/faizann24/wifi-bruteforcer-fsecurify) - Android application to brute force WiFi passwords without requiring a rooted device.
@@ -497,6 +502,7 @@ A collection of awesome things.
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+- [NeonOrbit/MRVPatchManager](https://github.com/NeonOrbit/MRVPatchManager) - Android version of the mrv patcher tool.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android 
@@ -706,7 +712,7 @@ A collection of awesome things.
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -718,6 +724,7 @@ A collection of awesome things.
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
 - [cassiobotaro/certificates](https://github.com/cassiobotaro/certificates) - :mortar_board: Generate event certificates easily
+- [charwasp/modify](https://github.com/charwasp/modify) - Automatic patcher to modify APK.
 - [chr-peters/SwagbucksBot](https://github.com/chr-peters/SwagbucksBot) - 
 - [cicirello/generate-sitemap](https://github.com/cicirello/generate-sitemap) - Generate an XML sitemap for a GitHub Pages site using GitHub Actions
 - [daluna-hub/username_search](https://github.com/daluna-hub/username_search) - Find any online profiles on an username.
@@ -880,6 +887,7 @@ A collection of awesome things.
 ## Shell
 
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
+- [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) - The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
@@ -892,6 +900,7 @@ A collection of awesome things.
 - [Hax4us/apktool](https://github.com/Hax4us/apktool) - This apktool is specially compiled for termux..
 - [ImKKingshuk/pkgDroid](https://github.com/ImKKingshuk/pkgDroid) - pkgDroid is a versatile and lightweight command-line tool crafted for comprehensive Android APK manipulation. Packed with advanced functionalities, pkgDroid goes beyond the basics to offer a robust toolkit for APK modding, cracking, extreme modification, and reverse engineering. Dive into the depths of Android app internals with pkgDroid.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
+- [Juude/droidReverse](https://github.com/Juude/droidReverse) - reverse engineering tools for android（android 逆向工程工具集）
 - [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) - 🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
@@ -983,6 +992,7 @@ A collection of awesome things.
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
+- [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
 - [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
@@ -1047,6 +1057,7 @@ A collection of awesome things.
 - [nextjs/deploy-github-pages](https://github.com/nextjs/deploy-github-pages) - Next.js template to deploy to GitHub Pages as a static site.
 - [nfroidure/gulp-svg2ttf](https://github.com/nfroidure/gulp-svg2ttf) - Create a TTF font from an SVG font
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and output an SVG font
+- [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) - Runnable ClaudeCode source code
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
@@ -1141,6 +1152,7 @@ A collection of awesome things.
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [Lukejb14/Wyze-RTSP](https://github.com/Lukejb14/Wyze-RTSP) - WYZE RTSP Downloads
 - [Menace13/RoA-Workshop-Templates](https://github.com/Menace13/RoA-Workshop-Templates) - A repository for .GML code templates as examples for people to use for their own creations
+- [NDJSec/Android-Reverse-Engineering](https://github.com/NDJSec/Android-Reverse-Engineering) - A FREE comprehensive guide to learning Android Reverse Engineering. From Java, to Dalvik, to ART, to the JNI come learn along.
 - [Niclas1337/WD-MyCloud-Firmwares](https://github.com/Niclas1337/WD-MyCloud-Firmwares) - Every WD MyCloud Firmware compiled and ready to download
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
@@ -1270,12 +1282,12 @@ A collection of awesome things.
 - [thehackingsage/pwnphone](https://github.com/thehackingsage/pwnphone) - DREAM DEVICE FOR HACKERS
 - [thymeflow/thymeflow](https://github.com/thymeflow/thymeflow) - Installer for Thymeflow, a personal knowledge management system.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [topaidirectories/awesome-ai-directories](https://github.com/topaidirectories/awesome-ai-directories) - A comprehensive list of AI directories
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
