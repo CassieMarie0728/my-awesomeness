@@ -381,7 +381,7 @@ A collection of awesome things.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IDisposable/social-media-search](https://github.com/IDisposable/social-media-search) - Chrome extension to expedite searching on Social Media Sites
 - [John-Nguyen/HackTJReal](https://github.com/John-Nguyen/HackTJReal) - Created a PhoneGap/Cordova app for the Hackathon HackTJ. This app would allow shoppers to go into a store and scan barcodes with their phone to purchase items, with a SQLite database updating when the item is scanned. Also uses the Capital One API to provide an alternative to a credit or debit card.
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
@@ -717,6 +717,7 @@ A collection of awesome things.
 - [abbasbeydoun/Python-PDF417-Driver-s-License-decoder](https://github.com/abbasbeydoun/Python-PDF417-Driver-s-License-decoder) - This is a quick script to decode PDF417 driver's license data (The type of barcode used on most US and Canada Driver's licenses). Instruction on how to use are in readme
 - [abirxdhack/WebsiteSourceDl](https://github.com/abirxdhack/WebsiteSourceDl) - Welcome to the Web Source Downloader Bot This bot allows you to download the source code of any webpage effortlessly.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+- [adamanz/podcast-generator-mcp](https://github.com/adamanz/podcast-generator-mcp) - 🎙️ MCP server for creating AI-powered podcasts from any content - topics, PDFs, documents, and more
 - [adobe-type-tools/opentype-svg](https://github.com/adobe-type-tools/opentype-svg) - Tools and sample files for making OpenType-SVG fonts
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
