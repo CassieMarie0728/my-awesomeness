@@ -209,6 +209,7 @@ A collection of awesome things.
 - [coyove/goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [google/note-maps](https://github.com/google/note-maps) - A personal knowledge base, an experimental project under development.
 - [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
@@ -813,6 +814,7 @@ A collection of awesome things.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [oxbshw/Open-Workflow-Library](https://github.com/oxbshw/Open-Workflow-Library) - Open workflow intelligence for discovering, validating, repairing, and generating automation workflows across frameworks — starting with n8n.
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [pengqun/awesome-documentation](https://github.com/pengqun/awesome-documentation) - 📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.
@@ -1010,6 +1012,7 @@ A collection of awesome things.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
+- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 - [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
@@ -1022,6 +1025,7 @@ A collection of awesome things.
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
 - [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize) - Get beautiful, world-class documentation for any repo
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
+- [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 - [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin) - Allow you to access your calibre libraries and read books directly in Obsidian.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
