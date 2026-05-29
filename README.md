@@ -173,6 +173,7 @@ A collection of awesome things.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [gojitsucom/drivers_license_parser](https://github.com/gojitsucom/drivers_license_parser) - Easily parse the information within PDF-417 barcodes found on the back of US and Canadian driver's licenses adhering to the AAMVA Version 8
 - [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
@@ -323,6 +324,7 @@ A collection of awesome things.
 - [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [Porvil/PGP-Tool](https://github.com/Porvil/PGP-Tool) - PGP Tool for Android
+- [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) - 🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
 - [Reddmist/btc-cracker](https://github.com/Reddmist/btc-cracker) - Crack bitcoin wallet password and Collision address
 - [SimonMarquis/Android-SecretCodes](https://github.com/SimonMarquis/Android-SecretCodes) - Secret Codes is an Open Source application that allows you to browse through hidden codes of your Android phone.
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
@@ -447,6 +449,8 @@ A collection of awesome things.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [nullcpy/nullcpy.github.io](https://github.com/nullcpy/nullcpy.github.io) - NullStore: Fast, clean catalog for the latest patched (ReVanced, Revanced Extended, MorpheApp, RVX Morphed, and Revanced Advanced) Android apps and Magisk/KSU modules.
@@ -693,6 +697,7 @@ A collection of awesome things.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 - [SKGEzhil/ai-docs-generator](https://github.com/SKGEzhil/ai-docs-generator) - API Documentation and Readme generator using Langchain and RAG. Analyses the github repo and generates documentation automatically
 - [SayanoAI/RVC-Studio](https://github.com/SayanoAI/RVC-Studio) - The best looking and most functional webui for RVC related tasks. See website for UI demo:
 - [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
@@ -724,7 +729,7 @@ A collection of awesome things.
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -738,6 +743,7 @@ A collection of awesome things.
 - [cassiobotaro/certificates](https://github.com/cassiobotaro/certificates) - :mortar_board: Generate event certificates easily
 - [charwasp/modify](https://github.com/charwasp/modify) - Automatic patcher to modify APK.
 - [chr-peters/SwagbucksBot](https://github.com/chr-peters/SwagbucksBot) - 
+- [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [cicirello/generate-sitemap](https://github.com/cicirello/generate-sitemap) - Generate an XML sitemap for a GitHub Pages site using GitHub Actions
 - [cyanheads/repo-map](https://github.com/cyanheads/repo-map) - repo-map generates LLM-enhanced summaries and analysis of software repositories, providing developers with valuable insights into project structures, file purposes, and potential considerations across various programming languages.
 - [daluna-hub/username_search](https://github.com/daluna-hub/username_search) - Find any online profiles on an username.
@@ -852,6 +858,7 @@ A collection of awesome things.
 - [twhlynch/AutoModder](https://github.com/twhlynch/AutoModder) - A simple keyword based unity modding util
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [x11-repo/hack-tools-en](https://github.com/x11-repo/hack-tools-en) - "Kali replacer." It has a large number of hacking tools.
 - [xob0t/google_photos_mobile_client](https://github.com/xob0t/google_photos_mobile_client) - Google Photos client based on reverse engineered mobile API.
 
@@ -919,7 +926,6 @@ A collection of awesome things.
 - [ImKKingshuk/pkgDroid](https://github.com/ImKKingshuk/pkgDroid) - pkgDroid is a versatile and lightweight command-line tool crafted for comprehensive Android APK manipulation. Packed with advanced functionalities, pkgDroid goes beyond the basics to offer a robust toolkit for APK modding, cracking, extreme modification, and reverse engineering. Dive into the depths of Android app internals with pkgDroid.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [Juude/droidReverse](https://github.com/Juude/droidReverse) - reverse engineering tools for android（android 逆向工程工具集）
-- [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) - 🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [SirManishKumar/MNSAllTools](https://github.com/SirManishKumar/MNSAllTools) - A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under.
@@ -1035,7 +1041,7 @@ A collection of awesome things.
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1085,7 +1091,7 @@ A collection of awesome things.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [pagescms/pagescms](https://github.com/pagescms/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [passportxyz/passport-sdk](https://github.com/passportxyz/passport-sdk) - The Gitcoin Passport SDK is comprised of a set of libraries distributed on npm to help developers interact with Passport data living on [Ceramic](https://ceramic.network/).
@@ -1173,6 +1179,7 @@ A collection of awesome things.
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
+- [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [Lukejb14/Wyze-RTSP](https://github.com/Lukejb14/Wyze-RTSP) - WYZE RTSP Downloads
 - [Menace13/RoA-Workshop-Templates](https://github.com/Menace13/RoA-Workshop-Templates) - A repository for .GML code templates as examples for people to use for their own creations
 - [NDJSec/Android-Reverse-Engineering](https://github.com/NDJSec/Android-Reverse-Engineering) - A FREE comprehensive guide to learning Android Reverse Engineering. From Java, to Dalvik, to ART, to the JNI come learn along.
@@ -1203,6 +1210,7 @@ A collection of awesome things.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [always0ne/repositoryTemplate](https://github.com/always0ne/repositoryTemplate) - Repository Quick Start template
 - [ankane/awesome-legal](https://github.com/ankane/awesome-legal) - Awesome free legal documents for companies
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
@@ -1218,6 +1226,7 @@ A collection of awesome things.
 - [derberg/awesome-docs-with-static-site-generators](https://github.com/derberg/awesome-docs-with-static-site-generators) - Pointers to all templates and implementations based on static site generators
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
+- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
 - [dmthomson/6000n8nworkflows](https://github.com/dmthomson/6000n8nworkflows) - N8N Workflows Catalog
 - [dominiksalvet/template](https://github.com/dominiksalvet/template) - Template for repositories with GitHub features
 - [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
