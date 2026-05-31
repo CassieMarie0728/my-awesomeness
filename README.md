@@ -8,6 +8,7 @@ A collection of awesome things.
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -69,6 +70,7 @@ A collection of awesome things.
 ## Batchfile
 
 - [LukeAz/apk-mod-toolkit](https://github.com/LukeAz/apk-mod-toolkit) - Manual toolkit for reversing and modding android apk
+- [imluri/apktoolkit](https://github.com/imluri/apktoolkit) - APK toolkit to mod apps easier
 
 ## C
 
@@ -132,6 +134,10 @@ A collection of awesome things.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smali code files.
+
+## CMake
+
+- [termux/android-build-tools](https://github.com/termux/android-build-tools) - Unoffical CMake-based build system for android build tools
 
 ## CSS
 
@@ -201,6 +207,7 @@ A collection of awesome things.
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [RepoRadio/reporadio-cli](https://github.com/RepoRadio/reporadio-cli) - Command line interface for turning git repos into podcasts
+- [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -318,6 +325,7 @@ A collection of awesome things.
 - [HouariZegai/SpyGen](https://github.com/HouariZegai/SpyGen) - Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:
 - [JhayNotJ/wifi-bruteforcer-fsecurity](https://github.com/JhayNotJ/wifi-bruteforcer-fsecurity) - app to hack wifi
 - [L-JINBIN/ApkSignatureKiller](https://github.com/L-JINBIN/ApkSignatureKiller) - 一键破解APK签名校验
+- [Lanchon/haystack](https://github.com/Lanchon/haystack) - Signature Spoofing Patcher for Android
 - [LaughingMuffin/apk-killer-java-mod-menu](https://github.com/LaughingMuffin/apk-killer-java-mod-menu) - Android Java Mod Menu using APK Killer
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [MehdiTAZI/BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker) - the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.
@@ -328,6 +336,7 @@ A collection of awesome things.
 - [Reddmist/btc-cracker](https://github.com/Reddmist/btc-cracker) - Crack bitcoin wallet password and Collision address
 - [SimonMarquis/Android-SecretCodes](https://github.com/SimonMarquis/Android-SecretCodes) - Secret Codes is an Open Source application that allows you to browse through hidden codes of your Android phone.
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
+- [Techbrunch/billing-hack](https://github.com/Techbrunch/billing-hack) - This application allows to impersonate the Google Play Billing service (com.android.vending).
 - [WuDi-ZhanShen/ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 以shizuku身份执行命令的安卓小工具。A 50KB android app to run any commands via Shizuku.
 - [amirzaidi/Shade](https://github.com/amirzaidi/Shade) - Make your phone feel like home. Free, open source, no ads.
 - [android-password-store/open-keychain](https://github.com/android-password-store/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
@@ -358,6 +367,9 @@ A collection of awesome things.
 - [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition) - Searching people on social networking sites using Face Recognition
 - [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android) - SiYuan Android APP
 - [stfalcon-studio/ContentManager](https://github.com/stfalcon-studio/ContentManager) - Android library for getting photo or video from a device gallery, cloud or camera. Working with samsung devices. Made by Stfalcon
+- [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [termux/termux-float](https://github.com/termux/termux-float) - Termux add-on app to show the terminal in a floating terminal window.
 - [timscriptov/Frida-Injector-for-Android](https://github.com/timscriptov/Frida-Injector-for-Android) - 
 - [timwr/MSF](https://github.com/timwr/MSF) - Simple Android UI for the Metasploit RPC service
 - [utsanjan/Tsunami-Bomber-Android](https://github.com/utsanjan/Tsunami-Bomber-Android) - A free to use OTP & Call flooding android application with unlimited sending capability.
@@ -643,6 +655,7 @@ A collection of awesome things.
 
 - [0x1CA3/AdbNet](https://github.com/0x1CA3/AdbNet) - A tool that allows you to search for vulnerable android devices across the world and exploit them.
 - [0xRamInf0sec/AccountFinderBot](https://github.com/0xRamInf0sec/AccountFinderBot) - Telegram BOT for Social media account finder using person's first name or using any nick name.
+- [81U380X/apk.py](https://github.com/81U380X/apk.py) - apk.py makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [AdrMXR/KitHack](https://github.com/AdrMXR/KitHack) - Hacking tools pack & backdoors generator.
 - [AleSZanello/BitBruteForce-Wallet](https://github.com/AleSZanello/BitBruteForce-Wallet) - 
 - [AmmarrBN/Brutal-Sms](https://github.com/AmmarrBN/Brutal-Sms) - Perfect Tools Spam Brutal-Sms 24 jam non stop
@@ -699,7 +712,9 @@ A collection of awesome things.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 - [SKGEzhil/ai-docs-generator](https://github.com/SKGEzhil/ai-docs-generator) - API Documentation and Readme generator using Langchain and RAG. Analyses the github repo and generates documentation automatically
+- [SPERIXLABS/frida-apk-patcher](https://github.com/SPERIXLABS/frida-apk-patcher) - Frida APK Patcher
 - [SayanoAI/RVC-Studio](https://github.com/SayanoAI/RVC-Studio) - The best looking and most functional webui for RVC related tasks. See website for UI demo:
+- [Schwartzblat/IAAPatcher](https://github.com/Schwartzblat/IAAPatcher) - In-App purchases bypass patcher
 - [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) - Real time video recording censor 
@@ -753,7 +768,6 @@ A collection of awesome things.
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [duplaja/epub-to-audiobook-hf](https://github.com/duplaja/epub-to-audiobook-hf) - Epub to MB4 Audiobook, with StyleTTS2 via HuggingFace Spaces API
 - [elevenlabs/skills](https://github.com/elevenlabs/skills) - Collections of skills for building with ElevenLabs
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -941,6 +955,7 @@ A collection of awesome things.
 - [cyberboyplas/WhSms](https://github.com/cyberboyplas/WhSms) - Send SMS anonymously, with personalized text. Programmed by WhBeatZ
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- [fossabot/PatchApk](https://github.com/fossabot/PatchApk) - An Apk Modding Framework For Termux
 - [giacomoferretti/apk-modding-tools](https://github.com/giacomoferretti/apk-modding-tools) - A collection of tools for modding Android applications.
 - [hackerxphantom/HXP-Ducky](https://github.com/hackerxphantom/HXP-Ducky) - Most Powerfull 😈Crash any android device with virus from any link using termux or kali linux
 - [hackingmastert56/Venom-Tools-Installer](https://github.com/hackingmastert56/Venom-Tools-Installer) - Venom-Tool-Installer is a Kali Linux hacking tools installer for Termux and linux system. Venom-Tool-Installer was developed for Termux and linux based systems. Using Venom-Tool-Installer, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Venom-Tool-Installer is available for Ubuntu, Debian etc.
@@ -981,6 +996,7 @@ A collection of awesome things.
 
 - [AhMyth/AhMyth-Android-RAT](https://github.com/AhMyth/AhMyth-Android-RAT) - Android Remote Administration Tool
 - [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY) - XploitSPY is an Android Monitoring Tool 
+- [vishwesh007/HSPatcher](https://github.com/vishwesh007/HSPatcher) - One-click universal Android APK patcher with Frida gadget injection, SSL bypass, signature bypass, device spoofing, and in-app debug tools
 
 ## Svelte
 
@@ -1019,7 +1035,6 @@ A collection of awesome things.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
-- [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
