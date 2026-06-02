@@ -1121,7 +1121,7 @@ A collection of awesome things.
 - [rodydavis/agent-skills-generator](https://github.com/rodydavis/agent-skills-generator) - Generate agent skills from website documentation
 - [ryanlinjui/git-repository-analysis-system](https://github.com/ryanlinjui/git-repository-analysis-system) - GitRepoScanner: AI-powered repository analysis tool that provides comprehensive insights into your codebase.
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.
 - [siyuan-note/plugin-sample](https://github.com/siyuan-note/plugin-sample) - SiYuan plugin sample
 - [siyuan-note/plugin-sample-vite-svelte](https://github.com/siyuan-note/plugin-sample-vite-svelte) - SiYuan plugin sample with vite and svelte
 - [siyuan-note/plugin-sample-vite-vue](https://github.com/siyuan-note/plugin-sample-vite-vue) - SiYuan plugin sample with vite and vue
