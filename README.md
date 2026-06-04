@@ -548,7 +548,7 @@ A collection of awesome things.
 - [kibotu/Android-PGP](https://github.com/kibotu/Android-PGP) - Simple PGP encryption/decryption on android.
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
-- [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Android app that indexes Termux tools from metadata.
+- [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
@@ -929,7 +929,6 @@ A collection of awesome things.
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) - The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
-- [CassieMarie0728/Xiaomi-Dafang-Hacks](https://github.com/CassieMarie0728/Xiaomi-Dafang-Hacks) - 
 - [DevCoreXOfficial/termux-n8n](https://github.com/DevCoreXOfficial/termux-n8n) - 
 - [EXALAB/Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
@@ -1017,6 +1016,7 @@ A collection of awesome things.
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
 - [CassieMarie0728/snippet-bubble-manager](https://github.com/CassieMarie0728/snippet-bubble-manager) - Snippet Bubble Manager is a floating, always-on-top snippet tool that lives in your workflow like a silent little assassin. It doesn’t ask permission. It doesn’t get in your way. It just sits there—ready to drop code into your clipboard faster than your brain can say “where the hell did I put that?”
 - [CassieMarie0728/snippet-bubble-manager-v2](https://github.com/CassieMarie0728/snippet-bubble-manager-v2) - A mobile code snippet manager with a floating overlay bubble for instant access to code snippets from any app. Features include local search, copy to clipboard, favorites, pinning, and offline storage. · Built with Manus
+- [CassieMarie0728/void-repo-docs](https://github.com/CassieMarie0728/void-repo-docs) - Codebase-specific AI-generated legal documents .
 - [DanielHallx/static-blog-editor](https://github.com/DanielHallx/static-blog-editor) - A visual blog editor for static blogs with GitHub integration. Works with Astro, Hugo, Jekyll, Eleventy, Gatsby, and any static site generator that uses Markdown files. Manage your blog content through an elegant web interface with Markdown editing, image uploads, and real-time preview.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
