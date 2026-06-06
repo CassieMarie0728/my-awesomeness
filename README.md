@@ -658,6 +658,7 @@ A collection of awesome things.
 - [AdrMXR/KitHack](https://github.com/AdrMXR/KitHack) - Hacking tools pack & backdoors generator.
 - [AleSZanello/BitBruteForce-Wallet](https://github.com/AleSZanello/BitBruteForce-Wallet) - 
 - [AmmarrBN/Brutal-Sms](https://github.com/AmmarrBN/Brutal-Sms) - Perfect Tools Spam Brutal-Sms 24 jam non stop
+- [ArkanDash/Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference) - Advanced RVC Inference for quicker and effortless model downloads
 - [AryanVBW/AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) - Revolutionize Your Voice with AI Voice Cloner! Transform Your Speech into Your Favorite Celebrity's or Your Customized Voice. Our Cutting-edge Tool Converts Text or Any Audio into Your Desired Voice – Your Voice, Your Way
 - [AuthenticXploit/BruteFB-Target](https://github.com/AuthenticXploit/BruteFB-Target) - Hacking facebook account is targeted by bruteforce method
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
