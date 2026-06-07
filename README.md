@@ -474,7 +474,7 @@ A collection of awesome things.
 - [pushkarydv/markdownbadges](https://github.com/pushkarydv/markdownbadges) - Generate amazing svg markdown badges within few clicks 
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
-- [sanjeevpdsnm/Github_Portfolio_Analyzer](https://github.com/sanjeevpdsnm/Github_Portfolio_Analyzer) - Github Portfolio Analyzer – A tool that analyzes GitHub profiles and repositories to generate insights, portfolio summaries, and developer statistics automatically.
+- [sanjeev-kumar-patel/Github_Portfolio_Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer) - Github Portfolio Analyzer – A tool that analyzes GitHub profiles and repositories to generate insights, portfolio summaries, and developer statistics automatically.
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
 - [squireChuck/us-states-ref-client](https://github.com/squireChuck/us-states-ref-client) - Cheatsheet of info related to U.S. states, e.g. sample addresses, driver's license formats, etc.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -677,7 +677,7 @@ A collection of awesome things.
 - [DavidMGilbert/btc-hack](https://github.com/DavidMGilbert/btc-hack) - An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API .
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - Self-evolving memory across Agent and platform.
+- [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
@@ -1017,6 +1017,7 @@ A collection of awesome things.
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl) - High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative
+- [CassieMarie0728/jekyll-forge-mobile](https://github.com/CassieMarie0728/jekyll-forge-mobile) - A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs.
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
 - [CassieMarie0728/snippet-bubble-manager](https://github.com/CassieMarie0728/snippet-bubble-manager) - Snippet Bubble Manager is a floating, always-on-top snippet tool that lives in your workflow like a silent little assassin. It doesn’t ask permission. It doesn’t get in your way. It just sits there—ready to drop code into your clipboard faster than your brain can say “where the hell did I put that?”
 - [CassieMarie0728/snippet-bubble-manager-v2](https://github.com/CassieMarie0728/snippet-bubble-manager-v2) - A mobile code snippet manager with a floating overlay bubble for instant access to code snippets from any app. Features include local search, copy to clipboard, favorites, pinning, and offline storage. · Built with Manus
