@@ -227,7 +227,6 @@ A collection of awesome things.
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [nikhil1raghav/kindle-send](https://github.com/nikhil1raghav/kindle-send) - Send webpages, documents and bookmarks to kindle
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
@@ -289,6 +288,7 @@ A collection of awesome things.
 - [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) -   🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO,   Trading, Video, PM workflows included.
 - [noob-hackers/grabcam](https://github.com/noob-hackers/grabcam) - A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers
 - [octobook/gitbook-to-octobook-sample](https://github.com/octobook/gitbook-to-octobook-sample) - Gitbook to Octobook - How to publish your manuscripts (in text w/ formatting conventions in markdown) with book.yml and octobook book themes for jekyll (works w/ GitHub Pages and remote themes too)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [pembriahmad/EAS-Phish](https://github.com/pembriahmad/EAS-Phish) - Phishing's easy tools for the need to hack a social media account
 - [pvanfas/socialphish](https://github.com/pvanfas/socialphish) - The most complete Phishing Tool, with 32 templates +1 customizable. Legal disclaimer by creators: Usage of SocialPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws.
 - [reitermarkus/epub3-boilerplate](https://github.com/reitermarkus/epub3-boilerplate) - :closed_book: An EPUB 3.0 template to help you get started with your ebook. (Includes iBooks display options.)
