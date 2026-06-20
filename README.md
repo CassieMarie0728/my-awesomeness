@@ -847,7 +847,7 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
-- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI-assisted engineering teams: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [roosmsg/acsm-convert](https://github.com/roosmsg/acsm-convert) - ACSM download and remove DRM, for Docker.
 - [sadatt123/repo-digest](https://github.com/sadatt123/repo-digest) - 📦 Transform any code repository into an AI-ready text bundle, enhancing analytics and enabling smarter code reviews and documentation.
@@ -1021,7 +1021,7 @@ A collection of awesome things.
 - [CassieMarie0728/jekyll-forge-mobile](https://github.com/CassieMarie0728/jekyll-forge-mobile) - A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs.
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
 - [CassieMarie0728/snippet-bubble-manager](https://github.com/CassieMarie0728/snippet-bubble-manager) - Snippet Bubble Manager is a floating, always-on-top snippet tool that lives in your workflow like a silent little assassin. It doesn’t ask permission. It doesn’t get in your way. It just sits there—ready to drop code into your clipboard faster than your brain can say “where the hell did I put that?”
-- [CassieMarie0728/snippet-bubble-manager-v2](https://github.com/CassieMarie0728/snippet-bubble-manager-v2) - A mobile code snippet manager with a floating overlay bubble for instant access to code snippets from any app. Features include local search, copy to clipboard, favorites, pinning, and offline storage. · Built with Manus
+- [CassieMarie0728/snippet-bubble-manager-v2](https://github.com/CassieMarie0728/snippet-bubble-manager-v2) - A mobile code snippet manager with a floating overlay bubble for instant access to code snippets from any app. Features include local search, copy to clipboard, favorites, pinning, and offline storage. 
 - [CassieMarie0728/void-repo-docs](https://github.com/CassieMarie0728/void-repo-docs) - Codebase-specific AI-generated legal documents .
 - [DanielHallx/static-blog-editor](https://github.com/DanielHallx/static-blog-editor) - A visual blog editor for static blogs with GitHub integration. Works with Astro, Hugo, Jekyll, Eleventy, Gatsby, and any static site generator that uses Markdown files. Manage your blog content through an elegant web interface with Markdown editing, image uploads, and real-time preview.
 - [DeadWaveWave/demo2apk](https://github.com/DeadWaveWave/demo2apk) - Turn your Vibe Coding ideas into runnable Android Apps instantly
