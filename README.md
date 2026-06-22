@@ -800,6 +800,7 @@ A collection of awesome things.
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [jaymzh/pius](https://github.com/jaymzh/pius) - PGP Individual User Signer
 - [jfraj/socialSearch](https://github.com/jfraj/socialSearch) - python script to seach social media
+- [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [kactlabs/fake-email-identifier](https://github.com/kactlabs/fake-email-identifier) - We find Fake Emails
 - [kaifcodec/apk-patchx](https://github.com/kaifcodec/apk-patchx) - apk-patchx a command-line tool that makes APK manipulation & frida-gadget injection fast, automated, modular, and developer-friendly.
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
@@ -824,7 +825,6 @@ A collection of awesome things.
 - [moshe19909090/ai-repository-summarizer](https://github.com/moshe19909090/ai-repository-summarizer) - FastAPI service that generates structured LLM-based summaries for public GitHub repositories using context-aware filtering and bounded token usage.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [msampathkumar/FakeReceiptImageGenerator](https://github.com/msampathkumar/FakeReceiptImageGenerator) - Receipt Generator using PIL, Python
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [n0nexist/ApkTear](https://github.com/n0nexist/ApkTear) - Universal apk modding tool; decompile, recompile, sign & more!
 - [nanzerrous/accountScanner](https://github.com/nanzerrous/accountScanner) - This is used to know what social media account that an email have
