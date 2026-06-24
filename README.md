@@ -261,6 +261,7 @@ A collection of awesome things.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
 - [OshekharO/Reverse-Engineering](https://github.com/OshekharO/Reverse-Engineering) - List of awesome reverse engineering resources
 - [OtsoBear/docs-exporter](https://github.com/OtsoBear/docs-exporter) - Export multiple mintlify docs pages into a single piece of text to feed to LLMs
+- [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
@@ -272,6 +273,7 @@ A collection of awesome things.
 - [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) - a medium inspired jekyll theme
 - [f-droid/fdroid-website](https://github.com/f-droid/fdroid-website) - mirror of https://gitlab.com/fdroid/fdroid-website
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [hackerxphantom/HACK-CAMERA](https://github.com/hackerxphantom/HACK-CAMERA) - Hack Victim android Camera Using Link with Termux/Kali-linux 
 - [heiswayi/pgp](https://github.com/heiswayi/pgp) - PGP Suite - A simple and easy-to-use client-side PGP tool.
@@ -332,7 +334,7 @@ A collection of awesome things.
 - [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [Porvil/PGP-Tool](https://github.com/Porvil/PGP-Tool) - PGP Tool for Android
-- [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) - 🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
+- [PsProsen-Dev/OpenClawOnAndroid](https://github.com/PsProsen-Dev/OpenClawOnAndroid) - OpenClaw on Android (OCA) - Run OpenClaw on Android with a single command — no proot, no Linux -🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
 - [Reddmist/btc-cracker](https://github.com/Reddmist/btc-cracker) - Crack bitcoin wallet password and Collision address
 - [SimonMarquis/Android-SecretCodes](https://github.com/SimonMarquis/Android-SecretCodes) - Secret Codes is an Open Source application that allows you to browse through hidden codes of your Android phone.
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
@@ -777,6 +779,7 @@ A collection of awesome things.
 - [fairy-root/epub-to-audiobook](https://github.com/fairy-root/epub-to-audiobook) - This python script uses OpenAI API Text To Speech TTS Voice to convert Epub books to Audiobooks with ability to save progress and resume it.
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, plugins, hooks and agents that I use daily.
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
+- [fmhy/bot](https://github.com/fmhy/bot) - 🦕 Bot for our discord
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [fr13nds-group/PayPal-Hacker](https://github.com/fr13nds-group/PayPal-Hacker) - A paypal balance adder for PayPal use
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription. 
@@ -813,7 +816,7 @@ A collection of awesome things.
 - [man-group/notebooker](https://github.com/man-group/notebooker) - Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 - [mateogon/pdf-narrator](https://github.com/mateogon/pdf-narrator) - Convert your PDFs and EPUBs into audiobooks effortlessly. Features intelligent text extraction, customizable text-to-speech settings, and efficient processing for low-resource systems.
 - [mazen160/shennina](https://github.com/mazen160/shennina) - Automating Host Exploitation with AI
-- [meetpandya27/plaidify](https://github.com/meetpandya27/plaidify) - Production-oriented authenticated web access service with hosted link flows, signed launch tokens, scoped extraction, and agent-facing APIs.
+- [meetpandya27/plaidify](https://github.com/meetpandya27/plaidify) - The open-source gateway to authenticated web data — connect to any user-authorized site via REST API, hosted link, or MCP, with MFA handling under a read-only posture.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/holehe-maltego](https://github.com/megadose/holehe-maltego) - Holehe transform for maltego
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
@@ -1045,6 +1048,7 @@ A collection of awesome things.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
+- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) - The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing Model Context Protocol (MCP) servers—bringing together AI tools, workspaces, prompts, and logs from multiple MCP sources (Claude, Cursor, etc.) under one roof.
 - [YasogaN/APK-Mods-Search](https://github.com/YasogaN/APK-Mods-Search) - APK Mods Search is a search engine for modded APKs.
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
