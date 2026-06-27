@@ -4,6 +4,7 @@ A collection of awesome things.
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c-1)
@@ -66,6 +67,10 @@ A collection of awesome things.
 ## Astro
 
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## AutoHotkey
+
+- [Special-Niewbie/FolderTreeCreator](https://github.com/Special-Niewbie/FolderTreeCreator) - 🗂️ Simple and portable tool to visually create folder and file structures. Ideal for organizing files, planning projects, or generating directory trees. No installation required.
 
 ## Batchfile
 
@@ -618,11 +623,11 @@ A collection of awesome things.
 - [kd2org/picodav](https://github.com/kd2org/picodav) - Single-file WebDAV server, just drop it in a directory!
 - [louiswalch/Wordpress-Theme-Framework](https://github.com/louiswalch/Wordpress-Theme-Framework) - Collection of resources to aid in theme authoring, clean up the default Frontend output and streamline the Dashboard. 
 - [magento/magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
-- [mentionbb/mentionbb](https://github.com/mentionbb/mentionbb) - A classic forum system with next-gen.
 - [mitchmac/ServerlessWP](https://github.com/mitchmac/ServerlessWP) - Host WordPress sites on Vercel, Netlify, or AWS Lambda
 - [msaad1999/KLiK-SocialMediaWebsite](https://github.com/msaad1999/KLiK-SocialMediaWebsite) - Complete PHP-based Login/Registration system, Profile system, Chat room, Forum system and Blog/Polls/Event Management System.
 - [mybb/mybb](https://github.com/mybb/mybb) - MyBB is a free and open source forum software.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [par274/mentionbb](https://github.com/par274/mentionbb) - A classic forum system with next-gen.
 - [phpbb/phpbb](https://github.com/phpbb/phpbb) -  phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [projectkevin/Social-Search](https://github.com/projectkevin/Social-Search) - sclsrch.com code for social media search engine via API
@@ -1307,7 +1312,7 @@ A collection of awesome things.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog
-- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, projects, supported apps and patches. Get notifications whenever there are new updates.
+- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, projects, supported apps and patches. Get daily notifications when there are new updates.
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
