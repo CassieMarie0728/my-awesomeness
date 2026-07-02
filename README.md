@@ -594,7 +594,7 @@ A collection of awesome things.
 
 ## Nunjucks
 
-- [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator.
+- [11ty/docs](https://github.com/11ty/docs) - Documentation site for the Eleventy static site generator.
 
 ## OCaml
 
