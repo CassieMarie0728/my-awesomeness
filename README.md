@@ -594,7 +594,7 @@ A collection of awesome things.
 
 ## Nunjucks
 
-- [11ty/docs](https://github.com/11ty/docs) - Documentation site for the Eleventy static site generator.
+- [11ty/docs](https://github.com/11ty/docs) - Documentation site for the Build Awesome (Eleventy) static site generator.
 
 ## OCaml
 
@@ -799,7 +799,7 @@ A collection of awesome things.
 - [hasanfirnas/symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
-- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Conversion of PDF documents to structured Markdown, optimized for Retrieval Augmented Generation (RAG) and other NLP tasks. Extract text, tables, and images with preserved formatting for enhanced information retrieval and processing.
+- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown
 - [initstring/lyricpass](https://github.com/initstring/lyricpass) - Password wordlist generator using song lyrics for targeted bruteforce audits / attacks. Useful for penetration testing or security research.
 - [internetarchive/epub](https://github.com/internetarchive/epub) - For code related to making ePub files
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
