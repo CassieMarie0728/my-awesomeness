@@ -433,6 +433,7 @@ A collection of awesome things.
 - [captn3m0/potion](https://github.com/captn3m0/potion) - Potion is github-pages compatible editor for jekyll blogs.
 - [commonality/generator-community](https://github.com/commonality/generator-community) - ䷤ Generate README, CODE_OF_CONDUCT, CONTRIBUTING, LICENSE, ISSUE_TEMPLATE, and PULL_REQUEST_TEMPLATE repository docs to encourage consumption and invite contributions.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
+- [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
 - [craihub/clawgpt-app](https://github.com/craihub/clawgpt-app) - ClawGPT Android app - Mobile companion for OpenClaw
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Proof of concept. Code snippets manager for developers. PWA. 
@@ -1357,6 +1358,6 @@ A collection of awesome things.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-- [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 9146+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
+- [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 10258+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
