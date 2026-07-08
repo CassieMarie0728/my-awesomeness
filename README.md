@@ -705,7 +705,7 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
@@ -1184,7 +1184,7 @@ A collection of awesome things.
 ## Vue
 
 - [Acreom/app](https://github.com/Acreom/app) - 2nd brain for software engineers. A local-first knowledge base for your daily context and projects.
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons) - Fluenticons is an icon viewer for Microsofts fluent icons, with over 4000 pixel perfect icons in outlined and solid styles. Download the icons as SVG, PNG, WEBP, Vue component, React Component and HTML Image.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
@@ -1324,6 +1324,7 @@ A collection of awesome things.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [pjobson/Microsoft-365-Fonts](https://github.com/pjobson/Microsoft-365-Fonts) - all cloud fonts from office 365
 - [pkgforge-security/Wordlists](https://github.com/pkgforge-security/Wordlists) - [Custom || Automated] Curation & Collection of BugBounty Wordlists
+- [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
