@@ -650,6 +650,7 @@ A collection of awesome things.
 
 ## PowerShell
 
+- [CameliaD/File-Organizer](https://github.com/CameliaD/File-Organizer) - This Git repository contains a PowerShell script with a user-friendly interface to automatically organize cluttered files into folders by year and month. Ideal for individuals who struggle with file organization, the tool frees up time and simplifies finding and accessing files. 
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [Sterh20/note-taking-templates](https://github.com/Sterh20/note-taking-templates) - A repo for original note-taking templates, notebook covers for E-Ink readers, and a grid generator made in Figma
 - [esoltys/Repo-Documenter](https://github.com/esoltys/Repo-Documenter) - Repo-Documenter is a PowerShell script that generates comprehensive documentation for a repository, including a tree view of the repository structure and the contents of specified files. The aggregated file is useful for code review, documentation, or use by an AI assistant.
@@ -801,6 +802,7 @@ A collection of awesome things.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 - [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown
+- [ibLeDy/folder-organizer](https://github.com/ibLeDy/folder-organizer) - Organize files in a windows-like folder structure
 - [initstring/lyricpass](https://github.com/initstring/lyricpass) - Password wordlist generator using song lyrics for targeted bruteforce audits / attacks. Useful for penetration testing or security research.
 - [internetarchive/epub](https://github.com/internetarchive/epub) - For code related to making ePub files
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
@@ -1094,6 +1096,7 @@ A collection of awesome things.
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+- [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
@@ -1149,6 +1152,7 @@ A collection of awesome things.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
 - [solrachix/icons-manager](https://github.com/solrachix/icons-manager) - A desktop icon manager application
+- [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
 - [sreyas-cheviri/consciousapp](https://github.com/sreyas-cheviri/consciousapp) - Consciousapp: A second brain web app to save and search links, notes, & other media from various sources effortlessly.
 - [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [supabase/agent-skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase
@@ -1317,6 +1321,7 @@ A collection of awesome things.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog
 - [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, projects, supported apps and patches. Get daily notifications when there are new updates.
+- [onggiabayluon/laptop-folder-structure](https://github.com/onggiabayluon/laptop-folder-structure) - Custom Folder Structure template for a clean laptop with best naming practice 
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
