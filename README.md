@@ -74,6 +74,7 @@ A collection of awesome things.
 
 ## Batchfile
 
+- [1999AZZAR/Windows-Script-Collection](https://github.com/1999AZZAR/Windows-Script-Collection) - This repository contains a collection of Windows scripts designed to enhance various aspects of your Windows machine. Each script serves a specific purpose and is accompanied by a README file with instructions on how to use it.
 - [LukeAz/apk-mod-toolkit](https://github.com/LukeAz/apk-mod-toolkit) - Manual toolkit for reversing and modding android apk
 - [imluri/apktoolkit](https://github.com/imluri/apktoolkit) - APK toolkit to mod apps easier
 
@@ -232,6 +233,7 @@ A collection of awesome things.
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [nikhil1raghav/kindle-send](https://github.com/nikhil1raghav/kindle-send) - Send webpages, documents and bookmarks to kindle
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
@@ -295,7 +297,6 @@ A collection of awesome things.
 - [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) -   🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO,   Trading, Video, PM workflows included.
 - [noob-hackers/grabcam](https://github.com/noob-hackers/grabcam) - A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers
 - [octobook/gitbook-to-octobook-sample](https://github.com/octobook/gitbook-to-octobook-sample) - Gitbook to Octobook - How to publish your manuscripts (in text w/ formatting conventions in markdown) with book.yml and octobook book themes for jekyll (works w/ GitHub Pages and remote themes too)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [pembriahmad/EAS-Phish](https://github.com/pembriahmad/EAS-Phish) - Phishing's easy tools for the need to hack a social media account
 - [pvanfas/socialphish](https://github.com/pvanfas/socialphish) - The most complete Phishing Tool, with 32 templates +1 customizable. Legal disclaimer by creators: Usage of SocialPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws.
 - [reitermarkus/epub3-boilerplate](https://github.com/reitermarkus/epub3-boilerplate) - :closed_book: An EPUB 3.0 template to help you get started with your ebook. (Includes iBooks display options.)
@@ -494,6 +495,7 @@ A collection of awesome things.
 ## Jupyter Notebook
 
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [Illia-the-coder/GDrive-Folders-organizer](https://github.com/Illia-the-coder/GDrive-Folders-organizer) - This Jupyter notebook helps organize files in a Google Drive directory based on their file extensions. Files will be sorted into predefined categories depending on their types (documents, multimedia files, code files, etc.).
 - [ShiromiyaG/RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker) - Performs the entire AI cover generation process
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -576,6 +578,7 @@ A collection of awesome things.
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
 - [jaroslaw-janikowski/AndroTermux](https://github.com/jaroslaw-janikowski/AndroTermux) - Simple way to build Android apps in Termux.
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
+- [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 
 ## Markdown
 
@@ -706,8 +709,9 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
+- [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) - Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
@@ -738,6 +742,7 @@ A collection of awesome things.
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [TrueBurn/ai-codebase-scribe](https://github.com/TrueBurn/ai-codebase-scribe) - AI-powered documentation generator that analyzes codebases to create comprehensive project documentation. Supports multiple LLM providers (Ollama, AWS Bedrock), produces README, architecture docs, API docs, and developer guides.
 - [W1LDN16H7/StegoCracker](https://github.com/W1LDN16H7/StegoCracker) - Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
+- [WiseDodge/ArchiveSorter](https://github.com/WiseDodge/ArchiveSorter) - A file management system for turning digital chaos into an organized archive. Includes scripts to sort, analyze, and consolidate files.
 - [Xer0bit/BookWriter-Lamma3.1-OPENAI](https://github.com/Xer0bit/BookWriter-Lamma3.1-OPENAI) - A revolutionary tool that leverages GPT API or LLaMA 3.1 model to write complete books locally, empowering authors to automate their writing process and boost creativity.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Zahin-Tajwar/Acc-Hunter](https://github.com/Zahin-Tajwar/Acc-Hunter) - Hunt down social media accounts.
@@ -835,6 +840,7 @@ A collection of awesome things.
 - [modded-android/development](https://github.com/modded-android/development) - The Development Repo for Modded Android
 - [moshe19909090/ai-repository-summarizer](https://github.com/moshe19909090/ai-repository-summarizer) - FastAPI service that generates structured LLM-based summaries for public GitHub repositories using context-aware filtering and bounded token usage.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
+- [mrks111/folder-organizer](https://github.com/mrks111/folder-organizer) - This Python script helps you automatically organize a messy folder by sorting files into predefined categories. It uses a graphical user interface (GUI) to select the target folder, making it easy to use.  
 - [msampathkumar/FakeReceiptImageGenerator](https://github.com/msampathkumar/FakeReceiptImageGenerator) - Receipt Generator using PIL, Python
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [n0nexist/ApkTear](https://github.com/n0nexist/ApkTear) - Universal apk modding tool; decompile, recompile, sign & more!
