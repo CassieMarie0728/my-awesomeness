@@ -281,6 +281,7 @@ A collection of awesome things.
 - [f-droid/fdroid-website](https://github.com/f-droid/fdroid-website) - mirror of https://gitlab.com/fdroid/fdroid-website
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [hackerxphantom/HACK-CAMERA](https://github.com/hackerxphantom/HACK-CAMERA) - Hack Victim android Camera Using Link with Termux/Kali-linux 
 - [heiswayi/pgp](https://github.com/heiswayi/pgp) - PGP Suite - A simple and easy-to-use client-side PGP tool.
@@ -906,7 +907,6 @@ A collection of awesome things.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [emoriarty/jekyll-notion](https://github.com/emoriarty/jekyll-notion) - Use Notion as a CMS for Jekyll.
-- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [mrbrutti/esearchy](https://github.com/mrbrutti/esearchy) - Email search app that searchs many places for email accounts. 
