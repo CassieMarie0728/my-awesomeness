@@ -710,7 +710,7 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
