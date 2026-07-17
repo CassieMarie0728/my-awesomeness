@@ -258,7 +258,6 @@ A collection of awesome things.
 - [CassieMarie0728/cassie-marie](https://github.com/CassieMarie0728/cassie-marie) - Home of THE AFTERMATH DIARIES
 - [Cyber-Anonymous/Dark-Phish](https://github.com/Cyber-Anonymous/Dark-Phish) - A Powerful Phishing Tool with 50+ phishing templates. For more about Dark-Phish tool please visit the website.
 - [Devil-Tigers/CamHack](https://github.com/Devil-Tigers/CamHack) - Best Front Camera Hacking Tool very Fast and easy hack Front Camera by sending a LINK 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [Err0r-ICA/Phishbait](https://github.com/Err0r-ICA/Phishbait) - 100% working Phishing Tool (38 websites) 
 - [Gexos/Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - A list of security/hacking tools that have been collected from the internet. Suggestions are welcomed.
 - [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons today on IconScout!
@@ -894,7 +893,7 @@ A collection of awesome things.
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [x11-repo/hack-tools-en](https://github.com/x11-repo/hack-tools-en) - "Kali replacer." It has a large number of hacking tools.
-- [xob0t/google_photos_mobile_client](https://github.com/xob0t/google_photos_mobile_client) - Google Photos client based on reverse engineered mobile API.
+- [xob0t/gpmc](https://github.com/xob0t/gpmc) - Google Photos client based on reverse engineered mobile API.
 
 ## RMarkdown
 
@@ -1214,6 +1213,7 @@ A collection of awesome things.
 - [Achno/debloat-samsung-ADB-shizuku](https://github.com/Achno/debloat-samsung-ADB-shizuku) -   A list of bloatware packages that samsung phones have with instructions to remove them
 - [Correia-jpv/fucking-beautiful-docs](https://github.com/Correia-jpv/fucking-beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-design-resources-for-developers](https://github.com/Correia-jpv/fucking-design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more. With repository stars⭐ and forks🍴
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [Duduxs/Awesome-README-Templates](https://github.com/Duduxs/Awesome-README-Templates) - 🤙 Some great readmes 4 u
 - [Easy-Hugo/release](https://github.com/Easy-Hugo/release) - Write Hugo Blogs on Android
