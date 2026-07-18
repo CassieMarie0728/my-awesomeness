@@ -290,6 +290,7 @@ A collection of awesome things.
 - [javierarce/epub-boilerplate](https://github.com/javierarce/epub-boilerplate) - A simple template to help you create ePub-formatted books.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [junguler/m3u-audiobooks](https://github.com/junguler/m3u-audiobooks) - collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
+- [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
@@ -362,6 +363,7 @@ A collection of awesome things.
 - [k3b/APhotoManager](https://github.com/k3b/APhotoManager) - Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .
 - [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
 - [leclem/androidappfromwebsite](https://github.com/leclem/androidappfromwebsite) - Android app displaying a website, supporting Facebook connect and displaying a loading bar when the user is loading a page
+- [loerting/dalvikus](https://github.com/loerting/dalvikus) - Android reverse-engineering tool / smali editor
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [nextcloud/notes-android](https://github.com/nextcloud/notes-android) - ✎ Android client for Nextcloud Notes app.
@@ -709,12 +711,13 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) - Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
+- [ON00dev/Smali.Smali](https://github.com/ON00dev/Smali.Smali) - Get the Smali code from APK! This script unzips APKs and decompiles DEX to Smali. Perfect for developers, modders and enthusiasts. Happy Decompiling! ✨
 - [OblivCode/RepoRadio](https://github.com/OblivCode/RepoRadio) - RepoRadio 🎙️ – An automated repo-to-audio engine. Uses local LLMs (Ollama) and high-fidelity TTS (Kokoro/ElevenLabs) to transform codebases into engaging audio banter. Fully local-first with optional cloud-switching for premium production.
 - [OpenBookPublishers/epublius](https://github.com/OpenBookPublishers/epublius) - Generates a stylised HTML site from an ePub book
 - [Pls-1q43/ChatGPT-Chat-History-To-Notion](https://github.com/Pls-1q43/ChatGPT-Chat-History-To-Notion) - A simple script to import all your chats in ChatGPT into Notion.
@@ -984,12 +987,11 @@ A collection of awesome things.
 - [irtiq7/OpenClaw-Android](https://github.com/irtiq7/OpenClaw-Android) - This repo allows users to download their OpenClaw into their Android devices.
 - [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you. https://github.com/jackind424/onex
 - [jfogarty/latex-nonfiction-ebook-template](https://github.com/jfogarty/latex-nonfiction-ebook-template) - A LaTeX template for typesetting a professional print-on-demand nonfiction technical book, eBook (.epub, .mobi), and website
-- [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [kodika/MutataApp](https://github.com/kodika/MutataApp) - 
 - [littlebearapps/pitchdocs](https://github.com/littlebearapps/pitchdocs) - Turn any codebase into professional, marketing-ready GitHub documentation — powered by AI coding assistants
 - [lomorage/lomo-importer-release](https://github.com/lomorage/lomo-importer-release) - Batch import tool like: import Google Photos to Lomorage
 - [mahendraplus/github-repo-image-generator](https://github.com/mahendraplus/github-repo-image-generator) - A powerful tool for efficiently downloading beautiful social media images from your GitHub repositories in bulk. Simplify the process of creating engaging visuals for your projects with just a few commands!
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [minterm/rtsp-cloud-cam](https://github.com/minterm/rtsp-cloud-cam) - Save an RTSP stream from a cheap IP camera to the cloud through Dropbox.
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) -  All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
@@ -1373,6 +1375,7 @@ A collection of awesome things.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+- [yo-yo-yo-jbo/android_smali](https://github.com/yo-yo-yo-jbo/android_smali) - Android SMALI patching
 - [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 10258+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
