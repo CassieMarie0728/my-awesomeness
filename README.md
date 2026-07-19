@@ -361,7 +361,6 @@ A collection of awesome things.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [johannesschaefer/webnettools](https://github.com/johannesschaefer/webnettools) - Web Net Tools is a web frontend for some useful command line tooling. It provides especially an web frontend for tools like testssl.sh and nmap.
 - [k3b/APhotoManager](https://github.com/k3b/APhotoManager) - Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .
-- [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
 - [leclem/androidappfromwebsite](https://github.com/leclem/androidappfromwebsite) - Android app displaying a website, supporting Facebook connect and displaying a loading bar when the user is loading a page
 - [loerting/dalvikus](https://github.com/loerting/dalvikus) - Android reverse-engineering tool / smali editor
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
@@ -614,7 +613,7 @@ A collection of awesome things.
 - [DigitalPublishingToolkit/epubster](https://github.com/DigitalPublishingToolkit/epubster) - A web application to create and edit EPUBs, written in CakePHP.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [WordPress/php-toolkit](https://github.com/WordPress/php-toolkit) - Standalone, dependency-free PHP libraries for WordPress and PHP projects — XML, ZIP, Git, HTTP, Markdown, Filesystem, and more.
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod 
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
@@ -705,13 +704,14 @@ A collection of awesome things.
 - [JarodMica/ai-voice-cloning](https://github.com/JarodMica/ai-voice-cloning) - 
 - [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced and Morphe resources, patches and projects!
 - [Keeper-Security/secrets-manager](https://github.com/Keeper-Security/secrets-manager) - Keeper Secrets Manager is a cloud-based, zero-knowledge platform for securing infrastructure secrets. Provides automatic password rotation and integration into popular DevOps CI/CD tools.
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) - For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp
 - [KoeAI/LLVC](https://github.com/KoeAI/LLVC) - 
 - [Leseratte10/acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - Calibre plugin for ACSM-&gt;EPUB and ACSM-&gt;PDF conversion.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
@@ -851,6 +851,7 @@ A collection of awesome things.
 - [ncorbuk/Python-Tutorial---Hunt-Down-Social-Media-Accounts-by-Usernames-for-Open-Source-Intelligence-](https://github.com/ncorbuk/Python-Tutorial---Hunt-Down-Social-Media-Accounts-by-Usernames-for-Open-Source-Intelligence-) - Python Tutorial - || Hunt Down Social Media Accounts by Usernames for Open-Source Intelligence ||
 - [nitely/Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python/Django forum
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
+- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, projects, supported apps and patches. Get daily notifications when there are new updates.
 - [obfusk/apksigcopier](https://github.com/obfusk/apksigcopier) - apksigcopier - copy/extract/patch android apk signatures & compare apks
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -1229,7 +1230,6 @@ A collection of awesome things.
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
-- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [Lukejb14/Wyze-RTSP](https://github.com/Lukejb14/Wyze-RTSP) - WYZE RTSP Downloads
 - [Menace13/RoA-Workshop-Templates](https://github.com/Menace13/RoA-Workshop-Templates) - A repository for .GML code templates as examples for people to use for their own creations
@@ -1329,7 +1329,6 @@ A collection of awesome things.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog
-- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, projects, supported apps and patches. Get daily notifications when there are new updates.
 - [onggiabayluon/laptop-folder-structure](https://github.com/onggiabayluon/laptop-folder-structure) - Custom Folder Structure template for a clean laptop with best naming practice 
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
