@@ -229,7 +229,7 @@ A collection of awesome things.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [igor-kupczynski/notion-exporter](https://github.com/igor-kupczynski/notion-exporter) - An experiment to export my notion workspace into a set of markdown files
 - [modood/hdkeygen](https://github.com/modood/hdkeygen) - This is a very simple and easy-to-use key/wallet generator for Bitcoin (BTC) and Ethereum (ETH). It's implemented in Golang and incorporates the BIP32, BIP39, BIP43, BIP44, BIP49, BIP84, BIP86, BIP173, SLIP44, and EIP55 protocols. This allows for the creation of keys, mnemonic seeds, and Hierarchical Deterministic (HD) addresses.
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://tty.fail/mrus/superhighway84)
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [nikhil1raghav/kindle-send](https://github.com/nikhil1raghav/kindle-send) - Send webpages, documents and bookmarks to kindle
