@@ -277,6 +277,7 @@ A collection of awesome things.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [dbaslan/CodeSnippetGenerator](https://github.com/dbaslan/CodeSnippetGenerator) - A web application that leverages an LLM to generate code snippets based on user inputs
 - [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) - a medium inspired jekyll theme
+- [dolunay38/BookVoice-AI](https://github.com/dolunay38/BookVoice-AI) - Open-source AI audiobook studio — EPUB, voice cloning, Turkish/German/English
 - [f-droid/fdroid-website](https://github.com/f-droid/fdroid-website) - mirror of https://gitlab.com/fdroid/fdroid-website
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
@@ -500,6 +501,7 @@ A collection of awesome things.
 - [Illia-the-coder/GDrive-Folders-organizer](https://github.com/Illia-the-coder/GDrive-Folders-organizer) - This Jupyter notebook helps organize files in a Google Drive directory based on their file extensions. Files will be sorted into predefined categories depending on their types (documents, multimedia files, code files, etc.).
 - [ShiromiyaG/RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker) - Performs the entire AI cover generation process
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
+- [Xyroset/AI-Digital-Doppelganger](https://github.com/Xyroset/AI-Digital-Doppelganger) - A highly customizable AI companion for Telegram. Create digital clones with unique personalities, voice, and vision directly from Google Colab.
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [ardha27/AI-Song-Cover-RVC](https://github.com/ardha27/AI-Song-Cover-RVC) - All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run inference.
 - [ardha27/AICoverGen-NoUI-Colab](https://github.com/ardha27/AICoverGen-NoUI-Colab) - 
@@ -712,7 +714,7 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
@@ -720,6 +722,7 @@ A collection of awesome things.
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) - Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
 - [ON00dev/Smali.Smali](https://github.com/ON00dev/Smali.Smali) - Get the Smali code from APK! This script unzips APKs and decompiles DEX to Smali. Perfect for developers, modders and enthusiasts. Happy Decompiling! ✨
 - [OblivCode/RepoRadio](https://github.com/OblivCode/RepoRadio) - RepoRadio 🎙️ – An automated repo-to-audio engine. Uses local LLMs (Ollama) and high-fidelity TTS (Kokoro/ElevenLabs) to transform codebases into engaging audio banter. Fully local-first with optional cloud-switching for premium production.
+- [Oli97430/OneClick-AUDIOBOOK](https://github.com/Oli97430/OneClick-AUDIOBOOK) - 🎧 One-click e-book → audiobook converter for Windows. A corrected, fully-working build of ebook2audiobook: 8 TTS engines, voice cloning, 1158 languages, chapters & metadata, .exe installer.
 - [OpenBookPublishers/epublius](https://github.com/OpenBookPublishers/epublius) - Generates a stylised HTML site from an ePub book
 - [Pls-1q43/ChatGPT-Chat-History-To-Notion](https://github.com/Pls-1q43/ChatGPT-Chat-History-To-Notion) - A simple script to import all your chats in ChatGPT into Notion.
 - [Pr1ncePandey/RepoMind](https://github.com/Pr1ncePandey/RepoMind) - Turn any GitHub repository into a clear architecture map, explanation, and insights using Claude.
@@ -781,12 +784,14 @@ A collection of awesome things.
 - [cyanheads/repo-map](https://github.com/cyanheads/repo-map) - repo-map generates LLM-enhanced summaries and analysis of software repositories, providing developers with valuable insights into project structures, file purposes, and potential considerations across various programming languages.
 - [daluna-hub/username_search](https://github.com/daluna-hub/username_search) - Find any online profiles on an username.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [duplaja/epub-to-audiobook-hf](https://github.com/duplaja/epub-to-audiobook-hf) - Epub to MB4 Audiobook, with StyleTTS2 via HuggingFace Spaces API
+- [efegen/rvc-pipeline](https://github.com/efegen/rvc-pipeline) - End-to-end AI voice conversion pipeline: separate vocals from any song, re-sing them in a new voice with RVC, and remix a studio-quality track automatically.
 - [elevenlabs/skills](https://github.com/elevenlabs/skills) - Collections of skills for building with ElevenLabs
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [esfelurm/android-ransomware](https://github.com/esfelurm/android-ransomware) - A ransomware for Android!  
@@ -843,6 +848,7 @@ A collection of awesome things.
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [modded-android/development](https://github.com/modded-android/development) - The Development Repo for Modded Android
 - [moshe19909090/ai-repository-summarizer](https://github.com/moshe19909090/ai-repository-summarizer) - FastAPI service that generates structured LLM-based summaries for public GitHub repositories using context-aware filtering and bounded token usage.
+- [mostlyvirtual/book-to-audiobook](https://github.com/mostlyvirtual/book-to-audiobook) - Convert PDFs and EPUBs into MP3 audiobooks with a clean local web UI, multiple TTS backends, chapter export, and voice cloning.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [mrks111/folder-organizer](https://github.com/mrks111/folder-organizer) - This Python script helps you automatically organize a messy folder by sorting files into predefined categories. It uses a graphical user interface (GUI) to select the target folder, making it easy to use.  
 - [msampathkumar/FakeReceiptImageGenerator](https://github.com/msampathkumar/FakeReceiptImageGenerator) - Receipt Generator using PIL, Python
