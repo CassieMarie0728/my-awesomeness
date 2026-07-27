@@ -298,7 +298,6 @@ A collection of awesome things.
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
 - [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) -   🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO,   Trading, Video, PM workflows included.
 - [noob-hackers/grabcam](https://github.com/noob-hackers/grabcam) - A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers
-- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
 - [octobook/gitbook-to-octobook-sample](https://github.com/octobook/gitbook-to-octobook-sample) - Gitbook to Octobook - How to publish your manuscripts (in text w/ formatting conventions in markdown) with book.yml and octobook book themes for jekyll (works w/ GitHub Pages and remote themes too)
 - [pembriahmad/EAS-Phish](https://github.com/pembriahmad/EAS-Phish) - Phishing's easy tools for the need to hack a social media account
 - [pvanfas/socialphish](https://github.com/pvanfas/socialphish) - The most complete Phishing Tool, with 32 templates +1 customizable. Legal disclaimer by creators: Usage of SocialPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws.
@@ -564,6 +563,7 @@ A collection of awesome things.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
+- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
