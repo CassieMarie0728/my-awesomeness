@@ -506,7 +506,7 @@ A collection of awesome things.
 - [ardha27/AICoverGen-NoUI-Colab](https://github.com/ardha27/AICoverGen-NoUI-Colab) - 
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
-- [fw-ai/cookbook](https://github.com/fw-ai/cookbook) - Recipes and resources for building, deploying, and fine-tuning generative AI with Fireworks.
+- [fw-ai/cookbook](https://github.com/fw-ai/cookbook) - Recipes and resources for training, building generative AI with Fireworks
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [hampta/RVC-Easy-10-25-Cloudflared](https://github.com/hampta/RVC-Easy-10-25-Cloudflared) - Original colab: https://colab.research.google.com/drive/1r4IRL0UA7JEoZ0ZK8PKfMyTIBHKpyhcw
