@@ -180,7 +180,6 @@ A collection of awesome things.
 
 - [AmanNegi/Copyable](https://github.com/AmanNegi/Copyable) - A Flutter Application that helps you save and copy text in a click. The app is available on Android & Web, so save at one platform and access everywhere.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
@@ -362,6 +361,7 @@ A collection of awesome things.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [johannesschaefer/webnettools](https://github.com/johannesschaefer/webnettools) - Web Net Tools is a web frontend for some useful command line tooling. It provides especially an web frontend for tools like testssl.sh and nmap.
 - [k3b/APhotoManager](https://github.com/k3b/APhotoManager) - Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .
+- [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
 - [leclem/androidappfromwebsite](https://github.com/leclem/androidappfromwebsite) - Android app displaying a website, supporting Facebook connect and displaying a loading bar when the user is loading a page
 - [loerting/dalvikus](https://github.com/loerting/dalvikus) - Android reverse-engineering tool / smali editor
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
@@ -488,7 +488,7 @@ A collection of awesome things.
 - [sanjeev-kumar-patel/Github_Portfolio_Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer) - Github Portfolio Analyzer – A tool that analyzes GitHub profiles and repositories to generate insights, portfolio summaries, and developer statistics automatically.
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
 - [squireChuck/us-states-ref-client](https://github.com/squireChuck/us-states-ref-client) - Cheatsheet of info related to U.S. states, e.g. sample addresses, driver's license formats, etc.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
 - [tomchen/font-template](https://github.com/tomchen/font-template) - Simplest way to create your own font with Adobe Illustrator and FontForge 🔤
 - [untitleduico/icons](https://github.com/untitleduico/icons) - Untitled UI Icons are a clean, consistent, and neutral icon library crafted for modern UI design.
@@ -563,7 +563,7 @@ A collection of awesome things.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [nvbangg/awesome-for-morphe](https://github.com/nvbangg/awesome-for-morphe) - Explore all Morphe resources, patches and community projects. Get daily notifications when there are new updates.
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patches and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -678,6 +678,7 @@ A collection of awesome things.
 - [AryanVBW/AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) - Revolutionize Your Voice with AI Voice Cloner! Transform Your Speech into Your Favorite Celebrity's or Your Customized Voice. Our Cutting-edge Tool Converts Text or Any Audio into Your Desired Voice – Your Voice, Your Way
 - [AuthenticXploit/BruteFB-Target](https://github.com/AuthenticXploit/BruteFB-Target) - Hacking facebook account is targeted by bruteforce method
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [BotolMehedi/BDROID](https://github.com/BotolMehedi/BDROID) - ANDROID BOTNET | ANDROID RAT | EASY TO USE | EASY TO CONTROL | WITHOUT ROOT | REMOTELY CONTROL ANDROID 2022
 - [BotolMehedi/BMAIL](https://github.com/BotolMehedi/BMAIL) - ©ALL IN ONE EMAIL BOMBER. NO SPAM MAIL, DIRECT INBOX ✌
 - [Brian-Lam/EPUB-to-MP3](https://github.com/Brian-Lam/EPUB-to-MP3) - A script to convert an eBook (.epub) to an audiobook (.mp3) using Google Cloud Platform's Text-to-Speech service
