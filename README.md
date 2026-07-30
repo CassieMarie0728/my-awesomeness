@@ -799,7 +799,7 @@ A collection of awesome things.
 - [f-droid/fdroidserver](https://github.com/f-droid/fdroidserver) - F-Droid server and build tools.
 - [fO-000/bluing](https://github.com/fO-000/bluing) - An intelligence gathering tool for hacking Bluetooth
 - [fairy-root/epub-to-audiobook](https://github.com/fairy-root/epub-to-audiobook) - This python script uses OpenAI API Text To Speech TTS Voice to convert Epub books to Audiobooks with ability to save progress and resume it.
-- [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support.
+- [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [fmhy/bot](https://github.com/fmhy/bot) - 🦕 Bot for our discord
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
