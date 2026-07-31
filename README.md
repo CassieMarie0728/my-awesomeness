@@ -157,6 +157,7 @@ A collection of awesome things.
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
 - [siyuan-note/theme-sample](https://github.com/siyuan-note/theme-sample) - SiYuan theme sample
 - [spajak/epub3-boilerplate](https://github.com/spajak/epub3-boilerplate) - EPUB version 3.2 full e-book template
 - [tmcw/docbox](https://github.com/tmcw/docbox) - REST API documentation generator
@@ -257,6 +258,7 @@ A collection of awesome things.
 - [CassieMarie0728/cassie-marie](https://github.com/CassieMarie0728/cassie-marie) - Home of THE AFTERMATH DIARIES
 - [Cyber-Anonymous/Dark-Phish](https://github.com/Cyber-Anonymous/Dark-Phish) - A Powerful Phishing Tool with 50+ phishing templates. For more about Dark-Phish tool please visit the website.
 - [Devil-Tigers/CamHack](https://github.com/Devil-Tigers/CamHack) - Best Front Camera Hacking Tool very Fast and easy hack Front Camera by sending a LINK 
+- [Drassil/git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton) - This is a skeleton repository that can be used as a template to bootstrap your wiki using "remote_theme" config
 - [Err0r-ICA/Phishbait](https://github.com/Err0r-ICA/Phishbait) - 100% working Phishing Tool (38 websites) 
 - [Gexos/Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - A list of security/hacking tools that have been collected from the internet. Suggestions are welcomed.
 - [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons today on IconScout!
@@ -861,6 +863,7 @@ A collection of awesome things.
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [obfusk/apksigcopier](https://github.com/obfusk/apksigcopier) - apksigcopier - copy/extract/patch android apk signatures & compare apks
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+- [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [oxbshw/Open-Workflow-Library](https://github.com/oxbshw/Open-Workflow-Library) - Open workflow intelligence for discovering, validating, repairing, and generating automation workflows across frameworks — starting with n8n.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -945,6 +948,7 @@ A collection of awesome things.
 
 ## SCSS
 
+- [Drassil/git-wiki-theme](https://github.com/Drassil/git-wiki-theme) - A revolutionary full-featured wiki for github pages and jekyll. You don't need to compile it!
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [alertbox/bookworm](https://github.com/alertbox/bookworm) - A delightfully lightweight, mobile-first, and fluidly responsive Jekyll theme for books and creative writing that emphasizes content rather than aesthetic fluff.
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
@@ -1005,6 +1009,7 @@ A collection of awesome things.
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) -  All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
 - [mishakorzik/IpHack](https://github.com/mishakorzik/IpHack) - Track Location With Live Address And City in Termux
 - [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
+- [msayson/openapi-github-pages-action](https://github.com/msayson/openapi-github-pages-action) - GitHub Action to generate API documentation from OpenAPI specification and deploy to GitHub Pages
 - [mukeshkumarcharak/termux-snippets](https://github.com/mukeshkumarcharak/termux-snippets) - An integrated tool and a collection of snippets which helps in the various aspects of the terminal.
 - [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling
 - [noob-hackers/mrphish](https://github.com/noob-hackers/mrphish) - All In One Social Accounts Phishing With Otp Bypass In Termux.
@@ -1146,6 +1151,7 @@ A collection of awesome things.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
+- [openai/openai-sora-sample-app](https://github.com/openai/openai-sora-sample-app) - Sample app to get started using the Video API with Sora
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [passportxyz/passport-sdk](https://github.com/passportxyz/passport-sdk) - The Gitcoin Passport SDK is comprised of a set of libraries distributed on npm to help developers interact with Passport data living on [Ceramic](https://ceramic.network/).
@@ -1337,6 +1343,7 @@ A collection of awesome things.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog
 - [onggiabayluon/laptop-folder-structure](https://github.com/onggiabayluon/laptop-folder-structure) - Custom Folder Structure template for a clean laptop with best naming practice 
+- [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
