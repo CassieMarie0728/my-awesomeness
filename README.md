@@ -572,7 +572,6 @@ A collection of awesome things.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patches and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -596,6 +595,7 @@ A collection of awesome things.
 
 ## Markdown
 
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
@@ -972,6 +972,7 @@ A collection of awesome things.
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
 - [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
+- [Alexjr2/Frida_Termux_Installation](https://github.com/Alexjr2/Frida_Termux_Installation) - build frida for android arch : arm, arm64, x86 and x86_64
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) - The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Botspot/cloudbuddy](https://github.com/Botspot/cloudbuddy) - CloudBuddy is the ultimate wizard for cloud storage. It uses rclone to connect to your cloud drives, download from them, upload to them, mount them to your file manager, and more. In addition, CloudBuddy features an interactive file browser to easily generate shareable links and to perform various server-side operations.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
@@ -1003,6 +1004,7 @@ A collection of awesome things.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [fossabot/PatchApk](https://github.com/fossabot/PatchApk) - An Apk Modding Framework For Termux
 - [giacomoferretti/apk-modding-tools](https://github.com/giacomoferretti/apk-modding-tools) - A collection of tools for modding Android applications.
+- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) - Latest Apktool For Termux , Version : 3.0.2 , Maintained
 - [hackerxphantom/HXP-Ducky](https://github.com/hackerxphantom/HXP-Ducky) - Most Powerfull 😈Crash any android device with virus from any link using termux or kali linux
 - [hackingmastert56/Venom-Tools-Installer](https://github.com/hackingmastert56/Venom-Tools-Installer) - Venom-Tool-Installer is a Kali Linux hacking tools installer for Termux and linux system. Venom-Tool-Installer was developed for Termux and linux based systems. Using Venom-Tool-Installer, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Venom-Tool-Installer is available for Ubuntu, Debian etc.
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
@@ -1165,6 +1167,7 @@ A collection of awesome things.
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and output an SVG font
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 - [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) - Runnable ClaudeCode source code
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
@@ -1247,6 +1250,7 @@ A collection of awesome things.
 - [4GeeksAcademy/Templates-Boilerplates](https://github.com/4GeeksAcademy/Templates-Boilerplates) - 📙 Configuration is one of the biggest deterrents for learning coding skills, use one of these well-maintained boilerplates and focused on what really matters: Polishing your coding skills 🔥💻.
 - [Achno/debloat-samsung-ADB-shizuku](https://github.com/Achno/debloat-samsung-ADB-shizuku) -   A list of bloatware packages that samsung phones have with instructions to remove them
 - [AppsAgg/AppAgg](https://github.com/AppsAgg/AppAgg) - https://AppAgg.com - Application Aggregator 🚀 We support all major platforms: Android, iOS, macOS, Windows, Steam, GOG, Epic, Meta, Nintendo, PlayStation, Xbox. Explore More, Discover New.
+- [BlackTechX011/Termux-Command-Handbook](https://github.com/BlackTechX011/Termux-Command-Handbook) -  Termux Command Handbook, your comprehensive guide to Termux commands organized into various chapters for easy reference.
 - [Correia-jpv/fucking-beautiful-docs](https://github.com/Correia-jpv/fucking-beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-design-resources-for-developers](https://github.com/Correia-jpv/fucking-design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more. With repository stars⭐ and forks🍴
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
