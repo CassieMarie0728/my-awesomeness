@@ -889,6 +889,7 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
+- [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) - Android device control for hermes-agent — bridge app + Python toolset
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [sadatt123/repo-digest](https://github.com/sadatt123/repo-digest) - 📦 Transform any code repository into an AI-ready text bundle, enhancing analytics and enabling smarter code reviews and documentation.
@@ -1076,6 +1077,7 @@ A collection of awesome things.
 - [CassieMarie0728/void-repo-docs](https://github.com/CassieMarie0728/void-repo-docs) - Codebase-specific AI-generated legal documents .
 - [DanielHallx/static-blog-editor](https://github.com/DanielHallx/static-blog-editor) - A visual blog editor for static blogs with GitHub integration. Works with Astro, Hugo, Jekyll, Eleventy, Gatsby, and any static site generator that uses Markdown files. Manage your blog content through an elegant web interface with Markdown editing, image uploads, and real-time preview.
 - [DeadWaveWave/demo2apk](https://github.com/DeadWaveWave/demo2apk) - Turn your Vibe Coding ideas into runnable Android Apps instantly
+- [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [GitbookIO/github-repo-organizer](https://github.com/GitbookIO/github-repo-organizer) - 📋✅ A Web App to Organize GitHub Repositories
@@ -1118,7 +1120,7 @@ A collection of awesome things.
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1204,7 +1206,7 @@ A collection of awesome things.
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [svatsa159/react-doodle-icons](https://github.com/svatsa159/react-doodle-icons) - 400+ handcrafted icons free for your next project
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
 - [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - Export any Kindle book you own as text, PDF, EPUB, or as a custom, AI-narrated audiobook. 🔥
 - [trunghaiy/appshot](https://github.com/trunghaiy/appshot) - Generate App Store & Google Play preview videos and screenshots from a simple TypeScript config. Built on Remotion + React + Tailwind. Ships with AI agent skills for Claude Code — scan your app, direct the creative, render to MP4.
 - [twbs/fantasticon](https://github.com/twbs/fantasticon) - Icon font generation tool
