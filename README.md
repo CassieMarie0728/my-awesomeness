@@ -132,6 +132,7 @@ A collection of awesome things.
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [Xyl2k/c0decalc-cutlet-maker-keygen](https://github.com/Xyl2k/c0decalc-cutlet-maker-keygen) - Keygen for the ATM Malware Cutlet Maker
 - [brichard19/BitCrack](https://github.com/brichard19/BitCrack) - A tool for cracking Bitcoin private keys
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [google/woff2](https://github.com/google/woff2) - 
 - [googlevr/cardboard](https://github.com/googlevr/cardboard) - Open source Cardboard SDK and samples
 - [gpt4free/g4f.exe](https://github.com/gpt4free/g4f.exe) - GPT4Free (g4f) - Windows Launcher
@@ -730,6 +731,7 @@ A collection of awesome things.
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
+- [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) - Transform PDFs into AI podcasts for engaging on-the-go audio content.
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) - Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
 - [ON00dev/Smali.Smali](https://github.com/ON00dev/Smali.Smali) - Get the Smali code from APK! This script unzips APKs and decompiles DEX to Smali. Perfect for developers, modders and enthusiasts. Happy Decompiling! ✨
 - [OblivCode/RepoRadio](https://github.com/OblivCode/RepoRadio) - RepoRadio 🎙️ – An automated repo-to-audio engine. Uses local LLMs (Ollama) and high-fidelity TTS (Kokoro/ElevenLabs) to transform codebases into engaging audio banter. Fully local-first with optional cloud-switching for premium production.
@@ -1091,6 +1093,7 @@ A collection of awesome things.
 - [MicrosoftDocs/mslearn-staticwebapp](https://github.com/MicrosoftDocs/mslearn-staticwebapp) - Static Web App template repository
 - [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator) - 📜 A readme template generator for your repositories
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
@@ -1207,6 +1210,7 @@ A collection of awesome things.
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [svatsa159/react-doodle-icons](https://github.com/svatsa159/react-doodle-icons) - 400+ handcrafted icons free for your next project
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
+- [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
 - [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - Export any Kindle book you own as text, PDF, EPUB, or as a custom, AI-narrated audiobook. 🔥
 - [trunghaiy/appshot](https://github.com/trunghaiy/appshot) - Generate App Store & Google Play preview videos and screenshots from a simple TypeScript config. Built on Remotion + React + Tailwind. Ships with AI agent skills for Claude Code — scan your app, direct the creative, render to MP4.
@@ -1386,6 +1390,7 @@ A collection of awesome things.
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 - [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) - A curated list of amazingly awesome Flarum extensions and resources.
 - [redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - List of Awesome Asset Discovery Resources
+- [refactoringhq/portent-vault-template](https://github.com/refactoringhq/portent-vault-template) - Starter vault template with the default Portent type definitions
 - [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n) - Useful n8n resources: list of community nodes and tutorials
 - [room101-dev/Grand-Ultimate-BTC-Hacker](https://github.com/room101-dev/Grand-Ultimate-BTC-Hacker) - The most advanced bitcoin hacking system on the planet. It works, and it will find 'lost' bitcoins all day long.
 - [rrbaker/obsidian-novel-starter-vault](https://github.com/rrbaker/obsidian-novel-starter-vault) - A starter vault for writing novels and other long-form writing projects in Obsidian.
