@@ -18,7 +18,6 @@ A collection of awesome things.
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [F#](#f)
-- [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HCL](#hcl)
@@ -206,10 +205,6 @@ A collection of awesome things.
 
 - [bit-badger/myWebLog](https://github.com/bit-badger/myWebLog) - A lightweight, low-configuration .NET blogging / podcasting platform
 
-## Fluent
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Go
 
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
@@ -292,6 +287,7 @@ A collection of awesome things.
 - [ishaanjav/Webpage-Templates](https://github.com/ishaanjav/Webpage-Templates) - This repository contains a couple of webpage templates for login, registration, and feedback pages. Go ahead and download them to modify them to your content.
 - [isuruwa/Phoenix](https://github.com/isuruwa/Phoenix) - Automated Phising Tool With Upto 45+ UptoDate Phising Templates  & With a Inbuilt Url Masker 
 - [jaap-karssenberg/zim-android-mockapp](https://github.com/jaap-karssenberg/zim-android-mockapp) - Mock app to start development of a zim android app
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [javierarce/epub-boilerplate](https://github.com/javierarce/epub-boilerplate) - A simple template to help you create ePub-formatted books.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [junguler/m3u-audiobooks](https://github.com/junguler/m3u-audiobooks) - collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
@@ -956,7 +952,7 @@ A collection of awesome things.
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [tyrchen/codebank](https://github.com/tyrchen/codebank) - A powerful code documentation generator that creates structured markdown documentation from your codebase. Supports multiple languages including Rust, Python, TypeScript, and C with intelligent parsing and formatting. Features test code filtering, summary generation, and customizable documentation strategies.
-- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
+- [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 ## SCSS
 
