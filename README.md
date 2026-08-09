@@ -18,6 +18,7 @@ A collection of awesome things.
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [F#](#f)
+- [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HCL](#hcl)
@@ -205,6 +206,10 @@ A collection of awesome things.
 
 - [bit-badger/myWebLog](https://github.com/bit-badger/myWebLog) - A lightweight, low-configuration .NET blogging / podcasting platform
 
+## Fluent
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Go
 
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
@@ -287,7 +292,6 @@ A collection of awesome things.
 - [ishaanjav/Webpage-Templates](https://github.com/ishaanjav/Webpage-Templates) - This repository contains a couple of webpage templates for login, registration, and feedback pages. Go ahead and download them to modify them to your content.
 - [isuruwa/Phoenix](https://github.com/isuruwa/Phoenix) - Automated Phising Tool With Upto 45+ UptoDate Phising Templates  & With a Inbuilt Url Masker 
 - [jaap-karssenberg/zim-android-mockapp](https://github.com/jaap-karssenberg/zim-android-mockapp) - Mock app to start development of a zim android app
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [javierarce/epub-boilerplate](https://github.com/javierarce/epub-boilerplate) - A simple template to help you create ePub-formatted books.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [junguler/m3u-audiobooks](https://github.com/junguler/m3u-audiobooks) - collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
@@ -1193,7 +1197,7 @@ A collection of awesome things.
 - [siyuan-note/plugin-sample](https://github.com/siyuan-note/plugin-sample) - SiYuan plugin sample
 - [siyuan-note/plugin-sample-vite-svelte](https://github.com/siyuan-note/plugin-sample-vite-svelte) - SiYuan plugin sample with vite and svelte
 - [siyuan-note/plugin-sample-vite-vue](https://github.com/siyuan-note/plugin-sample-vite-vue) - SiYuan plugin sample with vite and vue
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
 - [solrachix/icons-manager](https://github.com/solrachix/icons-manager) - A desktop icon manager application
 - [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
