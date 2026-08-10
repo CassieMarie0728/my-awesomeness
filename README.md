@@ -153,6 +153,7 @@ A collection of awesome things.
 - [Diptenusarkar/Website-Template](https://github.com/Diptenusarkar/Website-Template) - Website Template this repository is free for all. You can use this code for both personal & commercial use.
 - [OfficialEvilDevil/Capture-Victim-Database-Accounts](https://github.com/OfficialEvilDevil/Capture-Victim-Database-Accounts) - Best Social Media Account database Hacking tool
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
+- [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [iainc/iA-Writer-Templates](https://github.com/iainc/iA-Writer-Templates) - Preview, create PDFs, and print documents in your own style with templates in iA Writer.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -215,7 +216,6 @@ A collection of awesome things.
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [RepoRadio/reporadio-cli](https://github.com/RepoRadio/reporadio-cli) - Command line interface for turning git repos into podcasts
-- [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -426,6 +426,7 @@ A collection of awesome things.
 - [Prajwalkadam29/repo-documentation-generator](https://github.com/Prajwalkadam29/repo-documentation-generator) - Transform your codebase into production-grade documentation in seconds.
 - [SSAgov/repo-documentation-generator](https://github.com/SSAgov/repo-documentation-generator) - A single page application for generating a codeMetadata.json, README.md, GETTING-STARTED.md, CONTRIBUTING.md, BACKLOG.md and CHANGELOG.md. The codeMetadata.json file contains basic data about a code asset such as it's name, office, hosted instances, and the like.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
+- [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [Stardown-app/Stardown](https://github.com/Stardown-app/Stardown) - Copy the web as markdown
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
@@ -838,6 +839,7 @@ A collection of awesome things.
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [jaymzh/pius](https://github.com/jaymzh/pius) - PGP Individual User Signer
 - [jfraj/socialSearch](https://github.com/jfraj/socialSearch) - python script to seach social media
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [kactlabs/fake-email-identifier](https://github.com/kactlabs/fake-email-identifier) - We find Fake Emails
 - [kaifcodec/apk-patchx](https://github.com/kaifcodec/apk-patchx) - apk-patchx a command-line tool that makes APK manipulation & frida-gadget injection fast, automated, modular, and developer-friendly.
@@ -1092,6 +1094,7 @@ A collection of awesome things.
 - [Laso37/clawbot](https://github.com/Laso37/clawbot) - Production-ready, self-hosted AI assistant — OpenClaw on Docker Compose with auto-HTTPS, authentication, token optimization, and full VPS hardening.
 - [MicrosoftDocs/mslearn-staticwebapp](https://github.com/MicrosoftDocs/mslearn-staticwebapp) - Static Web App template repository
 - [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator) - 📜 A readme template generator for your repositories
+- [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
@@ -1211,7 +1214,8 @@ A collection of awesome things.
 - [svatsa159/react-doodle-icons](https://github.com/svatsa159/react-doodle-icons) - 400+ handcrafted icons free for your next project
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere
+- [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) 
 - [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - Export any Kindle book you own as text, PDF, EPUB, or as a custom, AI-narrated audiobook. 🔥
 - [trunghaiy/appshot](https://github.com/trunghaiy/appshot) - Generate App Store & Google Play preview videos and screenshots from a simple TypeScript config. Built on Remotion + React + Tailwind. Ships with AI agent skills for Claude Code — scan your app, direct the creative, render to MP4.
 - [twbs/fantasticon](https://github.com/twbs/fantasticon) - Icon font generation tool
@@ -1309,6 +1313,7 @@ A collection of awesome things.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [codebydant/ubuntuExternalHDD](https://github.com/codebydant/ubuntuExternalHDD) - This is a tutorial to install ubuntu 20.4 in an external HDD without removing the internal HDD in windows.
