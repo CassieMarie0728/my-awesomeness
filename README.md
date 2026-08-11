@@ -153,6 +153,7 @@ A collection of awesome things.
 - [Diptenusarkar/Website-Template](https://github.com/Diptenusarkar/Website-Template) - Website Template this repository is free for all. You can use this code for both personal & commercial use.
 - [OfficialEvilDevil/Capture-Victim-Database-Accounts](https://github.com/OfficialEvilDevil/Capture-Victim-Database-Accounts) - Best Social Media Account database Hacking tool
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
+- [creativecommons/chooser](https://github.com/creativecommons/chooser) - The new and improved CC license selection tool.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [iainc/iA-Writer-Templates](https://github.com/iainc/iA-Writer-Templates) - Preview, create PDFs, and print documents in your own style with templates in iA Writer.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
@@ -412,6 +413,7 @@ A collection of awesome things.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IDisposable/social-media-search](https://github.com/IDisposable/social-media-search) - Chrome extension to expedite searching on Social Media Sites
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [John-Nguyen/HackTJReal](https://github.com/John-Nguyen/HackTJReal) - Created a PhoneGap/Cordova app for the Hackathon HackTJ. This app would allow shoppers to go into a store and scan barcodes with their phone to purchase items, with a SQLite database updating when the item is scanned. Also uses the Capital One API to provide an alternative to a credit or debit card.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -509,6 +511,7 @@ A collection of awesome things.
 - [ShiromiyaG/RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker) - Performs the entire AI cover generation process
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [Xyroset/AI-Digital-Doppelganger](https://github.com/Xyroset/AI-Digital-Doppelganger) - A highly customizable AI companion for Telegram. Create digital clones with unique personalities, voice, and vision directly from Google Colab.
+- [adavidjulius/Voice-training-notebook-for-kaggle](https://github.com/adavidjulius/Voice-training-notebook-for-kaggle) - 🎙️ JULIUS — RVC v2 Voice Training Notebook for Kaggle (Mangio-RVC-Fork · OV2Super 40k · fairseq-free)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [ardha27/AI-Song-Cover-RVC](https://github.com/ardha27/AI-Song-Cover-RVC) - All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run inference.
 - [ardha27/AICoverGen-NoUI-Colab](https://github.com/ardha27/AICoverGen-NoUI-Colab) - 
@@ -529,6 +532,7 @@ A collection of awesome things.
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [tyc0on/GPT-SoVITS-colab](https://github.com/tyc0on/GPT-SoVITS-colab) - Colab for GPT-SoVITS
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
+- [wandaweb/RVC-WebUI-Kaggle](https://github.com/wandaweb/RVC-WebUI-Kaggle) - Kaggle notebook for RVC WebUI
 
 ## Kotlin
 
@@ -762,6 +766,7 @@ A collection of awesome things.
 - [TheWNetwork/twn-api-upload](https://github.com/TheWNetwork/twn-api-upload) - Telebox / Linkbox & TeraBox massive upload. Only for local
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [TrueBurn/ai-codebase-scribe](https://github.com/TrueBurn/ai-codebase-scribe) - AI-powered documentation generator that analyzes codebases to create comprehensive project documentation. Supports multiple LLM providers (Ollama, AWS Bedrock), produces README, architecture docs, API docs, and developer guides.
+- [VarshaWanjari0/Auto-Android-App-Modding-Tool](https://github.com/VarshaWanjari0/Auto-Android-App-Modding-Tool) - UAMT – Ultimate Android App Modding Toolkit  UAMT is an non root all-in-one Android APK modding toolkit for Termux. It simplifies Frida Gadget injection, native .so injection, APK patching, rebuilding, aligning, and signing directly on Android. It includes a fast full-screen TUI, smart auto-detection, and auto dependency setup reliable modding.
 - [W1LDN16H7/StegoCracker](https://github.com/W1LDN16H7/StegoCracker) - Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
 - [WiseDodge/ArchiveSorter](https://github.com/WiseDodge/ArchiveSorter) - A file management system for turning digital chaos into an organized archive. Includes scripts to sort, analyze, and consolidate files.
 - [Xer0bit/BookWriter-Lamma3.1-OPENAI](https://github.com/Xer0bit/BookWriter-Lamma3.1-OPENAI) - A revolutionary tool that leverages GPT API or LLaMA 3.1 model to write complete books locally, empowering authors to automate their writing process and boost creativity.
@@ -1087,7 +1092,6 @@ A collection of awesome things.
 - [GitbookIO/github-repo-organizer](https://github.com/GitbookIO/github-repo-organizer) - 📋✅ A Web App to Organize GitHub Repositories
 - [Hacktown-BSB/Nexo](https://github.com/Hacktown-BSB/Nexo) - 🏅 MLH International Hacktown Winner - AI-powered platform that transforms GitHub repositories into interactive documentation you can see and hear. Get automated analysis, tech stack visualizations, and AI-generated podcasts explaining any codebase. Perfect for onboarding and code exploration.
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [JanuaryLabs/sdk-it](https://github.com/JanuaryLabs/sdk-it) - SDK-IT generates type-safe client SDKs from OpenAPI specifications and creates OpenAPI specs from TypeScript code.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
@@ -1120,6 +1124,7 @@ A collection of awesome things.
 - [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin) - Allow you to access your calibre libraries and read books directly in Obsidian.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+- [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
@@ -1293,7 +1298,6 @@ A collection of awesome things.
 - [TechyShreyansh/Android-Modding](https://github.com/TechyShreyansh/Android-Modding) - A large collection of github repositories related to android modding.
 - [Thewisem/foss-android-apps](https://github.com/Thewisem/foss-android-apps) - This repository is for people on android who wants to try Free and Open source apps. I have given my personal pick of apps available. Share this knowledge with everybody
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [VarshaWanjari0/Auto-Android-App-Modding-Tool](https://github.com/VarshaWanjari0/Auto-Android-App-Modding-Tool) - UAMT – Ultimate Android App Modding Toolkit  UAMT is an non root all-in-one Android APK modding toolkit for Termux. It simplifies Frida Gadget injection, native .so injection, APK patching, rebuilding, aligning, and signing directly on Android. It includes a fast full-screen TUI, smart auto-detection, and auto dependency setup reliable modding.
 - [VishwaGauravIn/pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges) - 💫Pretty Badges for your GitHub Profiles 
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
