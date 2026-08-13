@@ -600,6 +600,7 @@ A collection of awesome things.
 
 ## Markdown
 
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1269,7 +1270,6 @@ A collection of awesome things.
 - [BlackTechX011/Termux-Command-Handbook](https://github.com/BlackTechX011/Termux-Command-Handbook) -  Termux Command Handbook, your comprehensive guide to Termux commands organized into various chapters for easy reference.
 - [Correia-jpv/fucking-beautiful-docs](https://github.com/Correia-jpv/fucking-beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-design-resources-for-developers](https://github.com/Correia-jpv/fucking-design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more. With repository stars⭐ and forks🍴
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [Duduxs/Awesome-README-Templates](https://github.com/Duduxs/Awesome-README-Templates) - 🤙 Some great readmes 4 u
 - [Easy-Hugo/release](https://github.com/Easy-Hugo/release) - Write Hugo Blogs on Android
