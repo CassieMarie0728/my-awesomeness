@@ -784,6 +784,7 @@ A collection of awesome things.
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
+- [alexmeckes/readme-to-podcast](https://github.com/alexmeckes/readme-to-podcast) - Blueprint by Mozilla.ai for generating podcasts from documents using local AI
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
@@ -871,6 +872,7 @@ A collection of awesome things.
 - [modded-android/development](https://github.com/modded-android/development) - The Development Repo for Modded Android
 - [moshe19909090/ai-repository-summarizer](https://github.com/moshe19909090/ai-repository-summarizer) - FastAPI service that generates structured LLM-based summaries for public GitHub repositories using context-aware filtering and bounded token usage.
 - [mostlyvirtual/book-to-audiobook](https://github.com/mostlyvirtual/book-to-audiobook) - Convert PDFs and EPUBs into MP3 audiobooks with a clean local web UI, multiple TTS backends, chapter export, and voice cloning.
+- [mozilla-ai/Blueprint-template](https://github.com/mozilla-ai/Blueprint-template) - Template that can be used to start your own Blueprint.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [mrks111/folder-organizer](https://github.com/mrks111/folder-organizer) - This Python script helps you automatically organize a messy folder by sorting files into predefined categories. It uses a graphical user interface (GUI) to select the target folder, making it easy to use.  
 - [msampathkumar/FakeReceiptImageGenerator](https://github.com/msampathkumar/FakeReceiptImageGenerator) - Receipt Generator using PIL, Python
@@ -913,6 +915,7 @@ A collection of awesome things.
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
 - [sojohnnysaid/project-guide](https://github.com/sojohnnysaid/project-guide) - Your magical AI-powered project documentation generator
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [stefanfrench/radio-drama-generator](https://github.com/stefanfrench/radio-drama-generator) - Radio drama generator using input document for context. 
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) - Top OpenClaw skills, with the most popular and useful ones.
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
 - [tahoe-lafs/tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS decentralized secure filesystem.
