@@ -217,6 +217,7 @@ A collection of awesome things.
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [RepoRadio/reporadio-cli](https://github.com/RepoRadio/reporadio-cli) - Command line interface for turning git repos into podcasts
+- [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -428,7 +429,6 @@ A collection of awesome things.
 - [Prajwalkadam29/repo-documentation-generator](https://github.com/Prajwalkadam29/repo-documentation-generator) - Transform your codebase into production-grade documentation in seconds.
 - [SSAgov/repo-documentation-generator](https://github.com/SSAgov/repo-documentation-generator) - A single page application for generating a codeMetadata.json, README.md, GETTING-STARTED.md, CONTRIBUTING.md, BACKLOG.md and CHANGELOG.md. The codeMetadata.json file contains basic data about a code asset such as it's name, office, hosted instances, and the like.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
-- [Southclaws/storyden](https://github.com/Southclaws/storyden) -  With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
 - [Stardown-app/Stardown](https://github.com/Stardown-app/Stardown) - Copy the web as markdown
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
@@ -694,7 +694,6 @@ A collection of awesome things.
 - [AryanVBW/AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) - Revolutionize Your Voice with AI Voice Cloner! Transform Your Speech into Your Favorite Celebrity's or Your Customized Voice. Our Cutting-edge Tool Converts Text or Any Audio into Your Desired Voice – Your Voice, Your Way
 - [AuthenticXploit/BruteFB-Target](https://github.com/AuthenticXploit/BruteFB-Target) - Hacking facebook account is targeted by bruteforce method
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [BotolMehedi/BDROID](https://github.com/BotolMehedi/BDROID) - ANDROID BOTNET | ANDROID RAT | EASY TO USE | EASY TO CONTROL | WITHOUT ROOT | REMOTELY CONTROL ANDROID 2022
 - [BotolMehedi/BMAIL](https://github.com/BotolMehedi/BMAIL) - ©ALL IN ONE EMAIL BOMBER. NO SPAM MAIL, DIRECT INBOX ✌
 - [Brian-Lam/EPUB-to-MP3](https://github.com/Brian-Lam/EPUB-to-MP3) - A script to convert an eBook (.epub) to an audiobook (.mp3) using Google Cloud Platform's Text-to-Speech service
@@ -926,7 +925,7 @@ A collection of awesome things.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [twhlynch/APK-Modding-Guide](https://github.com/twhlynch/APK-Modding-Guide) - A guide to decompile, modify, and recompile android packages.
 - [twhlynch/AutoModder](https://github.com/twhlynch/AutoModder) - A simple keyword based unity modding util
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [x11-repo/hack-tools-en](https://github.com/x11-repo/hack-tools-en) - "Kali replacer." It has a large number of hacking tools.
@@ -1067,6 +1066,7 @@ A collection of awesome things.
 
 ## Swift
 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [ciscoriordan/storescreens-cli](https://github.com/ciscoriordan/storescreens-cli) - Capture App Store screenshots for iOS and macOS apps across every required device size in one command. Supports iPhone, iPad, Apple Watch, and Mac.
 
 ## TeX
