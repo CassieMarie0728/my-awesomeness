@@ -610,7 +610,7 @@ A collection of awesome things.
 
 ## Meson
 
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 
 ## Nix
 
@@ -1129,6 +1129,7 @@ A collection of awesome things.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
+- [devyanshyadav/librenote-ai](https://github.com/devyanshyadav/librenote-ai) - The open-source, self-hosted alternative to NotebookLM.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [dumitrescuvlad/RepositoryToDocument](https://github.com/dumitrescuvlad/RepositoryToDocument) - Repository to Document — Local AI-Powered GitHub Repository Documentation Generator
