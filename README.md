@@ -713,7 +713,7 @@ A collection of awesome things.
 - [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
 - [Gauff/EpubToAudioBookConverter](https://github.com/Gauff/EpubToAudioBookConverter) - Convert EPUB files to MP3 audio books with ease using this intuitive and user-friendly converter that allows you to select voices and playback settings with just a few clicks.
-- [Gheat1/tuistore](https://github.com/Gheat1/tuistore) - 🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.
+- [Gheat1/tuistore](https://github.com/Gheat1/tuistore) - 🛍️ The TUI app store: browse, search & one-key-install hundreds of terminal apps.
 - [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
 - [Greyjedix/Profil3r](https://github.com/Greyjedix/Profil3r) - OSINT tool that allows you to find a person's accounts and emails + breached emails
 - [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
@@ -804,7 +804,7 @@ A collection of awesome things.
 - [cyanheads/repo-map](https://github.com/cyanheads/repo-map) - repo-map generates LLM-enhanced summaries and analysis of software repositories, providing developers with valuable insights into project structures, file purposes, and potential considerations across various programming languages.
 - [daluna-hub/username_search](https://github.com/daluna-hub/username_search) - Find any online profiles on an username.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API keys, no cloud.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
