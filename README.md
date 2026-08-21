@@ -632,6 +632,7 @@ A collection of awesome things.
 - [DigitalPublishingToolkit/epubster](https://github.com/DigitalPublishingToolkit/epubster) - A web application to create and edit EPUBs, written in CakePHP.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
+- [ProfessionalWiki/mediawiki-bugzilla](https://github.com/ProfessionalWiki/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [WordPress/php-toolkit](https://github.com/WordPress/php-toolkit) - Standalone, dependency-free PHP libraries for WordPress and PHP projects — XML, ZIP, Git, HTTP, Markdown, Filesystem, and more.
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod 
@@ -651,6 +652,7 @@ A collection of awesome things.
 - [msaad1999/KLiK-SocialMediaWebsite](https://github.com/msaad1999/KLiK-SocialMediaWebsite) - Complete PHP-based Login/Registration system, Profile system, Chat room, Forum system and Blog/Polls/Event Management System.
 - [mybb/mybb](https://github.com/mybb/mybb) - MyBB is a free and open source forum software.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [outofcontrol/mediawiki-to-gfm](https://github.com/outofcontrol/mediawiki-to-gfm) - Converts Mediawiki format to Github Flavoured Markdown format
 - [par274/mentionbb](https://github.com/par274/mentionbb) - A classic forum system with next-gen.
 - [phpbb/phpbb](https://github.com/phpbb/phpbb) -  phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -724,7 +726,6 @@ A collection of awesome things.
 - [JarodMica/ai-voice-cloning](https://github.com/JarodMica/ai-voice-cloning) - 
 - [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
 - [Keeper-Security/secrets-manager](https://github.com/Keeper-Security/secrets-manager) - Keeper Secrets Manager is a cloud-based, zero-knowledge platform for securing infrastructure secrets. Provides automatic password rotation and integration into popular DevOps CI/CD tools.
-- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) - For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp
 - [KoeAI/LLVC](https://github.com/KoeAI/LLVC) - 
 - [Leseratte10/acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - Calibre plugin for ACSM-&gt;EPUB and ACSM-&gt;PDF conversion.
@@ -810,6 +811,7 @@ A collection of awesome things.
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [duplaja/epub-to-audiobook-hf](https://github.com/duplaja/epub-to-audiobook-hf) - Epub to MB4 Audiobook, with StyleTTS2 via HuggingFace Spaces API
 - [efegen/rvc-pipeline](https://github.com/efegen/rvc-pipeline) - End-to-end AI voice conversion pipeline: separate vocals from any song, re-sing them in a new voice with RVC, and remix a studio-quality track automatically.
 - [elevenlabs/skills](https://github.com/elevenlabs/skills) - Collections of skills for building with ElevenLabs
@@ -1098,6 +1100,7 @@ A collection of awesome things.
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [JanuaryLabs/sdk-it](https://github.com/JanuaryLabs/sdk-it) - SDK-IT generates type-safe client SDKs from OpenAPI specifications and creates OpenAPI specs from TypeScript code.
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [Laso37/clawbot](https://github.com/Laso37/clawbot) - Production-ready, self-hosted AI assistant — OpenClaw on Docker Compose with auto-HTTPS, authentication, token optimization, and full VPS hardening.
 - [MicrosoftDocs/mslearn-staticwebapp](https://github.com/MicrosoftDocs/mslearn-staticwebapp) - Static Web App template repository
