@@ -152,6 +152,7 @@ A collection of awesome things.
 - [18F/API-All-the-X](https://github.com/18F/API-All-the-X) - Resources and Materials for the /Developer Program
 - [Diptenusarkar/Website-Template](https://github.com/Diptenusarkar/Website-Template) - Website Template this repository is free for all. You can use this code for both personal & commercial use.
 - [OfficialEvilDevil/Capture-Victim-Database-Accounts](https://github.com/OfficialEvilDevil/Capture-Victim-Database-Accounts) - Best Social Media Account database Hacking tool
+- [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 - [creativecommons/chooser](https://github.com/creativecommons/chooser) - The new and improved CC license selection tool.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
@@ -272,7 +273,6 @@ A collection of awesome things.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
 - [OshekharO/Reverse-Engineering](https://github.com/OshekharO/Reverse-Engineering) - List of awesome reverse engineering resources
 - [OtsoBear/docs-exporter](https://github.com/OtsoBear/docs-exporter) - Export multiple mintlify docs pages into a single piece of text to feed to LLMs
-- [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
@@ -301,6 +301,7 @@ A collection of awesome things.
 - [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
+- [maikeliu86-coder/story-vista](https://github.com/maikeliu86-coder/story-vista) - Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
 - [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) -   🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO,   Trading, Video, PM workflows included.
 - [noob-hackers/grabcam](https://github.com/noob-hackers/grabcam) - A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers
@@ -345,7 +346,6 @@ A collection of awesome things.
 - [LaughingMuffin/apk-killer-java-mod-menu](https://github.com/LaughingMuffin/apk-killer-java-mod-menu) - Android Java Mod Menu using APK Killer
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [MehdiTAZI/BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker) - the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.
-- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [Porvil/PGP-Tool](https://github.com/Porvil/PGP-Tool) - PGP Tool for Android
 - [PsProsen-Dev/OpenClawOnAndroid](https://github.com/PsProsen-Dev/OpenClawOnAndroid) - OpenClaw on Android (OCA) - Run OpenClaw on Android with a single command — no proot, no Linux -🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
@@ -412,6 +412,7 @@ A collection of awesome things.
 - [DOT00/Dot-Hunt-Usernames](https://github.com/DOT00/Dot-Hunt-Usernames) - Hunt down social media accounts by username across social media 
 - [Deadman0451/Fontaine-Editor](https://github.com/Deadman0451/Fontaine-Editor) - A modern, multi-platform manuscript editor.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
+- [EuclidStellar/LexicraftAI](https://github.com/EuclidStellar/LexicraftAI) - We build what writer's love :) An Open Source magical tool for writing books and novels built by : @euclidstellar https://deepwiki.com/EuclidStellar/LexicraftAI
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IDisposable/social-media-search](https://github.com/IDisposable/social-media-search) - Chrome extension to expedite searching on Social Media Sites
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -548,6 +549,7 @@ A collection of awesome things.
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
+- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [NeonOrbit/MRVPatchManager](https://github.com/NeonOrbit/MRVPatchManager) - Android version of the mrv patcher tool.
 - [Open-Store-Foundation/app](https://github.com/Open-Store-Foundation/app) - Multiplatform client for decentralised application store
@@ -1188,7 +1190,7 @@ A collection of awesome things.
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and output an SVG font
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) - Runnable ClaudeCode source code
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
@@ -1412,7 +1414,7 @@ A collection of awesome things.
 - [rrbaker/obsidian-novel-starter-vault](https://github.com/rrbaker/obsidian-novel-starter-vault) - A starter vault for writing novels and other long-form writing projects in Obsidian.
 - [shivaya-dav/DogeRat](https://github.com/shivaya-dav/DogeRat) - A multifunctional Telegram based Android RAT without port forwarding.
 - [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [siyuan-note/icon-sample](https://github.com/siyuan-note/icon-sample) - SiYuan icon sample
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture
