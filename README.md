@@ -1282,6 +1282,7 @@ A collection of awesome things.
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [Duduxs/Awesome-README-Templates](https://github.com/Duduxs/Awesome-README-Templates) - 🤙 Some great readmes 4 u
 - [Easy-Hugo/release](https://github.com/Easy-Hugo/release) - Write Hugo Blogs on Android
+- [Gabriel-Operator/persona-builder](https://github.com/Gabriel-Operator/persona-builder) - Helps you build personas with one shot prompt
 - [GitbookIO/gitbook-templates](https://github.com/GitbookIO/gitbook-templates) - A collection of templates available in GitBook.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - Free Security and Hacking eBooks
