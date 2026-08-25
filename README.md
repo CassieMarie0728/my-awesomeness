@@ -858,6 +858,7 @@ A collection of awesome things.
 - [kitakitaaura/LinuxStore](https://github.com/kitakitaaura/LinuxStore) - A app store for linux
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [krishpranav/AndroidRansome](https://github.com/krishpranav/AndroidRansome) - A simple android ransomeware tool built in python
+- [leemain88/novel-skills](https://github.com/leemain88/novel-skills) - Modular, high-leverage AI skills & workflows for long-form fiction writing.
 - [lloydamiller/socialfinder](https://github.com/lloydamiller/socialfinder) - Find social media accounts with email and/or usernames
 - [lpenz/atdtool](https://github.com/lpenz/atdtool) - Command-line interface for After the Deadline language checker
 - [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner) - Will Search Various Platforms to Confirm An Email Exists.
@@ -1118,6 +1119,7 @@ A collection of awesome things.
 - [TheProductArchitect/appshots](https://github.com/TheProductArchitect/appshots) - Free App Store & Google Play screenshot generator — iPhone, Android, iPad. Zero backend, runs in your browser.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
+- [Unique-newbie/Notter](https://github.com/Unique-newbie/Notter) - Offline-first Story Bible and manuscript management app for novel writers with AI-powered chapter extraction using your own API keys.
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) - The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing Model Context Protocol (MCP) servers—bringing together AI tools, workspaces, prompts, and logs from multiple MCP sources (Claude, Cursor, etc.) under one roof.
 - [YasogaN/APK-Mods-Search](https://github.com/YasogaN/APK-Mods-Search) - APK Mods Search is a search engine for modded APKs.
