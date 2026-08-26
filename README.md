@@ -462,6 +462,7 @@ A collection of awesome things.
 - [fontra/fontra](https://github.com/fontra/fontra) - A browser-based font editor
 - [gas-buddy/usdl-regex](https://github.com/gas-buddy/usdl-regex) - US Driver's License validation via https://ntsi.com/drivers-license-format/
 - [generate/generate-license](https://github.com/generate/generate-license) - Generate a license file from the command line when Generate is installed globally, or use this generator as a plugin or sub-generator in your own generator project.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) - The free & open source web-based font editor, made for hobbyists and typeface design beginners.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [gorango/glyphs](https://github.com/gorango/glyphs) - Dynamic design system for building and managing large icon sets in Figma and packaging them for the web
@@ -787,7 +788,7 @@ A collection of awesome things.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
 - [alexmeckes/readme-to-podcast](https://github.com/alexmeckes/readme-to-podcast) - Blueprint by Mozilla.ai for generating podcasts from documents using local AI
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -831,7 +832,6 @@ A collection of awesome things.
 - [frizb/WordListGen](https://github.com/frizb/WordListGen) - Super Simple Python Word List Generator for Fuzzing and Brute Forcing in Python
 - [fumiama/Retrieval-based-Voice-Conversion-WebUI](https://github.com/fumiama/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [getnikola/nikola](https://github.com/getnikola/nikola) - A static website and blog generator
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 - [graymauser/btcposbal2csv](https://github.com/graymauser/btcposbal2csv) - List all bitcoin addresses with positive balance.
 - [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
@@ -1116,6 +1116,7 @@ A collection of awesome things.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 - [SvetimFM/GitStore](https://github.com/SvetimFM/GitStore) - App Store for GitHub — Discover, install, and run open-source repos as native apps
+- [TeamCoderz/WordyMe](https://github.com/TeamCoderz/WordyMe) - Your own private wiki. Self-hosted notes and documentation, light enough to run on a Raspberry Pi.
 - [TheProductArchitect/appshots](https://github.com/TheProductArchitect/appshots) - Free App Store & Google Play screenshot generator — iPhone, Android, iPad. Zero backend, runs in your browser.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
@@ -1208,6 +1209,7 @@ A collection of awesome things.
 - [princjef/font-ligatures](https://github.com/princjef/font-ligatures) - Find ligature replacements for any system font
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
+- [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - 🖋️ AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [richardr1126/openreader](https://github.com/richardr1126/openreader) - An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD.
 - [rodydavis/agent-skills-generator](https://github.com/rodydavis/agent-skills-generator) - Generate agent skills from website documentation
