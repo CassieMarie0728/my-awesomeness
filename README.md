@@ -273,7 +273,7 @@ A collection of awesome things.
 - [OpenPGP/openpgp.org](https://github.com/OpenPGP/openpgp.org) - OpenPGP.org website
 - [OshekharO/Reverse-Engineering](https://github.com/OshekharO/Reverse-Engineering) - List of awesome reverse engineering resources
 - [OtsoBear/docs-exporter](https://github.com/OtsoBear/docs-exporter) - Export multiple mintlify docs pages into a single piece of text to feed to LLMs
-- [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
+- [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring.
 - [StrikingLoo/Personal-Wiki-Site-Setup](https://github.com/StrikingLoo/Personal-Wiki-Site-Setup) - Personal Wiki / Digital Garden and Static Site Setup. This is a template for a personal site, made with GitHub pages. A good starting point for a wiki or zettelkasten
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
 - [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC) - ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes.
@@ -699,6 +699,7 @@ A collection of awesome things.
 - [AryanVBW/AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) - Revolutionize Your Voice with AI Voice Cloner! Transform Your Speech into Your Favorite Celebrity's or Your Customized Voice. Our Cutting-edge Tool Converts Text or Any Audio into Your Desired Voice – Your Voice, Your Way
 - [AuthenticXploit/BruteFB-Target](https://github.com/AuthenticXploit/BruteFB-Target) - Hacking facebook account is targeted by bruteforce method
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [BotolMehedi/BDROID](https://github.com/BotolMehedi/BDROID) - ANDROID BOTNET | ANDROID RAT | EASY TO USE | EASY TO CONTROL | WITHOUT ROOT | REMOTELY CONTROL ANDROID 2022
 - [BotolMehedi/BMAIL](https://github.com/BotolMehedi/BMAIL) - ©ALL IN ONE EMAIL BOMBER. NO SPAM MAIL, DIRECT INBOX ✌
 - [Brian-Lam/EPUB-to-MP3](https://github.com/Brian-Lam/EPUB-to-MP3) - A script to convert an eBook (.epub) to an audiobook (.mp3) using Google Cloud Platform's Text-to-Speech service
@@ -1071,7 +1072,6 @@ A collection of awesome things.
 
 ## Swift
 
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [ciscoriordan/storescreens-cli](https://github.com/ciscoriordan/storescreens-cli) - Capture App Store screenshots for iOS and macOS apps across every required device size in one command. Supports iPhone, iPad, Apple Watch, and Mac.
 
 ## TeX
