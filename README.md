@@ -422,7 +422,7 @@ A collection of awesome things.
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [Michal2SAB/Bitcoin-Stealer](https://github.com/Michal2SAB/Bitcoin-Stealer) - Generate random bitcoin wallets, private keys (seeds) and then check if they match a wallet that contains some kind of balance, and then take it. Node.js
-- [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
+- [MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) - Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
 - [MoonCrystalPower/Dr.Jekyll](https://github.com/MoonCrystalPower/Dr.Jekyll) - Jekyll CMS application
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [NotLuksus/nft-art-generator](https://github.com/NotLuksus/nft-art-generator) - A tool to generate generative NFT art projects.
@@ -487,6 +487,7 @@ A collection of awesome things.
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+- [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
@@ -1094,7 +1095,7 @@ A collection of awesome things.
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
 - [CassieMarie0728/snippet-bubble-manager](https://github.com/CassieMarie0728/snippet-bubble-manager) - Snippet Bubble Manager is a floating, always-on-top snippet tool that lives in your workflow like a silent little assassin. It doesn’t ask permission. It doesn’t get in your way. It just sits there—ready to drop code into your clipboard faster than your brain can say “where the hell did I put that?”
 - [CassieMarie0728/snippet-bubble-manager-v2](https://github.com/CassieMarie0728/snippet-bubble-manager-v2) - A mobile code snippet manager with a floating overlay bubble for instant access to code snippets from any app. Features include local search, copy to clipboard, favorites, pinning, and offline storage. 
-- [CassieMarie0728/void-repo-docs](https://github.com/CassieMarie0728/void-repo-docs) - Codebase-specific AI-generated legal documents .
+- [CassieMarie0728/void-repo-docs](https://github.com/CassieMarie0728/void-repo-docs) - Codebase-specific AI-generated legal documents... with an attitude.
 - [DanielHallx/static-blog-editor](https://github.com/DanielHallx/static-blog-editor) - A visual blog editor for static blogs with GitHub integration. Works with Astro, Hugo, Jekyll, Eleventy, Gatsby, and any static site generator that uses Markdown files. Manage your blog content through an elegant web interface with Markdown editing, image uploads, and real-time preview.
 - [DeadWaveWave/demo2apk](https://github.com/DeadWaveWave/demo2apk) - Turn your Vibe Coding ideas into runnable Android Apps instantly
 - [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
