@@ -577,7 +577,7 @@ A collection of awesome things.
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [jff99/KeyCip](https://github.com/jff99/KeyCip) - Repository for the Android application  KeyCip. Making possible the statement "Our information belongs to us"
 - [kibotu/Android-PGP](https://github.com/kibotu/Android-PGP) - Simple PGP encryption/decryption on android.
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
