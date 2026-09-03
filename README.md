@@ -701,7 +701,7 @@ A collection of awesome things.
 - [ArkanDash/Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference) - Advanced RVC Inference for quicker and effortless model downloads
 - [AryanVBW/AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) - Revolutionize Your Voice with AI Voice Cloner! Transform Your Speech into Your Favorite Celebrity's or Your Customized Voice. Our Cutting-edge Tool Converts Text or Any Audio into Your Desired Voice – Your Voice, Your Way
 - [AuthenticXploit/BruteFB-Target](https://github.com/AuthenticXploit/BruteFB-Target) - Hacking facebook account is targeted by bruteforce method
-- [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+- [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely take over Android devices.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [BotolMehedi/BDROID](https://github.com/BotolMehedi/BDROID) - ANDROID BOTNET | ANDROID RAT | EASY TO USE | EASY TO CONTROL | WITHOUT ROOT | REMOTELY CONTROL ANDROID 2022
 - [BotolMehedi/BMAIL](https://github.com/BotolMehedi/BMAIL) - ©ALL IN ONE EMAIL BOMBER. NO SPAM MAIL, DIRECT INBOX ✌
@@ -1224,6 +1224,7 @@ A collection of awesome things.
 - [siyuan-note/plugin-sample-vite-vue](https://github.com/siyuan-note/plugin-sample-vite-vue) - SiYuan plugin sample with vite and vue
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
+- [snooky234/scribedog](https://github.com/snooky234/scribedog) - Private AI WYSIWYG Markdown editor with agentic chat & voice dictation. Open source, no cloud, no tracking.
 - [solrachix/icons-manager](https://github.com/solrachix/icons-manager) - A desktop icon manager application
 - [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
 - [sreyas-cheviri/consciousapp](https://github.com/sreyas-cheviri/consciousapp) - Consciousapp: A second brain web app to save and search links, notes, & other media from various sources effortlessly.
@@ -1393,6 +1394,7 @@ A collection of awesome things.
 - [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
 - [mouadbt/openapk-android](https://github.com/mouadbt/openapk-android) -  Because OpenAPK doesn't have a native app yet. A simple, 864KB wrapper for a   better browsing experience. 
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
