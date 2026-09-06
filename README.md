@@ -593,6 +593,7 @@ A collection of awesome things.
 - [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) - OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
+- [zhangzheyuanviolin-ship-it/pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - Pocket Lobster for Android: Codex, Claude Code, OpenMinis and a phone UI agent with multi-agent collaboration, three terminals, shared browser, Shizuku and accessible mobile workflows.
 - [zimly/zimly-backup](https://github.com/zimly/zimly-backup) - Zimly is an eye-catching, open-source app designed for synchronizing your local media and documents with any S3-compatible storage solution — whether self-hosted using platforms like Minio or cloud-based like AWS S3.
 
 ## Makefile
@@ -1247,7 +1248,6 @@ A collection of awesome things.
 - [unwarkz/n8n-mobile](https://github.com/unwarkz/n8n-mobile) - Mobile webapp for n8n flows
 - [write34-com/write34](https://github.com/write34-com/write34) - Share and explore NovelAI prompts 
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [zhangzheyuanviolin-ship-it/pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - 口袋大龙虾 Pocket Lobster for Android: Codex + OpenClaw, dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
 - [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
 - [zshaian/snipshelf](https://github.com/zshaian/snipshelf) - create, save, and share code snippets.
 
