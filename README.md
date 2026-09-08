@@ -431,7 +431,6 @@ A collection of awesome things.
 - [SSAgov/repo-documentation-generator](https://github.com/SSAgov/repo-documentation-generator) - A single page application for generating a codeMetadata.json, README.md, GETTING-STARTED.md, CONTRIBUTING.md, BACKLOG.md and CHANGELOG.md. The codeMetadata.json file contains basic data about a code asset such as it's name, office, hosted instances, and the like.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Stardown-app/Stardown](https://github.com/Stardown-app/Stardown) - Copy the web as markdown
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 - [abecms/abecms](https://github.com/abecms/abecms) - The lightning fast CMS
@@ -1123,6 +1122,7 @@ A collection of awesome things.
 - [TeamCoderz/WordyMe](https://github.com/TeamCoderz/WordyMe) - Your own private wiki. Self-hosted notes and documentation, light enough to run on a Raspberry Pi.
 - [TheProductArchitect/appshots](https://github.com/TheProductArchitect/appshots) - Free App Store & Google Play screenshot generator — iPhone, Android, iPad. Zero backend, runs in your browser.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
 - [Unique-newbie/Notter](https://github.com/Unique-newbie/Notter) - Offline-first Story Bible and manuscript management app for novel writers with AI-powered chapter extraction using your own API keys.
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
@@ -1425,7 +1425,7 @@ A collection of awesome things.
 - [shivaya-dav/DogeRat](https://github.com/shivaya-dav/DogeRat) - A multifunctional Telegram based Android RAT without port forwarding.
 - [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
-- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
 - [siyuan-note/icon-sample](https://github.com/siyuan-note/icon-sample) - SiYuan icon sample
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
