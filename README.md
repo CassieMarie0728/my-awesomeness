@@ -526,7 +526,7 @@ A collection of awesome things.
 - [hampta/RVC-Easy-10-25-Cloudflared](https://github.com/hampta/RVC-Easy-10-25-Cloudflared) - Original colab: https://colab.research.google.com/drive/1r4IRL0UA7JEoZ0ZK8PKfMyTIBHKpyhcw
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [kingridda/voice-cloning-AI](https://github.com/kingridda/voice-cloning-AI) - Voice cloning AI (deepfake for voice). Using cloned voice from only 5-10 seconds of targeted voice.
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - 
 - [mrm8488/shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks) - A Repo to store the Google Colaboratory Notebooks that I have created and shared
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
