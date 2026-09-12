@@ -1114,6 +1114,7 @@ A collection of awesome things.
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NeuZhou/repo2skill](https://github.com/NeuZhou/repo2skill) - Convert any GitHub repo into an OpenClaw skill. One command.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
