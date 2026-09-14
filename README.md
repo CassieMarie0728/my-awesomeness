@@ -567,7 +567,7 @@ A collection of awesome things.
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - 👓 A curated list of awesome android kotlin apps by open-source contributors.
 - [cibbia/openclaw-apk](https://github.com/cibbia/openclaw-apk) - OpenClaw Android APK - Mobile launcher for OpenClaw AI Assistant
-- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
+- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - A renderless component library for Compose Multiplatform that handles accessibility, state, and UX logic without enforcing any visual styling.
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [google/horologist](https://github.com/google/horologist) - Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.
 - [iYung/nfc-for-atms](https://github.com/iYung/nfc-for-atms) - Hack for RUHacks
