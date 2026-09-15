@@ -32,6 +32,7 @@ A collection of awesome things.
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -492,7 +493,6 @@ A collection of awesome things.
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [nullcpy/nullcpy.github.io](https://github.com/nullcpy/nullcpy.github.io) - NullStore: Fast, clean catalog for the latest patched (ReVanced, Revanced Extended, MorpheApp, RVX Morphed, and Revanced Advanced) Android apps and Magisk/KSU modules.
 - [open-keychain/openkeychain.org](https://github.com/open-keychain/openkeychain.org) - OpenKeychain website
-- [openpeeps/booyaka](https://github.com/openpeeps/booyaka) - Booyaka 👻 A fast documentation generator for cool kids!
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [phcode-dev/phoenix-desktop](https://github.com/phcode-dev/phoenix-desktop) - Windows, Mac and Linux Desktop builds of Phoenix  Code Editor
 - [pushkarydv/markdownbadges](https://github.com/pushkarydv/markdownbadges) - Generate amazing svg markdown badges within few clicks 
@@ -617,6 +617,10 @@ A collection of awesome things.
 ## Meson
 
 - [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
+
+## Nim
+
+- [openpeeps/booyaka](https://github.com/openpeeps/booyaka) - Booyaka 👻 A fast documentation generator for cool kids!
 
 ## Nix
 
@@ -789,7 +793,6 @@ A collection of awesome things.
 - [adobe-type-tools/opentype-svg](https://github.com/adobe-type-tools/opentype-svg) - Tools and sample files for making OpenType-SVG fonts
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
-- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
 - [alexmeckes/readme-to-podcast](https://github.com/alexmeckes/readme-to-podcast) - Blueprint by Mozilla.ai for generating podcasts from documents using local AI
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
@@ -1131,6 +1134,7 @@ A collection of awesome things.
 - [YasogaN/APK-Mods-Search](https://github.com/YasogaN/APK-Mods-Search) - APK Mods Search is a search engine for modded APKs.
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
