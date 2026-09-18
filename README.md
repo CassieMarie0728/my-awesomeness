@@ -416,7 +416,6 @@ A collection of awesome things.
 - [EuclidStellar/LexicraftAI](https://github.com/EuclidStellar/LexicraftAI) - We build what writer's love :) An Open Source magical tool for writing books and novels built by : @euclidstellar https://deepwiki.com/EuclidStellar/LexicraftAI
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IDisposable/social-media-search](https://github.com/IDisposable/social-media-search) - Chrome extension to expedite searching on Social Media Sites
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [John-Nguyen/HackTJReal](https://github.com/John-Nguyen/HackTJReal) - Created a PhoneGap/Cordova app for the Hackathon HackTJ. This app would allow shoppers to go into a store and scan barcodes with their phone to purchase items, with a SQLite database updating when the item is scanned. Also uses the Capital One API to provide an alternative to a credit or debit card.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -482,6 +481,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
+- [lobehub/lobe-editor](https://github.com/lobehub/lobe-editor) - ✒️ Lobe Editor - a modern, extensible rich text editor built on Meta's Lexical framework with dual-architecture design, featuring both a powerful kernel and React integration. Optimized for AI applications and chat interfaces.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
@@ -1106,6 +1106,7 @@ A collection of awesome things.
 - [GitbookIO/github-repo-organizer](https://github.com/GitbookIO/github-repo-organizer) - 📋✅ A Web App to Organize GitHub Repositories
 - [Hacktown-BSB/Nexo](https://github.com/Hacktown-BSB/Nexo) - 🏅 MLH International Hacktown Winner - AI-powered platform that transforms GitHub repositories into interactive documentation you can see and hear. Get automated analysis, tech stack visualizations, and AI-generated podcasts explaining any codebase. Perfect for onboarding and code exploration.
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [JanuaryLabs/sdk-it](https://github.com/JanuaryLabs/sdk-it) - SDK-IT generates type-safe client SDKs from OpenAPI specifications and creates OpenAPI specs from TypeScript code.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
@@ -1126,7 +1127,6 @@ A collection of awesome things.
 - [TheProductArchitect/appshots](https://github.com/TheProductArchitect/appshots) - Free App Store & Google Play screenshot generator — iPhone, Android, iPad. Zero backend, runs in your browser.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- [UniRoom25/hand-drawn-icons](https://github.com/UniRoom25/hand-drawn-icons) - An SVG icon library of hand-drawn elements for UniRoom - inspiration for design drawn from iconoir.com
 - [Unique-newbie/Notter](https://github.com/Unique-newbie/Notter) - Offline-first Story Bible and manuscript management app for novel writers with AI-powered chapter extraction using your own API keys.
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) - The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing Model Context Protocol (MCP) servers—bringing together AI tools, workspaces, prompts, and logs from multiple MCP sources (Claude, Cursor, etc.) under one roof.
@@ -1169,7 +1169,6 @@ A collection of awesome things.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
-- [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) - Dragon Store is your gateway to transparent, libre and free open-source apps.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
@@ -1177,6 +1176,9 @@ A collection of awesome things.
 - [lfinmauritius/n8n-nodes-ionos](https://github.com/lfinmauritius/n8n-nodes-ionos) - N8n IONOS Nodes
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
+- [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
