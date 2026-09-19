@@ -128,6 +128,7 @@ A collection of awesome things.
 
 - [BTCGPU/BTCGPU](https://github.com/BTCGPU/BTCGPU) - Current work on BTCGPU
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+- [Pedrovskigg/qenna-writer](https://github.com/Pedrovskigg/qenna-writer) - Qenna Writer - Free Scrivener Alternative for Novelists and Screenwriters (C++ / Qt6)
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
@@ -301,6 +302,7 @@ A collection of awesome things.
 - [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
+- [ksjpswaroop/AuthorsAssistant](https://github.com/ksjpswaroop/AuthorsAssistant) - AI-driven book writing with Scrivener look and feel and Turnitin-class originality tools
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
 - [maikeliu86-coder/story-vista](https://github.com/maikeliu86-coder/story-vista) - Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
@@ -412,6 +414,7 @@ A collection of awesome things.
 - [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
 - [DOT00/Dot-Hunt-Usernames](https://github.com/DOT00/Dot-Hunt-Usernames) - Hunt down social media accounts by username across social media 
 - [Deadman0451/Fontaine-Editor](https://github.com/Deadman0451/Fontaine-Editor) - A modern, multi-platform manuscript editor.
+- [DerHabicht/WritingProjectTemplate](https://github.com/DerHabicht/WritingProjectTemplate) - Obsidian vault template inspired by Abbie Emmons' Scrivener setup
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [EuclidStellar/LexicraftAI](https://github.com/EuclidStellar/LexicraftAI) - We build what writer's love :) An Open Source magical tool for writing books and novels built by : @euclidstellar https://deepwiki.com/EuclidStellar/LexicraftAI
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -428,6 +431,7 @@ A collection of awesome things.
 - [NotLuksus/nft-art-generator](https://github.com/NotLuksus/nft-art-generator) - A tool to generate generative NFT art projects.
 - [Onewon/claude-code](https://github.com/Onewon/claude-code) - claude-code full original source code from source maps
 - [Prajwalkadam29/repo-documentation-generator](https://github.com/Prajwalkadam29/repo-documentation-generator) - Transform your codebase into production-grade documentation in seconds.
+- [S3Prototype/better-scrivener](https://github.com/S3Prototype/better-scrivener) - An improvement on scrivener for authors.
 - [SSAgov/repo-documentation-generator](https://github.com/SSAgov/repo-documentation-generator) - A single page application for generating a codeMetadata.json, README.md, GETTING-STARTED.md, CONTRIBUTING.md, BACKLOG.md and CHANGELOG.md. The codeMetadata.json file contains basic data about a code asset such as it's name, office, hosted instances, and the like.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Stardown-app/Stardown](https://github.com/Stardown-app/Stardown) - Copy the web as markdown
@@ -599,6 +603,7 @@ A collection of awesome things.
 - [MichaelCurrin/dev-cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets) - A collection of code snippets and CLI guides for quick and easy reference while coding
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
+- [hhkarimi/novel_template](https://github.com/hhkarimi/novel_template) - Template for writing novels using open-source tooling. Inspired by Scrivener
 - [jaroslaw-janikowski/AndroTermux](https://github.com/jaroslaw-janikowski/AndroTermux) - Simple way to build Android apps in Termux.
 - [jp-fosterson/pandoc-novel](https://github.com/jp-fosterson/pandoc-novel) - Markdown text to a novel in ePub and PDF.
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
@@ -742,7 +747,7 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
@@ -1207,6 +1212,7 @@ A collection of awesome things.
 - [openai/openai-sora-sample-app](https://github.com/openai/openai-sora-sample-app) - Sample app to get started using the Video API with Sora
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+- [palchung/obsidian-novelsmith](https://github.com/palchung/obsidian-novelsmith) - A comprehensive, Scrivener-inspired writing environment. Features seamless scenes merging, version control, and color-coded scene management.
 - [passportxyz/passport-sdk](https://github.com/passportxyz/passport-sdk) - The Gitcoin Passport SDK is comprised of a set of libraries distributed on npm to help developers interact with Passport data living on [Ceramic](https://ceramic.network/).
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [phonetonote/ptn-roam-depot](https://github.com/phonetonote/ptn-roam-depot) - send ideas from your phone to your roam
