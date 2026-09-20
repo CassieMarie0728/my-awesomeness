@@ -929,7 +929,7 @@ A collection of awesome things.
 - [snuq/Snu-Photo-Manager](https://github.com/snuq/Snu-Photo-Manager) - A feature-rich photo manager and editor written in python.  Uses the Kivy library, and is cross-platform (currently tested on Windows and Linux).
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
 - [sojohnnysaid/project-guide](https://github.com/sojohnnysaid/project-guide) - Your magical AI-powered project documentation generator
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [stefanfrench/radio-drama-generator](https://github.com/stefanfrench/radio-drama-generator) - Radio drama generator using input document for context. 
 - [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) - Top OpenClaw skills, with the most popular and useful ones.
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
