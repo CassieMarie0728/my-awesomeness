@@ -350,6 +350,7 @@ A collection of awesome things.
 - [LaughingMuffin/apk-killer-java-mod-menu](https://github.com/LaughingMuffin/apk-killer-java-mod-menu) - Android Java Mod Menu using APK Killer
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [MehdiTAZI/BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker) - the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.
+- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [Porvil/PGP-Tool](https://github.com/Porvil/PGP-Tool) - PGP Tool for Android
 - [PsProsen-Dev/OpenClawOnAndroid](https://github.com/PsProsen-Dev/OpenClawOnAndroid) - OpenClaw on Android (OCA) - Run OpenClaw on Android with a single command — no proot, no Linux -🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
@@ -554,7 +555,6 @@ A collection of awesome things.
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
-- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [NeonOrbit/MRVPatchManager](https://github.com/NeonOrbit/MRVPatchManager) - Android version of the mrv patcher tool.
 - [Open-Store-Foundation/app](https://github.com/Open-Store-Foundation/app) - Multiplatform client for decentralised application store
