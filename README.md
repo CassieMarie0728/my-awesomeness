@@ -571,7 +571,6 @@ A collection of awesome things.
 - [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - 👓 A curated list of awesome android kotlin apps by open-source contributors.
 - [cibbia/openclaw-apk](https://github.com/cibbia/openclaw-apk) - OpenClaw Android APK - Mobile launcher for OpenClaw AI Assistant
 - [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - A renderless component library for Compose Multiplatform that handles accessibility, state, and UX logic without enforcing any visual styling.
-- [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [google/horologist](https://github.com/google/horologist) - Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.
 - [iYung/nfc-for-atms](https://github.com/iYung/nfc-for-atms) - Hack for RUHacks
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
@@ -1023,7 +1022,6 @@ A collection of awesome things.
 - [TermuxHackz/anonphisher](https://github.com/TermuxHackz/anonphisher) - Automated phishing tool made by AnonyminHack5 to phish various sites with 30+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim.  Anonphisher tool is made with pure bash script and needs required packages for it to work. 
 - [TheDiamondYT1/termux-buildapk](https://github.com/TheDiamondYT1/termux-buildapk) - A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [bacongobbler/azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - Uploads assets to Azure Blob Storage
@@ -1148,6 +1146,7 @@ A collection of awesome things.
 - [benjaminshoemaker/vibecode_spec_generator](https://github.com/benjaminshoemaker/vibecode_spec_generator) - Wizard-style app to help people generate specs that AI coding agents can execute & keep track of status
 - [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 - [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin) - Allow you to access your calibre libraries and read books directly in Obsidian.
+- [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
@@ -1343,6 +1342,7 @@ A collection of awesome things.
 - [always0ne/repositoryTemplate](https://github.com/always0ne/repositoryTemplate) - Repository Quick Start template
 - [ankane/awesome-legal](https://github.com/ankane/awesome-legal) - Awesome free legal documents for companies
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
+- [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
