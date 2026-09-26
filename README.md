@@ -191,11 +191,11 @@ A collection of awesome things.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [gojitsucom/drivers_license_parser](https://github.com/gojitsucom/drivers_license_parser) - Easily parse the information within PDF-417 barcodes found on the back of US and Canadian driver's licenses adhering to the AAMVA Version 8
 - [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) - Flutter App for PhotoPrism
 
 ## Dockerfile
@@ -464,6 +464,7 @@ A collection of awesome things.
 - [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [firebase/agent-skills](https://github.com/firebase/agent-skills) - Agent Skills for Firebase
+- [fontpixel/font-template](https://github.com/fontpixel/font-template) - Simplest way to create your own font with Adobe Illustrator and FontForge 🔤
 - [fontra/fontra](https://github.com/fontra/fontra) - A browser-based font editor
 - [gas-buddy/usdl-regex](https://github.com/gas-buddy/usdl-regex) - US Driver's License validation via https://ntsi.com/drivers-license-format/
 - [generate/generate-license](https://github.com/generate/generate-license) - Generate a license file from the command line when Generate is installed globally, or use this generator as a plugin or sub-generator in your own generator project.
@@ -500,6 +501,7 @@ A collection of awesome things.
 - [open-keychain/openkeychain.org](https://github.com/open-keychain/openkeychain.org) - OpenKeychain website
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [phcode-dev/phoenix-desktop](https://github.com/phcode-dev/phoenix-desktop) - Windows, Mac and Linux Desktop builds of Phoenix  Code Editor
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [pushkarydv/markdownbadges](https://github.com/pushkarydv/markdownbadges) - Generate amazing svg markdown badges within few clicks 
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
@@ -508,7 +510,6 @@ A collection of awesome things.
 - [squireChuck/us-states-ref-client](https://github.com/squireChuck/us-states-ref-client) - Cheatsheet of info related to U.S. states, e.g. sample addresses, driver's license formats, etc.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
-- [tomchen/font-template](https://github.com/tomchen/font-template) - Simplest way to create your own font with Adobe Illustrator and FontForge 🔤
 - [untitleduico/icons](https://github.com/untitleduico/icons) - Untitled UI Icons are a clean, consistent, and neutral icon library crafted for modern UI design.
 - [xda/XDA-Labs-Store-UI](https://github.com/xda/XDA-Labs-Store-UI) - XDA Labs Store interface
 
@@ -916,7 +917,6 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
-- [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) - Android device control for hermes-agent — bridge app + Python toolset
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [sadatt123/repo-digest](https://github.com/sadatt123/repo-digest) - 📦 Transform any code repository into an AI-ready text bundle, enhancing analytics and enabling smarter code reviews and documentation.
