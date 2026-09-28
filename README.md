@@ -339,7 +339,6 @@ A collection of awesome things.
 ## Java
 
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
-- [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 - [AvinashSKaranth/epublibDroid](https://github.com/AvinashSKaranth/epublibDroid) - Android sdk for reading Epub using epublib (http://siegmann.nl/epublib)
 - [Azure/azure-storage-android](https://github.com/Azure/azure-storage-android) - Microsoft Azure Storage Library for Android
 - [DASAR-zz/epublib-android](https://github.com/DASAR-zz/epublib-android) - epublib port for Android
@@ -359,6 +358,7 @@ A collection of awesome things.
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [Techbrunch/billing-hack](https://github.com/Techbrunch/billing-hack) - This application allows to impersonate the Google Play Billing service (com.android.vending).
 - [WuDi-ZhanShen/ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) - 以shizuku身份执行命令的安卓小工具。A 50KB android app to run any commands via Shizuku.
+- [aidanpark/openclaw-android](https://github.com/aidanpark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 - [amirzaidi/Shade](https://github.com/amirzaidi/Shade) - Make your phone feel like home. Free, open source, no ads.
 - [android-password-store/open-keychain](https://github.com/android-password-store/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [aws-amplify/amplify-android](https://github.com/aws-amplify/amplify-android) - The fastest and easiest way to use AWS from your Android app.
@@ -1464,6 +1464,6 @@ A collection of awesome things.
 - [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 - [yo-yo-yo-jbo/android_smali](https://github.com/yo-yo-yo-jbo/android_smali) - Android SMALI patching
-- [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 10258+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
+- [zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates) - 12333+N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.synchronized and updated every 1 months.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
