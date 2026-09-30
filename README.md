@@ -824,7 +824,6 @@ A collection of awesome things.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [duplaja/epub-to-audiobook-hf](https://github.com/duplaja/epub-to-audiobook-hf) - Epub to MB4 Audiobook, with StyleTTS2 via HuggingFace Spaces API
-- [efegen/rvc-pipeline](https://github.com/efegen/rvc-pipeline) - End-to-end AI voice conversion pipeline: separate vocals from any song, re-sing them in a new voice with RVC, and remix a studio-quality track automatically.
 - [elevenlabs/skills](https://github.com/elevenlabs/skills) - Collections of skills for building with ElevenLabs
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [esfelurm/android-ransomware](https://github.com/esfelurm/android-ransomware) - A ransomware for Android!  
@@ -1105,6 +1104,7 @@ A collection of awesome things.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [GitbookIO/github-repo-organizer](https://github.com/GitbookIO/github-repo-organizer) - 📋✅ A Web App to Organize GitHub Repositories
+- [Gram-ax/gramax](https://github.com/Gram-ax/gramax) - Embrace a docs-as-code approach to build, version, and publish Git-driven documentation sites using Markdown and a visual editor
 - [Hacktown-BSB/Nexo](https://github.com/Hacktown-BSB/Nexo) - 🏅 MLH International Hacktown Winner - AI-powered platform that transforms GitHub repositories into interactive documentation you can see and hear. Get automated analysis, tech stack visualizations, and AI-generated podcasts explaining any codebase. Perfect for onboarding and code exploration.
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -1152,7 +1152,7 @@ A collection of awesome things.
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [get-nathan/nathan](https://github.com/get-nathan/nathan) - Your mobile companion for N8N.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
