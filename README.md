@@ -586,7 +586,7 @@ A collection of awesome things.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
-- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 - [samosa-ai-com/Gotcha](https://github.com/samosa-ai-com/Gotcha) - Your phone, on your command. Gotcha is world's first fully on-device AI copilot for Android that turns natural language into real device actions — safely.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
