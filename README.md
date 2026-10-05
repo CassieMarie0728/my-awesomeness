@@ -511,6 +511,7 @@ A collection of awesome things.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
 - [untitleduico/icons](https://github.com/untitleduico/icons) - Untitled UI Icons are a clean, consistent, and neutral icon library crafted for modern UI design.
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [xda/XDA-Labs-Store-UI](https://github.com/xda/XDA-Labs-Store-UI) - XDA Labs Store interface
 
 ## Jupyter Notebook
@@ -939,7 +940,6 @@ A collection of awesome things.
 - [twhlynch/AutoModder](https://github.com/twhlynch/AutoModder) - A simple keyword based unity modding util
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
-- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [x11-repo/hack-tools-en](https://github.com/x11-repo/hack-tools-en) - "Kali replacer." It has a large number of hacking tools.
 - [xob0t/gpmc](https://github.com/xob0t/gpmc) - Google Photos client based on reverse engineered mobile API.
 
