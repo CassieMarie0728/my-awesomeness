@@ -729,7 +729,6 @@ A collection of awesome things.
 - [Frankenmint/PKGenerator_Checker](https://github.com/Frankenmint/PKGenerator_Checker) - Generate Bitcoin Private Keys and check them against blockexplorer.com
 - [Gauff/EpubToAudioBookConverter](https://github.com/Gauff/EpubToAudioBookConverter) - Convert EPUB files to MP3 audio books with ease using this intuitive and user-friendly converter that allows you to select voices and playback settings with just a few clicks.
 - [Gheat1/tuistore](https://github.com/Gheat1/tuistore) - 🛍️ The TUI app store: browse, search & one-key-install hundreds of terminal apps.
-- [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
 - [Greyjedix/Profil3r](https://github.com/Greyjedix/Profil3r) - OSINT tool that allows you to find a person's accounts and emails + breached emails
 - [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
 - [HarryAJMK418/RVC-SVC-Best-Dataset-Maker](https://github.com/HarryAJMK418/RVC-SVC-Best-Dataset-Maker) - RVC/SVC Best Dataset Maker Allows You To Make The Best Datasets FOR RVC/SVC Voice Models
@@ -762,7 +761,7 @@ A collection of awesome things.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
-- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 - [SKGEzhil/ai-docs-generator](https://github.com/SKGEzhil/ai-docs-generator) - API Documentation and Readme generator using Langchain and RAG. Analyses the github repo and generates documentation automatically
 - [SPERIXLABS/frida-apk-patcher](https://github.com/SPERIXLABS/frida-apk-patcher) - Frida APK Patcher
 - [SayanoAI/RVC-Studio](https://github.com/SayanoAI/RVC-Studio) - The best looking and most functional webui for RVC related tasks. See website for UI demo:
@@ -984,6 +983,7 @@ A collection of awesome things.
 ## SCSS
 
 - [Drassil/git-wiki-theme](https://github.com/Drassil/git-wiki-theme) - A revolutionary full-featured wiki for github pages and jekyll. You don't need to compile it!
+- [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serves as a powerful reference implementation and creative suite, showcasing the full spectrum of Google's state-of-the-art generative AI models on Vertex AI.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [alertbox/bookworm](https://github.com/alertbox/bookworm) - A delightfully lightweight, mobile-first, and fluidly responsive Jekyll theme for books and creative writing that emphasizes content rather than aesthetic fluff.
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
@@ -1064,7 +1064,6 @@ A collection of awesome things.
 - [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
 - [wishihab/userrecon](https://github.com/wishihab/userrecon) - Find usernames across over 75 social networks
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
-- [xebis-legacy/repository-template](https://github.com/xebis-legacy/repository-template) - Highly automated, up-to-date, and well-documented repository template. Checks for common problems, Markdown, YAML, Bash, formats, lints, and tests before committing or pushing so you don't have any surprises at CI or when releasing your code to GitLab and GitHub!
 
 ## Smali
 
@@ -1074,7 +1073,7 @@ A collection of awesome things.
 
 ## Svelte
 
-- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A structured knowledge layer in plain text.
+- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - Context as a structured knowledge layer in plain text.
 
 ## Swift
 
