@@ -117,7 +117,6 @@ A collection of awesome things.
 - [microsoft/PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [ptedeschi/NFT.net](https://github.com/ptedeschi/NFT.net) - An engine developed with .NET Core to generate NFT's through a graphical interface. Simple as that, in the best Grab & Go style.
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [webmaster442/BookGen](https://github.com/webmaster442/BookGen) - A C# book generator, similar to GitBook, but better
 - [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
@@ -593,6 +592,7 @@ A collection of awesome things.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [yash-garg/KeyManager](https://github.com/yash-garg/KeyManager) - Android application to manage SSH and GPG keys on GitHub, written in Jetpack Compose.
 - [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) - OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
@@ -1039,7 +1039,6 @@ A collection of awesome things.
 - [kodika/MutataApp](https://github.com/kodika/MutataApp) - 
 - [littlebearapps/pitchdocs](https://github.com/littlebearapps/pitchdocs) - Turn any codebase into professional, marketing-ready GitHub documentation — powered by AI coding assistants
 - [lomorage/lomo-importer-release](https://github.com/lomorage/lomo-importer-release) - Batch import tool like: import Google Photos to Lomorage
-- [mahendraplus/github-repo-image-generator](https://github.com/mahendraplus/github-repo-image-generator) - A powerful tool for efficiently downloading beautiful social media images from your GitHub repositories in bulk. Simplify the process of creating engaging visuals for your projects with just a few commands!
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [minterm/rtsp-cloud-cam](https://github.com/minterm/rtsp-cloud-cam) - Save an RTSP stream from a cheap IP camera to the cloud through Dropbox.
