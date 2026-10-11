@@ -419,6 +419,7 @@ A collection of awesome things.
 - [EuclidStellar/LexicraftAI](https://github.com/EuclidStellar/LexicraftAI) - We build what writer's love :) An Open Source magical tool for writing books and novels built by : @euclidstellar https://deepwiki.com/EuclidStellar/LexicraftAI
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IDisposable/social-media-search](https://github.com/IDisposable/social-media-search) - Chrome extension to expedite searching on Social Media Sites
+- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - An automated registry for ReVanced, Morphe, and ReSeam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
 - [John-Nguyen/HackTJReal](https://github.com/John-Nguyen/HackTJReal) - Created a PhoneGap/Cordova app for the Hackathon HackTJ. This app would allow shoppers to go into a store and scan barcodes with their phone to purchase items, with a SQLite database updating when the item is scanned. Also uses the Capital One API to provide an alternative to a credit or debit card.
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
@@ -495,6 +496,7 @@ A collection of awesome things.
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [nullcpy/nullcpy.github.io](https://github.com/nullcpy/nullcpy.github.io) - NullStore: Fast, clean catalog for the latest patched (ReVanced, Revanced Extended, MorpheApp, RVX Morphed, and Revanced Advanced) Android apps and Magisk/KSU modules.
 - [open-keychain/openkeychain.org](https://github.com/open-keychain/openkeychain.org) - OpenKeychain website
@@ -557,7 +559,6 @@ A collection of awesome things.
 - [FaceOnLive/ID-Card-Passport-Recognition-SDK-Android](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android) - On-Device ID Card & Passport & Driver License Recognition SDK for Android
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
-- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [NeonOrbit/MRVPatchManager](https://github.com/NeonOrbit/MRVPatchManager) - Android version of the mrv patcher tool.
 - [Open-Store-Foundation/app](https://github.com/Open-Store-Foundation/app) - Multiplatform client for decentralised application store
@@ -746,7 +747,7 @@ A collection of awesome things.
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [MrSanZz/KawaiiGPT](https://github.com/MrSanZz/KawaiiGPT) - WormGPT kawaii ver
 - [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
@@ -1189,7 +1190,6 @@ A collection of awesome things.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
 - [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mrsibe/KnowNote](https://github.com/mrsibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [mwood23/wave-snippets](https://github.com/mwood23/wave-snippets) - 🌊 Create gorgeous animated snippets to share with the world.
