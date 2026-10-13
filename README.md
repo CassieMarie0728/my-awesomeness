@@ -419,7 +419,7 @@ A collection of awesome things.
 - [EuclidStellar/LexicraftAI](https://github.com/EuclidStellar/LexicraftAI) - We build what writer's love :) An Open Source magical tool for writing books and novels built by : @euclidstellar https://deepwiki.com/EuclidStellar/LexicraftAI
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [IDisposable/social-media-search](https://github.com/IDisposable/social-media-search) - Chrome extension to expedite searching on Social Media Sites
-- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - An automated registry for ReVanced, Morphe, and Reseam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
+- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs.
 - [John-Nguyen/HackTJReal](https://github.com/John-Nguyen/HackTJReal) - Created a PhoneGap/Cordova app for the Hackathon HackTJ. This app would allow shoppers to go into a store and scan barcodes with their phone to purchase items, with a SQLite database updating when the item is scanned. Also uses the Capital One API to provide an alternative to a credit or debit card.
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
@@ -1106,7 +1106,7 @@ A collection of awesome things.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [GitbookIO/github-repo-organizer](https://github.com/GitbookIO/github-repo-organizer) - 📋✅ A Web App to Organize GitHub Repositories
-- [Gram-ax/gramax](https://github.com/Gram-ax/gramax) - Embrace a docs-as-code approach to build, version, and publish Git-driven documentation sites using Markdown and a visual editor
+- [Gram-ax/gramax](https://github.com/Gram-ax/gramax) - Open-source, self-hosted GitBook & Confluence alternative: a WYSIWYG editor over Markdown in your own Git repo, with a documentation portal
 - [Hacktown-BSB/Nexo](https://github.com/Hacktown-BSB/Nexo) - 🏅 MLH International Hacktown Winner - AI-powered platform that transforms GitHub repositories into interactive documentation you can see and hear. Get automated analysis, tech stack visualizations, and AI-generated podcasts explaining any codebase. Perfect for onboarding and code exploration.
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -1309,6 +1309,7 @@ A collection of awesome things.
 - [Menace13/RoA-Workshop-Templates](https://github.com/Menace13/RoA-Workshop-Templates) - A repository for .GML code templates as examples for people to use for their own creations
 - [NDJSec/Android-Reverse-Engineering](https://github.com/NDJSec/Android-Reverse-Engineering) - A FREE comprehensive guide to learning Android Reverse Engineering. From Java, to Dalvik, to ART, to the JNI come learn along.
 - [Niclas1337/WD-MyCloud-Firmwares](https://github.com/Niclas1337/WD-MyCloud-Firmwares) - Every WD MyCloud Firmware compiled and ready to download
+- [OSINTVerseHQ/Social-Media-OSINT-Tools-Collection](https://github.com/OSINTVerseHQ/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
@@ -1413,7 +1414,6 @@ A collection of awesome things.
 - [onggiabayluon/laptop-folder-structure](https://github.com/onggiabayluon/laptop-folder-structure) - Custom Folder Structure template for a clean laptop with best naming practice 
 - [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
-- [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
