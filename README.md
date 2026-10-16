@@ -787,7 +787,6 @@ A collection of awesome things.
 - [W1LDN16H7/StegoCracker](https://github.com/W1LDN16H7/StegoCracker) - Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
 - [WiseDodge/ArchiveSorter](https://github.com/WiseDodge/ArchiveSorter) - A file management system for turning digital chaos into an organized archive. Includes scripts to sort, analyze, and consolidate files.
 - [Xer0bit/BookWriter-Lamma3.1-OPENAI](https://github.com/Xer0bit/BookWriter-Lamma3.1-OPENAI) - A revolutionary tool that leverages GPT API or LLaMA 3.1 model to write complete books locally, empowering authors to automate their writing process and boost creativity.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Zahin-Tajwar/Acc-Hunter](https://github.com/Zahin-Tajwar/Acc-Hunter) - Hunt down social media accounts.
 - [Zard2007/Gmail-Hack](https://github.com/Zard2007/Gmail-Hack) - Easy gmail hacking in python
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
