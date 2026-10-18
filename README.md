@@ -261,6 +261,7 @@ A collection of awesome things.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish) - Modded version of shellphish. Mod Features are Colourized Text, Animations, In built setup for Termux, Extra features, More improvements, Bugs cleared, Fixed URL not showing.
 - [AuraFriday/mcp-link](https://github.com/AuraFriday/mcp-link) - Let AI agents like ChatGPT & Claude use real-world local/remote tools you approve via browser extension + optional MCP server
+- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [Borg-Creative-Studios/bcs-author-web](https://github.com/Borg-Creative-Studios/bcs-author-web) - BCS Author web is a new, browser based writing app that is free for anyone!
 - [CassieMarie0728/cassie-marie](https://github.com/CassieMarie0728/cassie-marie) - Home of THE AFTERMATH DIARIES
 - [Cyber-Anonymous/Dark-Phish](https://github.com/Cyber-Anonymous/Dark-Phish) - A Powerful Phishing Tool with 50+ phishing templates. For more about Dark-Phish tool please visit the website.
@@ -404,7 +405,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [AppFlowy-IO/AppFlowy-Website](https://github.com/AppFlowy-IO/AppFlowy-Website) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [BenDol/GithubWikiTemplate](https://github.com/BenDol/GithubWikiTemplate) - 
@@ -445,6 +446,7 @@ A collection of awesome things.
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [anfernee-create/notion-ai-resources](https://github.com/anfernee-create/notion-ai-resources) - A comprehensive collection of Notion resources, templates, AI integrations, and guides for solopreneurs and productivity enthusiasts
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [bhulston/bookmark_plugin](https://github.com/bhulston/bookmark_plugin) - A better alternative to Chrome Bookmarks for Obsidian users. Customize templates on the fly and either append to existing notes, create new notes, or do both!
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
 - [btk/opendesign](https://github.com/btk/opendesign) - Website for Open license that allows you to get, use, change, and share design.
@@ -621,6 +623,7 @@ A collection of awesome things.
 - [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [scottgriv/PRG-Personal-Repository-Guidelines](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) - 🧑‍💻 📃 Revolutionize your GitHub Portfolio with the PRG framework. Utilizing GitHub Actions, it auto-generates a categorized display for organized, impactful repository presentation. Includes essential guidelines and templates for READMEs and repository structure.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent skills for source-grounded novel-to-game adaptation (小说改编游戏 / story to game): cited design docs, target-runtime builds, evidence-based QA. Three playable browser examples. For Claude Code, Codex, and Kimi Code.
 
 ## Meson
 
@@ -706,6 +709,7 @@ A collection of awesome things.
 - [AdrMXR/KitHack](https://github.com/AdrMXR/KitHack) - Hacking tools pack & backdoors generator.
 - [AleSZanello/BitBruteForce-Wallet](https://github.com/AleSZanello/BitBruteForce-Wallet) - 
 - [AmmarrBN/Brutal-Sms](https://github.com/AmmarrBN/Brutal-Sms) - Perfect Tools Spam Brutal-Sms 24 jam non stop
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents
 - [ArkanDash/Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference) - Advanced RVC Inference for quicker and effortless model downloads
 - [AryanVBW/AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) - Revolutionize Your Voice with AI Voice Cloner! Transform Your Speech into Your Favorite Celebrity's or Your Customized Voice. Our Cutting-edge Tool Converts Text or Any Audio into Your Desired Voice – Your Voice, Your Way
 - [AuthenticXploit/BruteFB-Target](https://github.com/AuthenticXploit/BruteFB-Target) - Hacking facebook account is targeted by bruteforce method
@@ -725,6 +729,7 @@ A collection of awesome things.
 - [DavidMGilbert/btc-hack](https://github.com/DavidMGilbert/btc-hack) - An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API .
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) - Your docs to books with Claude Code
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases
@@ -868,7 +873,9 @@ A collection of awesome things.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kitakitaaura/LinuxStore](https://github.com/kitakitaaura/LinuxStore) - A app store for linux
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [krishpranav/AndroidRansome](https://github.com/krishpranav/AndroidRansome) - A simple android ransomeware tool built in python
+- [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) - Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours.
 - [leemain88/novel-skills](https://github.com/leemain88/novel-skills) - Modular, high-leverage AI skills & workflows for long-form fiction writing.
 - [lloydamiller/socialfinder](https://github.com/lloydamiller/socialfinder) - Find social media accounts with email and/or usernames
 - [lpenz/atdtool](https://github.com/lpenz/atdtool) - Command-line interface for After the Deadline language checker
@@ -897,6 +904,7 @@ A collection of awesome things.
 - [ncorbuk/Python-Tutorial---Hunt-Down-Social-Media-Accounts-by-Usernames-for-Open-Source-Intelligence-](https://github.com/ncorbuk/Python-Tutorial---Hunt-Down-Social-Media-Accounts-by-Usernames-for-Open-Source-Intelligence-) - Python Tutorial - || Hunt Down Social Media Accounts by Usernames for Open-Source Intelligence ||
 - [nitely/Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python/Django forum
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [obfusk/apksigcopier](https://github.com/obfusk/apksigcopier) - apksigcopier - copy/extract/patch android apk signatures & compare apks
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
@@ -978,7 +986,7 @@ A collection of awesome things.
 - [r-Techsupport/hyde](https://github.com/r-Techsupport/hyde) - A web editor and CMS for Jekyll/git static sites.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [tyrchen/codebank](https://github.com/tyrchen/codebank) - A powerful code documentation generator that creates structured markdown documentation from your codebase. Supports multiple languages including Rust, Python, TypeScript, and C with intelligent parsing and formatting. Features test code filtering, summary generation, and customizable documentation strategies.
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
@@ -1078,6 +1086,7 @@ A collection of awesome things.
 
 ## Swift
 
+- [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os) - An on-device LLM understands your entire life, then proactively offers to get your work done through computer use.
 - [ciscoriordan/storescreens-cli](https://github.com/ciscoriordan/storescreens-cli) - Capture App Store screenshots for iOS and macOS apps across every required device size in one command. Supports iPhone, iPad, Apple Watch, and Mac.
 
 ## TeX
@@ -1107,6 +1116,7 @@ A collection of awesome things.
 - [GitbookIO/github-repo-organizer](https://github.com/GitbookIO/github-repo-organizer) - 📋✅ A Web App to Organize GitHub Repositories
 - [Gram-ax/gramax](https://github.com/Gram-ax/gramax) - Open-source, self-hosted GitBook & Confluence alternative: a WYSIWYG editor over Markdown in your own Git repo, with a documentation portal
 - [Hacktown-BSB/Nexo](https://github.com/Hacktown-BSB/Nexo) - 🏅 MLH International Hacktown Winner - AI-powered platform that transforms GitHub repositories into interactive documentation you can see and hear. Get automated analysis, tech stack visualizations, and AI-generated podcasts explaining any codebase. Perfect for onboarding and code exploration.
+- [Hhhkarimi/repo2skill](https://github.com/Hhhkarimi/repo2skill) - Turn any public GitHub repository into professional, repository-native Agent Skills for ChatGPT and Claude - free, browser-first, no AI API required.
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -1140,6 +1150,7 @@ A collection of awesome things.
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
 - [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize) - Get beautiful, world-class documentation for any repo
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.
+- [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 - [benjaminshoemaker/vibecode_spec_generator](https://github.com/benjaminshoemaker/vibecode_spec_generator) - Wizard-style app to help people generate specs that AI coding agents can execute & keep track of status
 - [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin) - Allow you to access your calibre libraries and read books directly in Obsidian.
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
@@ -1200,7 +1211,6 @@ A collection of awesome things.
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and output an SVG font
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) - Runnable ClaudeCode source code
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
@@ -1223,6 +1233,7 @@ A collection of awesome things.
 - [rodydavis/agent-skills-generator](https://github.com/rodydavis/agent-skills-generator) - Generate agent skills from website documentation
 - [ryanlinjui/git-repository-analysis-system](https://github.com/ryanlinjui/git-repository-analysis-system) - GitRepoScanner: AI-powered repository analysis tool that provides comprehensive insights into your codebase.
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
+- [shuaiplus/inkstone](https://github.com/shuaiplus/inkstone) - A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.
 - [siyuan-note/plugin-sample](https://github.com/siyuan-note/plugin-sample) - SiYuan plugin sample
 - [siyuan-note/plugin-sample-vite-svelte](https://github.com/siyuan-note/plugin-sample-vite-svelte) - SiYuan plugin sample with vite and svelte
@@ -1439,6 +1450,7 @@ A collection of awesome things.
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [template-repository/template-repository](https://github.com/template-repository/template-repository) - General template repository for any languages, that creates for fast running development process with configuration, which are the same from project to project.
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [thau0x01/frida-patches](https://github.com/thau0x01/frida-patches) - strong-frida patches
