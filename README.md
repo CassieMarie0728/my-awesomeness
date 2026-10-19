@@ -589,6 +589,7 @@ A collection of awesome things.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
+- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
@@ -904,7 +905,6 @@ A collection of awesome things.
 - [ncorbuk/Python-Tutorial---Hunt-Down-Social-Media-Accounts-by-Usernames-for-Open-Source-Intelligence-](https://github.com/ncorbuk/Python-Tutorial---Hunt-Down-Social-Media-Accounts-by-Usernames-for-Open-Source-Intelligence-) - Python Tutorial - || Hunt Down Social Media Accounts by Usernames for Open-Source Intelligence ||
 - [nitely/Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python/Django forum
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
-- [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
 - [obfusk/apksigcopier](https://github.com/obfusk/apksigcopier) - apksigcopier - copy/extract/patch android apk signatures & compare apks
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
@@ -1319,7 +1319,6 @@ A collection of awesome things.
 - [Menace13/RoA-Workshop-Templates](https://github.com/Menace13/RoA-Workshop-Templates) - A repository for .GML code templates as examples for people to use for their own creations
 - [NDJSec/Android-Reverse-Engineering](https://github.com/NDJSec/Android-Reverse-Engineering) - A FREE comprehensive guide to learning Android Reverse Engineering. From Java, to Dalvik, to ART, to the JNI come learn along.
 - [Niclas1337/WD-MyCloud-Firmwares](https://github.com/Niclas1337/WD-MyCloud-Firmwares) - Every WD MyCloud Firmware compiled and ready to download
-- [OSINTVerseHQ/Social-Media-OSINT-Tools-Collection](https://github.com/OSINTVerseHQ/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
