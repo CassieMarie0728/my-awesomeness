@@ -497,7 +497,6 @@ A collection of awesome things.
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [nullcpy/nullcpy.github.io](https://github.com/nullcpy/nullcpy.github.io) - NullStore: Fast, clean catalog for the latest patched (ReVanced, Revanced Extended, MorpheApp, RVX Morphed, and Revanced Advanced) Android apps and Magisk/KSU modules.
 - [open-keychain/openkeychain.org](https://github.com/open-keychain/openkeychain.org) - OpenKeychain website
@@ -756,7 +755,6 @@ A collection of awesome things.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 - [ManciSee/RepoGenius](https://github.com/ManciSee/RepoGenius) - RepoGenius aims to create a distributed system that, starting from a GitHub link or certain parameters, performs an analysis on the reference repository based on elements such as code, language or files
 - [MrSanZz/KawaiiGPT](https://github.com/MrSanZz/KawaiiGPT) - WormGPT kawaii ver
-- [Mrtracker-new/Sortify](https://github.com/Mrtracker-new/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
 - [N1LL404/Build-Android-App](https://github.com/N1LL404/Build-Android-App) - APK Builder is a Python utility that rebuilds APKs from unpacked or apktool-decoded folders. It supports apktool builds, ZIP-based builds, zipalign optimization, and apksigner signing. Includes automatic keystore generation and flexible build options for modding, debugging, and reverse engineering workflows.
 - [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) - Transform PDFs into AI podcasts for engaging on-the-go audio content.
@@ -793,6 +791,7 @@ A collection of awesome things.
 - [W1LDN16H7/StegoCracker](https://github.com/W1LDN16H7/StegoCracker) - Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
 - [WiseDodge/ArchiveSorter](https://github.com/WiseDodge/ArchiveSorter) - A file management system for turning digital chaos into an organized archive. Includes scripts to sort, analyze, and consolidate files.
 - [Xer0bit/BookWriter-Lamma3.1-OPENAI](https://github.com/Xer0bit/BookWriter-Lamma3.1-OPENAI) - A revolutionary tool that leverages GPT API or LLaMA 3.1 model to write complete books locally, empowering authors to automate their writing process and boost creativity.
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Zahin-Tajwar/Acc-Hunter](https://github.com/Zahin-Tajwar/Acc-Hunter) - Hunt down social media accounts.
 - [Zard2007/Gmail-Hack](https://github.com/Zard2007/Gmail-Hack) - Easy gmail hacking in python
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -924,6 +923,7 @@ A collection of awesome things.
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
+- [rolan-r-n-r/Sortify](https://github.com/rolan-r-n-r/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [sadatt123/repo-digest](https://github.com/sadatt123/repo-digest) - 📦 Transform any code repository into an AI-ready text bundle, enhancing analytics and enabling smarter code reviews and documentation.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [sat28/githubcommit](https://github.com/sat28/githubcommit) - A jupyter notebook extension enabling users push ipython notebooks to a git repo
@@ -1200,7 +1200,8 @@ A collection of awesome things.
 - [microsoft/ReMe](https://github.com/microsoft/ReMe) - ReMe: A Personalized Cognitive Training Framework Based on an LLM Voice Chatbot for Research
 - [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [mrsibe/KnowNote](https://github.com/mrsibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [mrsibe/KnowNote](https://github.com/mrsibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron.
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - An unofficial Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [mwood23/wave-snippets](https://github.com/mwood23/wave-snippets) - 🌊 Create gorgeous animated snippets to share with the world.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
