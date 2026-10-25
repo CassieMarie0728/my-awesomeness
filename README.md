@@ -302,7 +302,6 @@ A collection of awesome things.
 - [junguler/m3u-audiobooks](https://github.com/junguler/m3u-audiobooks) - collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [ksjpswaroop/AuthorsAssistant](https://github.com/ksjpswaroop/AuthorsAssistant) - AI-driven book writing with Scrivener look and feel and Turnitin-class originality tools
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
 - [maikeliu86-coder/story-vista](https://github.com/maikeliu86-coder/story-vista) - Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.
@@ -349,6 +348,7 @@ A collection of awesome things.
 - [LaughingMuffin/apk-killer-java-mod-menu](https://github.com/LaughingMuffin/apk-killer-java-mod-menu) - Android Java Mod Menu using APK Killer
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [MehdiTAZI/BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker) - the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.
+- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [Porvil/PGP-Tool](https://github.com/Porvil/PGP-Tool) - PGP Tool for Android
 - [PsProsen-Dev/OpenClawOnAndroid](https://github.com/PsProsen-Dev/OpenClawOnAndroid) - OpenClaw on Android (OCA) - Run OpenClaw on Android with a single command — no proot, no Linux -🦞 Turn any Android phone into a 24/7 AI server — one command, zero hassle. No proot, no Ubuntu, pure Termux.
@@ -488,6 +488,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [lobehub/lobe-editor](https://github.com/lobehub/lobe-editor) - ✒️ Lobe Editor - a modern, extensible rich text editor built on Meta's Lexical framework with dual-architecture design, featuring both a powerful kernel and React integration. Optimized for AI applications and chat interfaces.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
@@ -558,13 +559,13 @@ A collection of awesome things.
 - [FaceOnLive/ID-Card-Passport-Recognition-SDK-Android](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android) - On-Device ID Card & Passport & Driver License Recognition SDK for Android
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [HaythemMejerbi/Blogfy](https://github.com/HaythemMejerbi/Blogfy) - 📷 Blog taking application utilizing Ktor REST-API and following modern practices: Kotlin, Coroutines, Flows, Channels, Room, Work Manager, Navigation Component, MVI, Clean Architecture, Modularization, Dagger Hilt, Tests...
-- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [NeonOrbit/MRVPatchManager](https://github.com/NeonOrbit/MRVPatchManager) - Android version of the mrv patcher tool.
 - [Open-Store-Foundation/app](https://github.com/Open-Store-Foundation/app) - Multiplatform client for decentralised application store
 - [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [Victor-root/Omnify](https://github.com/Victor-root/Omnify) - Beyond F-Droid: install and auto-update apps straight from GitHub, GitLab, Codeberg and self-hosted forges.
@@ -743,7 +744,7 @@ A collection of awesome things.
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [Isaacdelly/Plutus](https://github.com/Isaacdelly/Plutus) - An automated bitcoin wallet brute-forcer
 - [JarodMica/ai-voice-cloning](https://github.com/JarodMica/ai-voice-cloning) - 
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
+- [Jman-Github/Awesome-Android-Patching](https://github.com/Jman-Github/Awesome-Android-Patching) - Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.
 - [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs retrievable through a REST and GraphQL API plus a user friendly frontend.
 - [Keeper-Security/secrets-manager](https://github.com/Keeper-Security/secrets-manager) - Keeper Secrets Manager is a cloud-based, zero-knowledge platform for securing infrastructure secrets. Provides automatic password rotation and integration into popular DevOps CI/CD tools.
 - [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) - For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp
@@ -1132,7 +1133,6 @@ A collection of awesome things.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
-- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 - [SvetimFM/GitStore](https://github.com/SvetimFM/GitStore) - App Store for GitHub — Discover, install, and run open-source repos as native apps
 - [TeamCoderz/WordyMe](https://github.com/TeamCoderz/WordyMe) - Your own private wiki. Self-hosted notes and documentation, light enough to run on a Raspberry Pi.
 - [TheProductArchitect/appshots](https://github.com/TheProductArchitect/appshots) - Free App Store & Google Play screenshot generator — iPhone, Android, iPad. Zero backend, runs in your browser.
