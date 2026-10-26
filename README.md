@@ -1174,7 +1174,7 @@ A collection of awesome things.
 - [hunvreus/pagescms](https://github.com/hunvreus/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [iamsahebgiri/betabuzz](https://github.com/iamsahebgiri/betabuzz) - 🔥🔥🔥 Open Source alternative to Product Hunt
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
