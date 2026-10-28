@@ -596,7 +596,7 @@ A collection of awesome things.
 - [samyak2403/RepoStore](https://github.com/samyak2403/RepoStore) - Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader, trusted for 13+ years
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader since 2013
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [yash-garg/KeyManager](https://github.com/yash-garg/KeyManager) - Android application to manage SSH and GPG keys on GitHub, written in Jetpack Compose.
 - [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) - OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
@@ -803,6 +803,8 @@ A collection of awesome things.
 - [adobe-type-tools/opentype-svg](https://github.com/adobe-type-tools/opentype-svg) - Tools and sample files for making OpenType-SVG fonts
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
+- [ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) - Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes for editing video.
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
 - [alexmeckes/readme-to-podcast](https://github.com/alexmeckes/readme-to-podcast) - Blueprint by Mozilla.ai for generating podcasts from documents using local AI
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
@@ -1339,8 +1341,6 @@ A collection of awesome things.
 - [actionsflow/awesome-actionsflow](https://github.com/actionsflow/awesome-actionsflow) - This is a list of awesome workflow use cases for Actionsflow
 - [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
-- [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
-- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [alphatrait/100000-ai-prompts-by-contentifyai](https://github.com/alphatrait/100000-ai-prompts-by-contentifyai) - Welcome to the ChatGPT Prompts Library! This repository contains a diverse collection of over 100,000 prompts tailored for ChatGPT. Our prompts cover a wide range of topics, including marketing, business, fun, and much more.
 - [always0ne/repositoryTemplate](https://github.com/always0ne/repositoryTemplate) - Repository Quick Start template
