@@ -188,6 +188,7 @@ A collection of awesome things.
 
 - [AmanNegi/Copyable](https://github.com/AmanNegi/Copyable) - A Flutter Application that helps you save and copy text in a click. The app is available on Android & Web, so save at one platform and access everywhere.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+- [ArsalanKaleem/Documentum](https://github.com/ArsalanKaleem/Documentum) -  AI-powered documentation generator supporting multiple LLM providers to generate all the required documentation for any project , parallel AI agents, Flutter Desktop, and Web.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
@@ -421,6 +422,7 @@ A collection of awesome things.
 - [John-Nguyen/HackTJReal](https://github.com/John-Nguyen/HackTJReal) - Created a PhoneGap/Cordova app for the Hackathon HackTJ. This app would allow shoppers to go into a store and scan barcodes with their phone to purchase items, with a SQLite database updating when the item is scanned. Also uses the Capital One API to provide an alternative to a credit or debit card.
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
+- [Laidwin/kiln](https://github.com/Laidwin/kiln) - Markdown in. Docs out. Turn a docs/ folder and a docs.yml file into a fast, accessible documentation site for any project, in any language. Astro + Starlight in one Docker image, with a reusable GitHub Pages workflow.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
@@ -493,6 +495,7 @@ A collection of awesome things.
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
+- [michaelliao/gitsite](https://github.com/michaelliao/gitsite) - Generate web site from git repo.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [moble/jupyter_boilerplate](https://github.com/moble/jupyter_boilerplate) - Adds a customizable menu item to Jupyter (IPython) notebooks to insert boilerplate snippets of code
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
@@ -817,7 +820,6 @@ A collection of awesome things.
 - [badadaf/apkpatcher](https://github.com/badadaf/apkpatcher) - This script automates the task of patching an apk with frida-gadget
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
-- [bluegalaxy111/awesome-vibe-coding](https://github.com/bluegalaxy111/awesome-vibe-coding) - A curated list of 300+ tools, platforms, and resources for vibe coding and building software by talking to AI
 - [cassiobotaro/certificates](https://github.com/cassiobotaro/certificates) - :mortar_board: Generate event certificates easily
 - [charwasp/modify](https://github.com/charwasp/modify) - Automatic patcher to modify APK.
 - [chr-peters/SwagbucksBot](https://github.com/chr-peters/SwagbucksBot) - 
@@ -867,6 +869,7 @@ A collection of awesome things.
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [jaymzh/pius](https://github.com/jaymzh/pius) - PGP Individual User Signer
 - [jfraj/socialSearch](https://github.com/jfraj/socialSearch) - python script to seach social media
+- [jonaskahn/docforge](https://github.com/jonaskahn/docforge) - 🤖 Just a skill to let AI generate documents based on your source code 🔅
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [kactlabs/fake-email-identifier](https://github.com/kactlabs/fake-email-identifier) - We find Fake Emails
@@ -1103,6 +1106,7 @@ A collection of awesome things.
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl) - High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative
+- [CREVIOS/inox](https://github.com/CREVIOS/inox) - One spec, every SDK. Self-hosted, air-gapped OpenAPI SDK generator: idiomatic SDKs in 6 languages (TS/Python/Go/Java/Ruby/C#) + an MCP server, zero runtime deps, verified on every build.
 - [CassieMarie0728/jekyll-forge](https://github.com/CassieMarie0728/jekyll-forge) - A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android.
 - [CassieMarie0728/jekyll-forge-mobile](https://github.com/CassieMarie0728/jekyll-forge-mobile) - A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs.
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
@@ -1150,10 +1154,12 @@ A collection of awesome things.
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
 - [antarixxx/gitsummarize](https://github.com/antarixxx/gitsummarize) - Get beautiful, world-class documentation for any repo
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.
+- [arifszn/seemore](https://github.com/arifszn/seemore) - Zero config documentation tool - Let AI write the Markdown. Let seemore show it better.
 - [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 - [benjaminshoemaker/vibecode_spec_generator](https://github.com/benjaminshoemaker/vibecode_spec_generator) - Wizard-style app to help people generate specs that AI coding agents can execute & keep track of status
 - [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin) - Allow you to access your calibre libraries and read books directly in Obsidian.
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex) - Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
@@ -1184,6 +1190,7 @@ A collection of awesome things.
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [lantos1618/github.gg](https://github.com/lantos1618/github.gg) - The missing intelligence layer for GitHub.  Analyze, visualize, and understand your repositories like never before.
+- [leestott/learnskill-agent-foundrylocal](https://github.com/leestott/learnskill-agent-foundrylocal) - Generate comprehensive onboarding documentation for any repository using a hybrid AI approach:  Foundry Local for privacy-sensitive local inference (no data leaves your machine) Microsoft Foundry for cloud-hosted models with higher quality and faster inference Copilot SDK patterns for orchestration and multi-step workflows Agent Skills for reusable
 - [lfinmauritius/n8n-nodes-ionos](https://github.com/lfinmauritius/n8n-nodes-ionos) - N8n IONOS Nodes
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
@@ -1241,6 +1248,7 @@ A collection of awesome things.
 - [siyuan-note/plugin-sample-vite-svelte](https://github.com/siyuan-note/plugin-sample-vite-svelte) - SiYuan plugin sample with vite and svelte
 - [siyuan-note/plugin-sample-vite-vue](https://github.com/siyuan-note/plugin-sample-vite-vue) - SiYuan plugin sample with vite and vue
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [skoppisetty/autodocs](https://github.com/skoppisetty/autodocs) - AI-powered documentation generator — no API keys required. Uses Claude Code, Codex, or Gemini CLI.
 - [slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin) - Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
 - [snooky234/scribedog](https://github.com/snooky234/scribedog) - Private AI WYSIWYG Markdown editor with agentic chat & voice dictation. Open source, no cloud, no tracking.
 - [solrachix/icons-manager](https://github.com/solrachix/icons-manager) - A desktop icon manager application
@@ -1261,6 +1269,7 @@ A collection of awesome things.
 - [trunghaiy/appshot](https://github.com/trunghaiy/appshot) - Generate App Store & Google Play preview videos and screenshots from a simple TypeScript config. Built on Remotion + React + Tailwind. Ships with AI agent skills for Claude Code — scan your app, direct the creative, render to MP4.
 - [twbs/fantasticon](https://github.com/twbs/fantasticon) - Icon font generation tool
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [ultralytics/openapi](https://github.com/ultralytics/openapi) - Generate interactive API documentation and typed Python SDKs from any OpenAPI specification
 - [unwarkz/n8n-mobile](https://github.com/unwarkz/n8n-mobile) - Mobile webapp for n8n flows
 - [write34-com/write34](https://github.com/write34-com/write34) - Share and explore NovelAI prompts 
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
@@ -1346,6 +1355,7 @@ A collection of awesome things.
 - [always0ne/repositoryTemplate](https://github.com/always0ne/repositoryTemplate) - Repository Quick Start template
 - [ankane/awesome-legal](https://github.com/ankane/awesome-legal) - Awesome free legal documents for companies
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
+- [appwrite/skills](https://github.com/appwrite/skills) - 
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
