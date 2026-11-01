@@ -1182,6 +1182,7 @@ A collection of awesome things.
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
 - [hunvreus/pagescms](https://github.com/hunvreus/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
+- [i3months/eziwiki](https://github.com/i3months/eziwiki) - 🧩 A Markdown wiki generator built on Next.js - graph views, search
 - [iamsahebgiri/betabuzz](https://github.com/iamsahebgiri/betabuzz) - 🔥🔥🔥 Open Source alternative to Product Hunt
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
