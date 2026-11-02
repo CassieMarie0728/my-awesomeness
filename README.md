@@ -29,6 +29,7 @@ A collection of awesome things.
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
@@ -69,7 +70,6 @@ A collection of awesome things.
 ## Astro
 
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 
 ## AutoHotkey
@@ -288,7 +288,6 @@ A collection of awesome things.
 - [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) - a medium inspired jekyll theme
 - [dolunay38/BookVoice-AI](https://github.com/dolunay38/BookVoice-AI) - Open-source AI audiobook studio — EPUB, voice cloning, Turkish/German/English
 - [f-droid/fdroid-website](https://github.com/f-droid/fdroid-website) - mirror of https://gitlab.com/fdroid/fdroid-website
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -503,6 +502,7 @@ A collection of awesome things.
 - [nullcpy/nullcpy.github.io](https://github.com/nullcpy/nullcpy.github.io) - NullStore: Fast, clean catalog for the latest patched (ReVanced, Revanced Extended, MorpheApp, RVX Morphed, and Revanced Advanced) Android apps and Magisk/KSU modules.
 - [open-keychain/openkeychain.org](https://github.com/open-keychain/openkeychain.org) - OpenKeychain website
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
+- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [pengqun/awesome-documentation](https://github.com/pengqun/awesome-documentation) - 📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.
 - [phcode-dev/phoenix-desktop](https://github.com/phcode-dev/phoenix-desktop) - Windows, Mac and Linux Desktop builds of Phoenix  Code Editor
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -606,6 +606,10 @@ A collection of awesome things.
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [zhangzheyuanviolin-ship-it/pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - Pocket Lobster for Android: Codex, Claude Code, OpenMinis and a phone UI agent with multi-agent collaboration, three terminals, shared browser, Shizuku and accessible mobile workflows.
 - [zimly/zimly-backup](https://github.com/zimly/zimly-backup) - Zimly is an eye-catching, open-source app designed for synchronizing your local media and documents with any S3-compatible storage solution — whether self-hosted using platforms like Minio or cloud-based like AWS S3.
+
+## MDX
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile
 
@@ -918,7 +922,7 @@ A collection of awesome things.
 - [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [oxbshw/Open-Workflow-Library](https://github.com/oxbshw/Open-Workflow-Library) - Open workflow intelligence for discovering, validating, repairing, and generating automation workflows across frameworks — starting with n8n.
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [pigeek/androidtvmcp](https://github.com/pigeek/androidtvmcp) - A Model Context Protocol (MCP) server that provides Android TV remote control functionality to AI assistants and other MCP clients.
