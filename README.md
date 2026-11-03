@@ -525,7 +525,6 @@ A collection of awesome things.
 - [ShiromiyaG/RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker) - Performs the entire AI cover generation process
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [Xyroset/ai-digital-doppelganger](https://github.com/Xyroset/ai-digital-doppelganger) - A highly customizable AI companion for Telegram. Create digital clones with unique personalities, voice, and vision directly from Google Colab.
-- [adavidjulius/Voice-training-notebook-for-kaggle](https://github.com/adavidjulius/Voice-training-notebook-for-kaggle) - 🎙️ JULIUS — RVC v2 Voice Training Notebook for Kaggle (Mangio-RVC-Fork · OV2Super 40k · fairseq-free)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [ardha27/AI-Song-Cover-RVC](https://github.com/ardha27/AI-Song-Cover-RVC) - All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run inference.
 - [ardha27/AICoverGen-NoUI-Colab](https://github.com/ardha27/AICoverGen-NoUI-Colab) - 
@@ -1207,7 +1206,7 @@ A collection of awesome things.
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. 
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
