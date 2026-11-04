@@ -489,7 +489,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,200+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,300+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
@@ -520,7 +520,7 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 - [Illia-the-coder/GDrive-Folders-organizer](https://github.com/Illia-the-coder/GDrive-Folders-organizer) - This Jupyter notebook helps organize files in a Google Drive directory based on their file extensions. Files will be sorted into predefined categories depending on their types (documents, multimedia files, code files, etc.).
 - [ShiromiyaG/RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker) - Performs the entire AI cover generation process
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
@@ -816,7 +816,7 @@ A collection of awesome things.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
 - [alexmeckes/readme-to-podcast](https://github.com/alexmeckes/readme-to-podcast) - Blueprint by Mozilla.ai for generating podcasts from documents using local AI
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
