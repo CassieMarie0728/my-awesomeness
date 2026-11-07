@@ -629,7 +629,7 @@ A collection of awesome things.
 - [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [scottgriv/PRG-Personal-Repository-Guidelines](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) - 🧑‍💻 📃 Revolutionize your GitHub Portfolio with the PRG framework. Utilizing GitHub Actions, it auto-generates a categorized display for organized, impactful repository presentation. Includes essential guidelines and templates for READMEs and repository structure.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - Agent skills for source-grounded novel-to-game adaptation (小说改编游戏 / story to game), from systems games to interactive fiction and interactive film (互动影游): cited design docs, target-runtime builds, evidence-based QA. Two playable browser examples. For Claude Code, Codex, and Kimi Code.
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - 把小说改编成可玩游戏的 AI skill 合集：从文字冒险、策略经营到互动影游，一站式生成策划案、可运行代码与实机验收，适配 Claude Code / Codex 等 ｜ Agent skills for adapting novels into playable games
 
 ## Meson
 
