@@ -263,7 +263,6 @@ A collection of awesome things.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish) - Modded version of shellphish. Mod Features are Colourized Text, Animations, In built setup for Termux, Extra features, More improvements, Bugs cleared, Fixed URL not showing.
 - [AuraFriday/mcp-link](https://github.com/AuraFriday/mcp-link) - Let AI agents like ChatGPT & Claude use real-world local/remote tools you approve via browser extension + optional MCP server
-- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [Borg-Creative-Studios/bcs-author-web](https://github.com/Borg-Creative-Studios/bcs-author-web) - BCS Author web is a new, browser based writing app that is free for anyone!
 - [CassieMarie0728/cassie-marie](https://github.com/CassieMarie0728/cassie-marie) - Home of THE AFTERMATH DIARIES
 - [Cyber-Anonymous/Dark-Phish](https://github.com/Cyber-Anonymous/Dark-Phish) - A Powerful Phishing Tool with 50+ phishing templates. For more about Dark-Phish tool please visit the website.
@@ -1109,6 +1108,7 @@ A collection of awesome things.
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [Aldhanekaa/GoogleBardObsidian](https://github.com/Aldhanekaa/GoogleBardObsidian) - Explore new possibilities of learning with Integration of Bard in your Obsidian Notes! It's totally free! It can also shows images in the response!
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
+- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl) - High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative
