@@ -488,7 +488,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,300+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,500+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
@@ -1329,7 +1329,6 @@ A collection of awesome things.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - Free Security and Hacking eBooks
 - [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
-- [HackWithSumit/KaliNethunter-Rootless](https://github.com/HackWithSumit/KaliNethunter-Rootless) - NetHunter Rootless Edition. Maximum flexibility with no commitment. Install Kali NetHunter on any stock, unrooted Android device without  voiding the warranty.
 - [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools) - OSINT open-source tools catalog
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
@@ -1376,6 +1375,7 @@ A collection of awesome things.
 - [codebydant/ubuntuExternalHDD](https://github.com/codebydant/ubuntuExternalHDD) - This is a tutorial to install ubuntu 20.4 in an external HDD without removing the internal HDD in windows.
 - [corsa-center/oss-documents](https://github.com/corsa-center/oss-documents) - Collecting guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, licenses, codes of conduct, etc.
 - [cyberkernelofficial/docker-in-termux](https://github.com/cyberkernelofficial/docker-in-termux) - This repository contains instructions on how to install Docker in Termux, without root.
+- [cybersertex/KaliNethunter-Rootless](https://github.com/cybersertex/KaliNethunter-Rootless) - NetHunter Rootless Edition. Maximum flexibility with no commitment. Install Kali NetHunter on any stock, unrooted Android device without  voiding the warranty.
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️ 
 - [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
