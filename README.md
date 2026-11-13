@@ -35,7 +35,6 @@ A collection of awesome things.
 - [Meson](#meson)
 - [Nim](#nim)
 - [Nix](#nix)
-- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -403,6 +402,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/docs](https://github.com/11ty/docs) - Documentation site for the Build Awesome (Eleventy) static site generator.
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [AppFlowy-IO/AppFlowy-Website](https://github.com/AppFlowy-IO/AppFlowy-Website) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
@@ -641,10 +641,6 @@ A collection of awesome things.
 ## Nix
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-
-## Nunjucks
-
-- [11ty/docs](https://github.com/11ty/docs) - Documentation site for the Build Awesome (Eleventy) static site generator.
 
 ## OCaml
 
