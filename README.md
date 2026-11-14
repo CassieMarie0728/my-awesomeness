@@ -20,7 +20,6 @@ A collection of awesome things.
 - [F#](#f)
 - [Fluent](#fluent)
 - [Go](#go)
-- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -249,10 +248,6 @@ A collection of awesome things.
 - [txthinking/socks5](https://github.com/txthinking/socks5) - SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 - [xzebra/notion-blog](https://github.com/xzebra/notion-blog) - 
 
-## Go Template
-
-- [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
-
 ## HCL
 
 - [Azure/wordpress-linux-appservice](https://github.com/Azure/wordpress-linux-appservice) - 
@@ -433,7 +428,6 @@ A collection of awesome things.
 - [Onewon/claude-code](https://github.com/Onewon/claude-code) - claude-code full original source code from source maps
 - [Prajwalkadam29/repo-documentation-generator](https://github.com/Prajwalkadam29/repo-documentation-generator) - Transform your codebase into production-grade documentation in seconds.
 - [S3Prototype/better-scrivener](https://github.com/S3Prototype/better-scrivener) - An improvement on scrivener for authors.
-- [SSAgov/repo-documentation-generator](https://github.com/SSAgov/repo-documentation-generator) - A single page application for generating a codeMetadata.json, README.md, GETTING-STARTED.md, CONTRIBUTING.md, BACKLOG.md and CHANGELOG.md. The codeMetadata.json file contains basic data about a code asset such as it's name, office, hosted instances, and the like.
 - [SoRobby/ObsidianStarterVault](https://github.com/SoRobby/ObsidianStarterVault) - Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions
 - [Stardown-app/Stardown](https://github.com/Stardown-app/Stardown) - Copy the web as markdown
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
@@ -1064,6 +1058,7 @@ A collection of awesome things.
 - [msayson/openapi-github-pages-action](https://github.com/msayson/openapi-github-pages-action) - GitHub Action to generate API documentation from OpenAPI specification and deploy to GitHub Pages
 - [mukeshkumarcharak/termux-snippets](https://github.com/mukeshkumarcharak/termux-snippets) - An integrated tool and a collection of snippets which helps in the various aspects of the terminal.
 - [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling
+- [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
 - [noob-hackers/mrphish](https://github.com/noob-hackers/mrphish) - All In One Social Accounts Phishing With Otp Bypass In Termux.
 - [onejar99/gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
