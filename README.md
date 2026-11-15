@@ -482,7 +482,7 @@ A collection of awesome things.
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [kellyoconor/chatgpt-supabase-api](https://github.com/kellyoconor/chatgpt-supabase-api) - chatgpt-claude-mcp
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,500+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,700+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [magento/magento2-page-builder](https://github.com/magento/magento2-page-builder) - Magento2 PageBuilder
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
@@ -505,7 +505,7 @@ A collection of awesome things.
 - [sanjeev-kumar-patel/Github_Portfolio_Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer) - Github Portfolio Analyzer – A tool that analyzes GitHub profiles and repositories to generate insights, portfolio summaries, and developer statistics automatically.
 - [shanzi/myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.
 - [squireChuck/us-states-ref-client](https://github.com/squireChuck/us-states-ref-client) - Cheatsheet of info related to U.S. states, e.g. sample addresses, driver's license formats, etc.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tdantas/bullshit-font-generator](https://github.com/tdantas/bullshit-font-generator) - Bullshit Font Generator
 - [untitleduico/icons](https://github.com/untitleduico/icons) - Untitled UI Icons are a clean, consistent, and neutral icon library crafted for modern UI design.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
