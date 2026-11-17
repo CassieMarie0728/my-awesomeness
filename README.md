@@ -385,7 +385,6 @@ A collection of awesome things.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [termux/termux-float](https://github.com/termux/termux-float) - Termux add-on app to show the terminal in a floating terminal window.
-- [timscriptov/Frida-Injector-for-Android](https://github.com/timscriptov/Frida-Injector-for-Android) - 
 - [timwr/MSF](https://github.com/timwr/MSF) - Simple Android UI for the Metasploit RPC service
 - [utsanjan/Tsunami-Bomber-Android](https://github.com/utsanjan/Tsunami-Bomber-Android) - A free to use OTP & Call flooding android application with unlimited sending capability.
 - [warren-bank/Android-RTSP-IPCam-Viewer](https://github.com/warren-bank/Android-RTSP-IPCam-Viewer) - Android app to view RTSP and RTMP IP camera video streams.
