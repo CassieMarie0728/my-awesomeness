@@ -298,6 +298,7 @@ A collection of awesome things.
 - [ksjpswaroop/AuthorsAssistant](https://github.com/ksjpswaroop/AuthorsAssistant) - AI-driven book writing with Scrivener look and feel and Turnitin-class originality tools
 - [logseq/marketplace](https://github.com/logseq/marketplace) - A centralized packages manager for Logseq marketplace plugins.
 - [maikeliu86-coder/story-vista](https://github.com/maikeliu86-coder/story-vista) - Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.
+- [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
 - [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) -   🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO,   Trading, Video, PM workflows included.
 - [noob-hackers/grabcam](https://github.com/noob-hackers/grabcam) - A tool to hack camera from termux for video tutorial visit youtube.com/noobhackers
@@ -619,7 +620,7 @@ A collection of awesome things.
 - [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [scottgriv/PRG-Personal-Repository-Guidelines](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) - 🧑‍💻 📃 Revolutionize your GitHub Portfolio with the PRG framework. Utilizing GitHub Actions, it auto-generates a categorized display for organized, impactful repository presentation. Includes essential guidelines and templates for READMEs and repository structure.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - 把小说改编成可玩游戏的 AI skill 合集：从文字冒险、策略经营到互动影游，一站式生成策划案、可运行代码与实机验收，适配 Claude Code / Codex 等 ｜ Agent skills for adapting novels into playable games
+- [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) - 小说改游戏 Agent 技能包：通读拆书、玩法与美术策划、代码构建与盲玩验收，支持网页、互动影游与微信/抖音/TapTap 小游戏 ｜ Agent skills for adapting novels into playable games
 
 ## Meson
 
@@ -798,6 +799,7 @@ A collection of awesome things.
 - [adobe-type-tools/opentype-svg](https://github.com/adobe-type-tools/opentype-svg) - Tools and sample files for making OpenType-SVG fonts
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
 - [aedocw/epub2tts-kokoro](https://github.com/aedocw/epub2tts-kokoro) - epub2tts-kokoro is a free and open source python app to easily create a full-featured audiobook from an epub or text file using realistic text-to-speech using Kokoro.
+- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) - Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes for editing video.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.
 - [alexbieber/RevengeBomber2.0](https://github.com/alexbieber/RevengeBomber2.0) - A Superfast SMS Bomber !.🔴🔴🔴🔴 NOW AVAILABLE FOR EVERY COUNTRY ! ENJOY🔴✔
@@ -922,6 +924,7 @@ A collection of awesome things.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [rolan-r-n-r/Sortify](https://github.com/rolan-r-n-r/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [sadatt123/repo-digest](https://github.com/sadatt123/repo-digest) - 📦 Transform any code repository into an AI-ready text bundle, enhancing analytics and enabling smarter code reviews and documentation.
+- [sagearbor/repo-to-video](https://github.com/sagearbor/repo-to-video) - An autonomous system that generates professional video tutorials from GitHub repositories containing a web frontend. The system analyzes the repository, generates an action plan, records segmented video demonstrations, synthesizes voice narration, and assembles a polished final video - all using free, local-first, open-source tools.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [sat28/githubcommit](https://github.com/sat28/githubcommit) - A jupyter notebook extension enabling users push ipython notebooks to a git repo
 - [shahid0/mobile-development-ai-skills](https://github.com/shahid0/mobile-development-ai-skills) - Skill sets  agents to vibecode mobile apps the correct way, with the native pro-grade patterns.
@@ -1131,6 +1134,7 @@ A collection of awesome things.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
+- [Shubhamsaboo/repotovideo](https://github.com/Shubhamsaboo/repotovideo) - Turn any GitHub repository into a promo video in just one-click
 - [SvetimFM/GitStore](https://github.com/SvetimFM/GitStore) - App Store for GitHub — Discover, install, and run open-source repos as native apps
 - [TeamCoderz/WordyMe](https://github.com/TeamCoderz/WordyMe) - Your own private wiki. Self-hosted notes and documentation, light enough to run on a Raspberry Pi.
 - [TheProductArchitect/appshots](https://github.com/TheProductArchitect/appshots) - Free App Store & Google Play screenshot generator — iPhone, Android, iPad. Zero backend, runs in your browser.
@@ -1142,7 +1146,6 @@ A collection of awesome things.
 - [YasogaN/APK-Mods-Search](https://github.com/YasogaN/APK-Mods-Search) - APK Mods Search is a search engine for modded APKs.
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
