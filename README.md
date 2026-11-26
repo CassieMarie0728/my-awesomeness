@@ -919,6 +919,7 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
+- [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) - Android device control for hermes-agent — bridge app + Python toolset
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [rolan-r-n-r/Sortify](https://github.com/rolan-r-n-r/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
@@ -1103,7 +1104,6 @@ A collection of awesome things.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl) - High-performance web crawler API optimized for LLMs. Turn any search or website into clean Markdown using remote browsers. Firecrawl alternative
 - [CREVIOS/inox](https://github.com/CREVIOS/inox) - One spec, every SDK. Self-hosted, air-gapped OpenAPI SDK generator: idiomatic SDKs in 6 languages (TS/Python/Go/Java/Ruby/C#) + an MCP server, zero runtime deps, verified on every build.
-- [CassieMarie0728/jekyll-forge](https://github.com/CassieMarie0728/jekyll-forge) - A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs built for Android.
 - [CassieMarie0728/jekyll-forge-mobile](https://github.com/CassieMarie0728/jekyll-forge-mobile) - A production-ready visual editor, publishing dashboard, and GitHub-powered CMS for Jekyll blogs.
 - [CassieMarie0728/mcp-hub](https://github.com/CassieMarie0728/mcp-hub) - Mobile-first MCP control center for server connections, tool discovery, execution, history, macros, and automation workflows.
 - [CassieMarie0728/snippet-bubble-manager](https://github.com/CassieMarie0728/snippet-bubble-manager) - Snippet Bubble Manager is a floating, always-on-top snippet tool that lives in your workflow like a silent little assassin. It doesn’t ask permission. It doesn’t get in your way. It just sits there—ready to drop code into your clipboard faster than your brain can say “where the hell did I put that?”
