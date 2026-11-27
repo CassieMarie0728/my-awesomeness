@@ -581,6 +581,7 @@ A collection of awesome things.
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe) - Explore all Morphe resources, patch bundles and community projects.
+- [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) - Android device control for hermes-agent — bridge app + Python toolset
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own. 
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
@@ -910,6 +911,7 @@ A collection of awesome things.
 - [oxbshw/Open-Workflow-Library](https://github.com/oxbshw/Open-Workflow-Library) - Open workflow intelligence for discovering, validating, repairing, and generating automation workflows across frameworks — starting with n8n.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
+- [pass-extension/pass-import](https://github.com/pass-extension/pass-import) - A pass extension for importing data from most existing password managers
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [pigeek/androidtvmcp](https://github.com/pigeek/androidtvmcp) - A Model Context Protocol (MCP) server that provides Android TV remote control functionality to AI assistants and other MCP clients.
 - [pilgun/acvtool](https://github.com/pilgun/acvtool) - ACVTool (Android Code Coverage Tool) is a tool to measure fine-grained code coverage of 3rd-party Android apps.
@@ -919,9 +921,7 @@ A collection of awesome things.
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
-- [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) - Android device control for hermes-agent — bridge app + Python toolset
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
-- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [rolan-r-n-r/Sortify](https://github.com/rolan-r-n-r/Sortify) - Sortify helps you automatically organize your files with easy-to-use commands. Clean up cluttered folders by sorting files based on type, — all in just a few clicks.
 - [sadatt123/repo-digest](https://github.com/sadatt123/repo-digest) - 📦 Transform any code repository into an AI-ready text bundle, enhancing analytics and enabling smarter code reviews and documentation.
 - [sagearbor/repo-to-video](https://github.com/sagearbor/repo-to-video) - An autonomous system that generates professional video tutorials from GitHub repositories containing a web frontend. The system analyzes the repository, generates an action plan, records segmented video demonstrations, synthesizes voice narration, and assembles a polished final video - all using free, local-first, open-source tools.
@@ -1437,7 +1437,6 @@ A collection of awesome things.
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
-- [pjobson/Microsoft-365-Fonts](https://github.com/pjobson/Microsoft-365-Fonts) - all cloud fonts from office 365
 - [pkgforge-security/Wordlists](https://github.com/pkgforge-security/Wordlists) - [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
