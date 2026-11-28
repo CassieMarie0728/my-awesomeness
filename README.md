@@ -246,6 +246,7 @@ A collection of awesome things.
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [txthinking/socks5](https://github.com/txthinking/socks5) - SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
+- [xob0t/gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 - [xzebra/notion-blog](https://github.com/xzebra/notion-blog) - 
 
 ## HCL
@@ -438,6 +439,8 @@ A collection of awesome things.
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [anfernee-create/notion-ai-resources](https://github.com/anfernee-create/notion-ai-resources) - A comprehensive collection of Notion resources, templates, AI integrations, and guides for solopreneurs and productivity enthusiasts
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [benlcollins/apps_script_apis](https://github.com/benlcollins/apps_script_apis) - Collection of Apps Scripts for connecting to APIs
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [bhulston/bookmark_plugin](https://github.com/bhulston/bookmark_plugin) - A better alternative to Chrome Bookmarks for Obsidian users. Customize templates on the fly and either append to existing notes, create new notes, or do both!
 - [booktype/Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
@@ -476,6 +479,7 @@ A collection of awesome things.
 - [isDipesh/EmailSpy](https://github.com/isDipesh/EmailSpy) - Searches profiles on social networks and sites by the e-mail address found on web pages
 - [its-rahul-r15/repo-docgen](https://github.com/its-rahul-r15/repo-docgen) - Automatic documentation generator that analyzes your repository and produces structured README files.
 - [jasongrimes/jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook) - GitHub Pages-compatible Jekyll theme for a book with chapters and parts in a style reminiscent of GitBook.
+- [jc324x/google-apps-script-cheat-sheet](https://github.com/jc324x/google-apps-script-cheat-sheet) - 🚧 Big changes coming! "auto" branch is the future of the project
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites. 
 - [johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write and format your next book directly from Obsidian
 - [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
@@ -555,6 +559,7 @@ A collection of awesome things.
 - [Open-Store-Foundation/app](https://github.com/Open-Store-Foundation/app) - Multiplatform client for decentralised application store
 - [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android 
+- [Reiux/lumen-android](https://github.com/Reiux/lumen-android) - Open-source Android app for backing up photos and videos to Google Photos in full original quality.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -694,6 +699,7 @@ A collection of awesome things.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [Sterh20/note-taking-templates](https://github.com/Sterh20/note-taking-templates) - A repo for original note-taking templates, notebook covers for E-Ink readers, and a grid generator made in Figma
 - [esoltys/Repo-Documenter](https://github.com/esoltys/Repo-Documenter) - Repo-Documenter is a PowerShell script that generates comprehensive documentation for a repository, including a tree view of the repository structure and the contents of specified files. The aggregated file is useful for code review, documentation, or use by an AI assistant.
+- [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) - Unlimited Google Photos auto-sync on Windows with Pixel original quality spoofing,native, portable, and zero-quota.
 
 ## Processing
 
@@ -982,6 +988,7 @@ A collection of awesome things.
 - [krishpranav/nexa](https://github.com/krishpranav/nexa) - A production-grade, single codebase cross-platform UI framework with reactive signals, streaming SSR, and GPU rendering.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [nlopes/google-photos-backup](https://github.com/nlopes/google-photos-backup) - Command line interface to backup your Google Photos
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [r-Techsupport/hyde](https://github.com/r-Techsupport/hyde) - A web editor and CMS for Jekyll/git static sites.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -1087,6 +1094,7 @@ A collection of awesome things.
 ## Swift
 
 - [Sentient-OS-Labs/sentient-os](https://github.com/Sentient-OS-Labs/sentient-os) - An on-device LLM understands your entire life, then proactively offers to get your work done through computer use.
+- [ayush5harma/google-photos-backup](https://github.com/ayush5harma/google-photos-backup) - Native Google Photos backup for macOS, Windows and Android, with a currently working unlimited original-quality mode via gpmc. Unofficial; future availability is not guaranteed.
 - [ciscoriordan/storescreens-cli](https://github.com/ciscoriordan/storescreens-cli) - XCUITest screenshot orchestration for iOS and macOS. Simulator setup and raw screenshot collection; Koubou renders and ASC CLI uploads.
 
 ## TeX
@@ -1130,6 +1138,7 @@ A collection of awesome things.
 - [NK2552003/Iconoodle](https://github.com/NK2552003/Iconoodle) - Iconoodle is a small Next.js + TypeScript site and icon library of hand-drawn SVG doodles, illustrations, and icon packs. Use them directly in projects, download individual SVGs or bulk-export packs.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [NeuZhou/repo2skill](https://github.com/NeuZhou/repo2skill) - Convert any GitHub repo into an OpenClaw skill. One command.
+- [Ninkuk/sift](https://github.com/Ninkuk/sift) - Free, open-source desktop tool for cleaning up duplicates in Google Photos Takeout exports. Built with Tauri + React.
 - [OpenClawAndroid/openclaw-android-assistant](https://github.com/OpenClawAndroid/openclaw-android-assistant) - 🦞 AnyClaw — OpenClaw + Codex + Claude Code on Android. Three AI agents in one APK. Claw Code / OpenClaude running in full Linux. No root. No server. No PC.
 - [Poll-The-People/customgpt-starter-kit](https://github.com/Poll-The-People/customgpt-starter-kit) - CustomGPT.ai’s RAG API’s Starter Kit, including multi-instance embedded widgets, floating buttons, and standalone application.
 - [RereBot/web-to-apk](https://github.com/RereBot/web-to-apk) - A powerful tool to quickly convert any website into Android APK applications.
@@ -1184,6 +1193,7 @@ A collection of awesome things.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
+- [jroth1111/chatgpt-web-ui-google-photos](https://github.com/jroth1111/chatgpt-web-ui-google-photos) - Google Photos for ChatGPT web UI: private Sites MCP, encrypted session imports, metadata search and real image previews.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
@@ -1467,6 +1477,7 @@ A collection of awesome things.
 - [thehackingsage/hackdroid](https://github.com/thehackingsage/hackdroid) - Security Apps for Android
 - [thehackingsage/pwnphone](https://github.com/thehackingsage/pwnphone) - DREAM DEVICE FOR HACKERS
 - [thymeflow/thymeflow](https://github.com/thymeflow/thymeflow) - Installer for Thymeflow, a personal knowledge management system.
+- [tiagotrindade/FolioSort](https://github.com/tiagotrindade/FolioSort) - Photo manager for Mac & Windows that works on your existing folders: one library across all your drives, on-device AI search & culling (XMP for Lightroom), Google Takeout repair, duplicate cleanup and verified backups. Nothing uploaded. Pay once.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [topaidirectories/awesome-ai-directories](https://github.com/topaidirectories/awesome-ai-directories) - A comprehensive list of AI directories
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
